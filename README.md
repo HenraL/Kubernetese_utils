@@ -59,3 +59,14 @@ This folder contains scripts that aim to help you to quickly realise a few essen
 ## Author
 
 These series of scripts were created by (c) Henry Letellier
+
+## Disclaimer
+
+These scripts are provided as if and without any warranty.
+Use at your own risk.
+
+The Author cannot be accused for ny damage occurring on your computer.
+
+Crediting the Author `Henry Letellier` is not required but would be appreciated.
+
+The bash scripts have been written in a way that makes it easy to understand and maintain.
