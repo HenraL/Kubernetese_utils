@@ -12,6 +12,50 @@ When you see the variable `SYSTEM_NAME` please check that the targeted packages 
 If your distribution is not dnf/yum based, I reccomend you check the existence/name of the packages that will be downloaded by the scripts.
 The reason is that some of their names may differ from one system to another.
 
+## Running a file
+
+In the folder of the file:
+
+* open a terminal in the folder location
+* run: `chmod +x <your_file>` to apply execution rights
+* run: `./<your_file>` to run the file
+
+## Structure
+
+Folder : install
+
+This folder contains the scripts in charge of installing different dependencies as well as minikube.
+The two main files to run are:
+
+* `install_minikube.sh` [to install minikube]
+* `install_drivers.sh` [to install the third party software that can be required to manage and organise your Kubernetes environement]
+
+Folder: management
+
+This folder is intended to host the scripts you created in order to manage your Kubernetes environement.
+
+Folder: obsolete
+
+This folder is here to contain scripts you wrote that are no longer required but still good to have in hand or are broken.
+
+Folder: remove
+
+This folder contains scripts to allow you to remove the dependencies that were installed by the install scripts in the install folder.
+The two main files are:
+
+* `remove_drivers.sh` [to remove everything except for minikube]
+* `remove_everything.sh` [to remove everything that the install scripts can install]
+
+Folder: start_stop
+
+This folder contains scripts that aim to help you to quickly realise a few essential actions, such as:
+
+* starting a service
+* stopping a service
+* checking the service status
+* enabeling a service
+* disabeling a service
+
 ## Author
 
 These series of scripts were created by (c) Henry Letellier
