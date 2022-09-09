@@ -1,0 +1,2230 @@
+========================= Name & Summary Matched: open =========================
+MUMPS-openmp.i686 : MUMPS libraries with OpenMP support
+MUMPS-openmp.x86_64 : MUMPS libraries with OpenMP support
+MUMPS-openmp-examples.x86_64 : The MUMPS OpenMP common illustrative test programs
+MUMPS-openmpi.i686 : MUMPS libraries compiled against openmpi
+MUMPS-openmpi.x86_64 : MUMPS libraries compiled against openmpi
+MUMPS-openmpi-examples.x86_64 : The MUMPS OpenMPI common illustrative test programs
+MUSIC-openmpi.i686 : MUSIC built with openmpi
+MUSIC-openmpi.x86_64 : MUSIC built with openmpi
+MUSIC-openmpi-devel.i686 : MUSIC built with openmpi
+MUSIC-openmpi-devel.x86_64 : MUSIC built with openmpi
+NetworkManager-openconnect.x86_64 : NetworkManager VPN plugin for openconnect
+NetworkManager-openconnect-gnome.x86_64 : NetworkManager VPN plugin for OpenConnect - GNOME files
+NetworkManager-openvpn.x86_64 : NetworkManager VPN plugin for OpenVPN
+NetworkManager-openvpn-gnome.x86_64 : NetworkManager VPN plugin for OpenVPN - GNOME files
+OpenColorIO-devel.i686 : Development libraries and headers for OpenColorIO
+OpenColorIO-devel.x86_64 : Development libraries and headers for OpenColorIO
+OpenColorIO-doc.noarch : API Documentation for OpenColorIO
+OpenColorIO-tools.x86_64 : Command line tools for OpenColorIO
+OpenEXR-devel.i686 : Headers and libraries for building apps that use OpenEXR
+OpenEXR-devel.x86_64 : Headers and libraries for building apps that use OpenEXR
+OpenEXR-doc.x86_64 : Documentation and examples for building app that use OpenEXR
+OpenEXR-libs.i686 : OpenEXR runtime libraries
+OpenEXR-libs.x86_64 : OpenEXR runtime libraries
+OpenEXR_CTL.x86_64 : A simplified OpenEXR interface to CTL
+OpenEXR_Viewers.x86_64 : Viewers programs for OpenEXR
+OpenEXR_Viewers-docs.x86_64 : Documentation for OpenEXR_Viewers
+OpenEXR_Viewers-nonfree.x86_64 : Viewers programs for OpenEXR
+OpenIPMI-devel.i686 : The development environment for the OpenIPMI project
+OpenIPMI-devel.x86_64 : The development environment for the OpenIPMI project
+OpenIPMI-libs.i686 : The OpenIPMI runtime libraries
+OpenIPMI-libs.x86_64 : The OpenIPMI runtime libraries
+OpenImageIO-devel.i686 : Documentation for OpenImageIO
+OpenImageIO-devel.x86_64 : Documentation for OpenImageIO
+OpenImageIO-iv.i686 : OpenImageIO based image viewer
+OpenImageIO-iv.x86_64 : OpenImageIO based image viewer
+OpenImageIO-plugin-osl.x86_64 : OpenImageIO input plugin
+OpenImageIO-utils.i686 : Command line utilities for OpenImageIO
+OpenImageIO-utils.x86_64 : Command line utilities for OpenImageIO
+OpenLP.noarch : Open source Church presentation and lyrics projection application
+OpenMesh-devel.i686 : Development headers and libraries for OpenMesh
+OpenMesh-devel.x86_64 : Development headers and libraries for OpenMesh
+OpenMesh-doc.noarch : Doxygen documentation for OpenMesh
+OpenMesh-tools.x86_64 : OpenMesh tools
+OpenNL-devel.i686 : Development files for OpenNL
+OpenNL-devel.x86_64 : Development files for OpenNL
+OpenSceneGraph-OpenEXR.x86_64 : OSG OpenEXR plugin
+OpenSceneGraph-devel.i686 : Development files for OpenSceneGraph
+OpenSceneGraph-devel.x86_64 : Development files for OpenSceneGraph
+OpenSceneGraph-examples.x86_64 : Sample applications for OpenSceneGraph
+OpenSceneGraph-libs.i686 : Runtime libraries for OpenSceneGraph
+OpenSceneGraph-libs.x86_64 : Runtime libraries for OpenSceneGraph
+OpenStego-javadoc.noarch : Javadoc generated documentation for Openstego
+OpenThreads.i686 : OpenThreads
+OpenThreads.x86_64 : OpenThreads
+OpenThreads-devel.i686 : Devel files for OpenThreads
+OpenThreads-devel.x86_64 : Devel files for OpenThreads
+R-openssl.x86_64 : Toolkit for Encryption, Signatures and Certificates Based on OpenSSL
+R-xopen.noarch : Open System Files, 'URLs', Anything
+amg4psblas-openmpi.i686 : OpenMPI amg4psblas
+amg4psblas-openmpi.x86_64 : OpenMPI amg4psblas
+anope-openssl.x86_64 : OpenSSL module for Anope IRC services
+ansible-collections-openstack.noarch : Openstack Ansible collections
+ansible-openstack-modules.noarch : Unofficial Ansible modules for managing Openstack
+apr-util-openssl.x86_64 : APR utility library OpenSSL crypto support
+arbor-openmpi.i686 : OpenMPI build for arbor
+arbor-openmpi.x86_64 : OpenMPI build for arbor
+arbor-openmpi-devel.i686 : Development files for arbor-openmpi
+arbor-openmpi-devel.x86_64 : Development files for arbor-openmpi
+auryn-openmpi.i686 : auryn built with openmpi
+auryn-openmpi.x86_64 : auryn built with openmpi
+auryn-openmpi-devel.i686 : Development files for auryn-openmpi
+auryn-openmpi-devel.x86_64 : Development files for auryn-openmpi
+b43-openfwwf.noarch : Open firmware for some Broadcom 43xx series WLAN chips
+binutils-openrisc-linux-gnu.x86_64 : Cross-build binary utilities for openrisc-linux-gnu
+bitmap-console-opentype-fonts.noarch : Selected set of bitmap fonts (opentype version)
+bitmap-fangsongti-opentype-fonts.noarch : Selected CJK bitmap fonts for Anaconda (opentype version)
+bitmap-fixed-opentype-fonts.noarch : Selected set of bitmap fonts (opentype version)
+bitmap-lucida-typewriter-opentype-fonts.noarch : Selected CJK bitmap fonts for Anaconda (opentype version)
+bitmap-opentype-fonts-compat.noarch : Compatibility files of bitmap-font families (opentype version)
+blis-openmp.i686 : BLAS-like Library Instantiation Software Framework - OpenMP
+blis-openmp.x86_64 : BLAS-like Library Instantiation Software Framework - OpenMP
+blis-openmp64.x86_64 : BLAS-like Library Instantiation Software Framework - OpenMP, 64-bit
+bout++-openmpi.i686 : BOUT++ openmpi libraries
+bout++-openmpi.x86_64 : BOUT++ openmpi libraries
+bout++-openmpi-devel.i686 : BOUT++ openmpi libraries
+bout++-openmpi-devel.x86_64 : BOUT++ openmpi libraries
+buildbot-master-openstack.noarch : Build/test automation system master -- OpenStack support
+caja-open-terminal.x86_64 : Mate-file-manager extension for an open terminal shortcut
+cbios-openmsx.noarch : C-BIOS support for openMSX
+clearlooks-phenix-openbox-theme.noarch : Clearlooks-Phenix Openbox themes
+coin-or-Ipopt-openmpi.i686 : Interior Point OPTimizer compiled against openmpi
+coin-or-Ipopt-openmpi.x86_64 : Interior Point OPTimizer compiled against openmpi
+collectd-openldap.x86_64 : OpenLDAP plugin for collectd
+combblas-openmpi-devel.i686 : Development files for combblas-openmpi
+combblas-openmpi-devel.x86_64 : Development files for combblas-openmpi
+compat-golang-github-openzipkin-zipkin-opentracing-devel.noarch : OpenTracing Tracer implementation for Zipkin v1 in Go
+condor-openstack-gahp.x86_64 : HTCondor's OpenStack Gahp
+cp2k-openmpi.x86_64 : Molecular simulations software - openmpi version
+dl_poly-openmpi.x86_64 : General purpose classical molecular dynamics (MD) simulation - openmpi version
+elk-openmpi.x86_64 : elk - openmpi version
+elpa-openmpi.i686 : Fast library for parallel solution of eigenvalue problems (OpenMPI version)
+elpa-openmpi.x86_64 : Fast library for parallel solution of eigenvalue problems (OpenMPI version)
+elpa-openmpi-devel.i686 : Development files for ELPA (OpenMPI version)
+elpa-openmpi-devel.x86_64 : Development files for ELPA (OpenMPI version)
+fawkes-plugin-openni.i686 : Fawkes plugin providing access to OpenNI
+fawkes-plugin-openni.x86_64 : Fawkes plugin providing access to OpenNI
+fawkes-plugin-openni-data.x86_64 : Fawkes plugin for data acquisition using OpenNI
+fawkes-plugin-openni-handtracker.x86_64 : Fawkes plugin to track hands using OpenNI
+fawkes-plugin-openni-usertracker.x86_64 : Fawkes plugin to track humans using OpenNI
+fence-agents-openstack.noarch : Fence agent for OpenStack's Nova service
+fftw-openmpi-devel.i686 : Headers, libraries and docs for the FFTW OpenMPI library
+fftw-openmpi-devel.x86_64 : Headers, libraries and docs for the FFTW OpenMPI library
+fftw-openmpi-libs.i686 : FFTW OpenMPI run-time library
+fftw-openmpi-libs.x86_64 : FFTW OpenMPI run-time library
+fftw-openmpi-libs-double.i686 : FFTW OpenMPI library, double precision
+fftw-openmpi-libs-double.x86_64 : FFTW OpenMPI library, double precision
+fftw-openmpi-libs-long.i686 : FFTW OpenMPI library, long double precision
+fftw-openmpi-libs-long.x86_64 : FFTW OpenMPI library, long double precision
+fftw-openmpi-libs-single.i686 : FFTW OpenMPI library, single precision
+fftw-openmpi-libs-single.x86_64 : FFTW OpenMPI library, single precision
+fftw-openmpi-static.i686 : Static versions of the FFTW OpenMPI libraries
+fftw-openmpi-static.x86_64 : Static versions of the FFTW OpenMPI libraries
+flexiblas-openblas-openmp.x86_64 : FlexiBLAS wrappers for OpenBLAS
+flexiblas-openblas-openmp.i686 : FlexiBLAS wrappers for OpenBLAS
+flexiblas-openblas-openmp64.x86_64 : FlexiBLAS wrappers for OpenBLAS (64-bit)
+flexiblas-openblas-serial.x86_64 : FlexiBLAS wrappers for OpenBLAS
+flexiblas-openblas-serial64.x86_64 : FlexiBLAS wrappers for OpenBLAS (64-bit)
+flexiblas-openblas-threads.x86_64 : FlexiBLAS wrappers for OpenBLAS
+flexiblas-openblas-threads64.x86_64 : FlexiBLAS wrappers for OpenBLAS (64-bit)
+freefem++-openmpi.x86_64 : PDE solving tool - OpenMPI version
+frei0r-plugins-opencv.x86_64 : Frei0r plugins using OpenCV
+ga-openmpi.i686 : Global Arrays Toolkit for OpenMPI
+ga-openmpi.x86_64 : Global Arrays Toolkit for OpenMPI
+ga-openmpi-devel.i686 : Global Arrays Toolkit for OpenMPI Development
+ga-openmpi-devel.x86_64 : Global Arrays Toolkit for OpenMPI Development
+ga-openmpi-static.i686 : Global Arrays Toolkit for OpenMPI Static Libraries
+ga-openmpi-static.x86_64 : Global Arrays Toolkit for OpenMPI Static Libraries
+gambas3-gb-gtk-opengl.x86_64 : Gambas3 component package for gtk-opengl
+gambas3-gb-gtk3-opengl.x86_64 : Gambas3 component package for gtk3-opengl
+gambas3-gb-openal.x86_64 : Gambas3 component package for openal
+gambas3-gb-opengl.x86_64 : Gambas3 component package for opengl
+gambas3-gb-opengl-glsl.x86_64 : Gambas3 component package for opengl-glsl
+gambas3-gb-opengl-glu.x86_64 : Gambas3 component package for opengl-glu
+gambas3-gb-opengl-sge.x86_64 : Gambas3 component package for opengl-sge
+gambas3-gb-openssl.x86_64 : Gambas3 component package for openssl
+gambas3-gb-qt4-opengl.x86_64 : Gambas3 component package for qt4-opengl
+gambas3-gb-qt5-opengl.x86_64 : Gambas3 component package for qt5-opengl
+gap-pkg-openmath.noarch : Import and export of OpenMath objects for GAP
+gap-pkg-openmath-doc.noarch : OpenMath documentation
+gcc-c++-openrisc-linux-gnu.x86_64 : Cross-build binary utilities for openrisc-linux-gnu
+gcc-openrisc-linux-gnu.x86_64 : Cross-build binary utilities for openrisc-linux-gnu
+ghc-HsOpenSSL.x86_64 : Partial OpenSSL binding for Haskell
+ghc-HsOpenSSL-devel.x86_64 : Haskell HsOpenSSL library development files
+ghc-HsOpenSSL-doc.noarch : Haskell HsOpenSSL library documentation
+ghc-HsOpenSSL-prof.x86_64 : Haskell HsOpenSSL profiling library
+ghc-HsOpenSSL-x509-system.x86_64 : Use the system's native CA certificate store with HsOpenSSL
+ghc-HsOpenSSL-x509-system-devel.x86_64 : Haskell HsOpenSSL-x509-system library development files
+ghc-HsOpenSSL-x509-system-doc.noarch : Haskell HsOpenSSL-x509-system library documentation
+ghc-HsOpenSSL-x509-system-prof.x86_64 : Haskell HsOpenSSL-x509-system profiling library
+ghc-OpenGL.x86_64 : A binding for the OpenGL graphics system
+ghc-OpenGL-devel.x86_64 : Haskell OpenGL library development files
+ghc-OpenGL-doc.noarch : Haskell OpenGL library documentation
+ghc-OpenGL-prof.x86_64 : Haskell OpenGL profiling library
+ghc-OpenGLRaw.x86_64 : A raw binding for the OpenGL graphics system
+ghc-OpenGLRaw-devel.x86_64 : Haskell OpenGLRaw library development files
+ghc-OpenGLRaw-doc.noarch : Haskell OpenGLRaw library documentation
+ghc-OpenGLRaw-prof.x86_64 : Haskell OpenGLRaw profiling library
+ghc-http-client-openssl.x86_64 : Http-client backend using the OpenSSL library
+ghc-http-client-openssl-devel.x86_64 : Haskell http-client-openssl library development files
+ghc-http-client-openssl-doc.noarch : Haskell http-client-openssl library documentation
+ghc-http-client-openssl-prof.x86_64 : Haskell http-client-openssl profiling library
+ghc-open-browser.x86_64 : Haskell open-browser library
+ghc-open-browser-devel.x86_64 : Haskell open-browser library development files
+ghc-open-browser-doc.noarch : Haskell open-browser library documentation
+ghc-open-browser-prof.x86_64 : Haskell open-browser profiling library
+ghc-openssl-streams.x86_64 : OpenSSL network support for io-streams
+ghc-openssl-streams-devel.x86_64 : Haskell openssl-streams library development files
+ghc-openssl-streams-doc.noarch : Haskell openssl-streams library documentation
+ghc-openssl-streams-prof.x86_64 : Haskell openssl-streams profiling library
+globus-gsi-openssl-error.i686 : Grid Community Toolkit - Globus OpenSSL Error Handling
+globus-gsi-openssl-error.x86_64 : Grid Community Toolkit - Globus OpenSSL Error Handling
+globus-gsi-openssl-error-devel.i686 : Grid Community Toolkit - Globus OpenSSL Error Handling Development Files
+globus-gsi-openssl-error-devel.x86_64 : Grid Community Toolkit - Globus OpenSSL Error Handling Development Files
+globus-gsi-openssl-error-doc.noarch : Grid Community Toolkit - Globus OpenSSL Error Handling Documentation Files
+globus-openssl-module.i686 : Grid Community Toolkit - Globus OpenSSL Module Wrapper
+globus-openssl-module.x86_64 : Grid Community Toolkit - Globus OpenSSL Module Wrapper
+globus-openssl-module-devel.i686 : Grid Community Toolkit - Globus OpenSSL Module Wrapper Development Files
+globus-openssl-module-devel.x86_64 : Grid Community Toolkit - Globus OpenSSL Module Wrapper Development Files
+globus-openssl-module-doc.noarch : Grid Community Toolkit - Globus OpenSSL Module Wrapper Documentation Files
+globus-xio-popen-driver.i686 : Grid Community Toolkit - Globus XIO Pipe Open Driver
+globus-xio-popen-driver.x86_64 : Grid Community Toolkit - Globus XIO Pipe Open Driver
+globus-xio-popen-driver-devel.i686 : Grid Community Toolkit - Globus XIO Pipe Open Driver Development Files
+globus-xio-popen-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO Pipe Open Driver Development Files
+gmsh-openmpi.i686 : gmsh compiled against openmpi
+gmsh-openmpi.x86_64 : gmsh compiled against openmpi
+gmsh-openmpi-devel.i686 : Development files for gmsh compiled against openmpi
+gmsh-openmpi-devel.x86_64 : Development files for gmsh compiled against openmpi
+gmsh-openmpi-libs.i686 : gmsh libraries compiled against openmpi
+gmsh-openmpi-libs.x86_64 : gmsh libraries compiled against openmpi
+golang-contrib-opencensus-exporter-aws-devel.noarch : OpenCensus Go exporters for AWS
+golang-contrib-opencensus-exporter-ocagent-devel.noarch : OpenCensus Go exporters for OpenCensus Agent
+golang-contrib-opencensus-exporter-stackdriver-devel.noarch : OpenCensus Go exporter for Stackdriver Monitoring and Trace
+golang-contrib-opencensus-integrations-ocsql-devel.noarch : OpenCensus SQL database driver wrapper for Go
+golang-github-akamai-akamaiopen-edgegrid-devel.noarch : Authentication handler for the Akamai OPEN EdgeGrid Authentication scheme
+golang-github-aliyun-openapi-meta-devel.noarch : Alibaba Cloud (Aliyun) OpenAPI Meta Data
+golang-github-census-instrumentation-opencensus-proto-devel.noarch : Language Independent Interface Types For OpenCensus
+golang-github-census-instrumentation-opencensus-proto-devel-0.2.noarch : Language Independent Interface Types For OpenCensus
+golang-github-getkin-kin-openapi-devel.noarch : OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+golang-github-open-policy-agent-opa-devel.noarch : Open source, general-purpose policy engine
+golang-github-openapi-analysis-devel.noarch : Openapi specification object model analyzer
+golang-github-openapi-errors-devel.noarch : Openapi toolkit common errors
+golang-github-openapi-loads-devel.noarch : Openapi specification object model
+golang-github-openapi-runtime-devel.noarch : Openapi runtime interfaces
+golang-github-openapi-runtime-middleware-devel.noarch : Openapi runtime interfaces
+golang-github-openapi-spec-devel.noarch : Openapi specification object model
+golang-github-openapi-strfmt-devel.noarch : Openapi toolkit common string formats
+golang-github-openapi-swag-devel.noarch : Goodie bag in use in the Go-openapi projects
+golang-github-openapi-validate-devel.noarch : Openapi toolkit validation helpers
+golang-github-opencontainers-runtime-spec-devel.noarch : Open Container Initiative Runtime Specification
+golang-github-openshift-online-ocm-sdk-devel.noarch : SDK for the Red Hat OpenShift Cluster Manager
+golang-github-opentracing-basictracer-devel.noarch : Go incarnation of the cross-platform "BasicTracer" reference impl for OpenTracing
+golang-github-opentracing-contrib-grpc-devel.noarch : OpenTracing support for any gRPC client or server
+golang-github-opentracing-contrib-observer-devel.noarch : Observer API for OpenTracing-Go Tracers
+golang-github-opentracing-contrib-stdlib-devel.noarch : OpenTracing instrumentation for packages in the Go stdlib
+golang-github-opentracing-devel.noarch : OpenTracing API for Go
+golang-github-openzipkin-contrib-zipkin-opentracing-devel.noarch : OpenTracing Tracer implementation for Zipkin v1 in Go
+golang-github-skratchdot-open-devel.noarch : Open a file, directory, or URI using the OS's default application
+golang-github-spacemonkeygo-openssl-devel.noarch : OpenSSL bindings for Go
+golang-github-tonistiigi-opentelemetry-contrib-devel.noarch : Collection of extensions for OpenTelemetry-Go
+golang-k8s-kube-openapi.x86_64 : Kubernetes OpenAPI spec generation & serving
+golang-k8s-kube-openapi-devel.noarch : Kubernetes OpenAPI spec generation & serving
+golang-opentelemetry-contrib-0.20-devel.noarch : Collection of extensions for OpenTelemetry-Go
+golang-opentelemetry-contrib-devel.noarch : Collection of extensions for OpenTelemetry-Go
+golang-opentelemetry-otel-0.20-devel.noarch : OpenTelemetry Go API and SDK
+golang-opentelemetry-otel-devel.noarch : OpenTelemetry Go API and SDK
+golang-opentelemetry-proto-0.7-devel.noarch : Generated code for OpenTelemetry protobuf data model
+golang-opentelemetry-proto-devel.noarch : Protobuf definitions for the OpenTelemetry protocol (OTLP)
+gretl-openmpi.x86_64 : Binary openmpi files for gretl
+gromacs-opencl.x86_64 : GROMACS OpenCL kernels
+gromacs-openmpi.x86_64 : GROMACS Open MPI binaries and libraries
+hdf5-openmpi.i686 : HDF5 openmpi libraries
+hdf5-openmpi.x86_64 : HDF5 openmpi libraries
+hdf5-openmpi-devel.i686 : HDF5 openmpi development files
+hdf5-openmpi-devel.x86_64 : HDF5 openmpi development files
+hdf5-openmpi-static.i686 : HDF5 openmpi static libraries
+hdf5-openmpi-static.x86_64 : HDF5 openmpi static libraries
+hfg-gmuend-openmoji-fonts-all.noarch : All the font packages, generated from hfg-gmuend-openmoji-fonts
+hpl-openmpi.x86_64 : HPL compiled against openmpi
+hpx-openmpi.x86_64 : HPX Open MPI libraries
+hpx-openmpi-examples.x86_64 : HPX Open MPI examples
+hugs98-openal.x86_64 : OpenAL package for Hugs98
+hugs98-opengl.x86_64 : OpenGL package for Hugs98
+hypre-openmpi.i686 : High performance matrix preconditioners - openmpi
+hypre-openmpi.x86_64 : High performance matrix preconditioners - openmpi
+hypre-openmpi-devel.i686 : Development files for hypre-openmpi
+hypre-openmpi-devel.x86_64 : Development files for hypre-openmpi
+icc-profiles-openicc.noarch : The OpenICC profiles
+intel-mpi-benchmarks-openmpi.x86_64 : Intel MPI benchmarks compiled against openmpi
+ipsilon-openid.noarch : Openid provider plugin
+ipsilon-openidc.noarch : OpenID Connect provider plugin
+ipsilon-theme-openSUSE.noarch : openSUSE Accounts theme
+java-1.8.0-openjdk.x86_64 : OpenJDK 8 Runtime Environment
+java-1.8.0-openjdk-accessibility.x86_64 : OpenJDK 8 accessibility connector
+java-1.8.0-openjdk-accessibility-fastdebug.x86_64 : OpenJDK 8 accessibility connector for packages with debugging on and optimisation
+java-1.8.0-openjdk-accessibility-slowdebug.x86_64 : OpenJDK 8 accessibility connector for packages with debugging on and no optimisation
+java-1.8.0-openjdk-demo.x86_64 : OpenJDK 8 Demos
+java-1.8.0-openjdk-demo-fastdebug.x86_64 : OpenJDK 8 Demos optimised with full debugging on
+java-1.8.0-openjdk-demo-slowdebug.x86_64 : OpenJDK 8 Demos unoptimised with full debugging on
+java-1.8.0-openjdk-devel.x86_64 : OpenJDK 8 Development Environment
+java-1.8.0-openjdk-devel-fastdebug.x86_64 : OpenJDK 8 Development Environment optimised with full debugging on
+java-1.8.0-openjdk-devel-slowdebug.x86_64 : OpenJDK 8 Development Environment unoptimised with full debugging on
+java-1.8.0-openjdk-fastdebug.x86_64 : OpenJDK 8 Runtime Environment optimised with full debugging on
+java-1.8.0-openjdk-headless.x86_64 : OpenJDK 8 Headless Runtime Environment
+java-1.8.0-openjdk-headless-fastdebug.x86_64 : OpenJDK 8 Runtime Environment optimised with full debugging on
+java-1.8.0-openjdk-headless-slowdebug.x86_64 : OpenJDK 8 Runtime Environment unoptimised with full debugging on
+java-1.8.0-openjdk-javadoc.noarch : OpenJDK 8 API documentation
+java-1.8.0-openjdk-javadoc-zip.noarch : OpenJDK 8 API documentation compressed in a single archive
+java-1.8.0-openjdk-openjfx.x86_64 : OpenJDK x OpenJFX connector. This package adds symliks finishing Java FX integration to java-1.8.0-openjdk
+java-1.8.0-openjdk-openjfx-devel.i686 : OpenJDK x OpenJFX connector for FX developers. This package adds symliks finishing Java FX integration to java-1.8.0-openjdk-devel
+java-1.8.0-openjdk-openjfx-devel.x86_64 : OpenJDK x OpenJFX connector for FX developers. This package adds symliks finishing Java FX integration to java-1.8.0-openjdk-devel
+java-1.8.0-openjdk-openjfx-devel-fastdebug.x86_64 : OpenJDK x OpenJFX connector for FX developers for packages with debugging on and optimisation. This package adds symliks finishing Java FX integration to java-1.8.0-openjdk-devel-slowdebug
+java-1.8.0-openjdk-openjfx-devel-slowdebug.x86_64 : OpenJDK x OpenJFX connector for FX developers for packages with debugging on and no optimisation. This package adds symliks finishing Java FX integration to java-1.8.0-openjdk-devel-slowdebug
+java-1.8.0-openjdk-openjfx-fastdebug.x86_64 : OpenJDK x OpenJFX connector for packages with debugging on and optimisation. his package adds symliks finishing Java FX integration to java-1.8.0-openjdk-fastdebug
+java-1.8.0-openjdk-openjfx-slowdebug.x86_64 : OpenJDK x OpenJFX connector for packages with debugging on and no optimisation. his package adds symliks finishing Java FX integration to java-1.8.0-openjdk-slowdebug
+java-1.8.0-openjdk-slowdebug.x86_64 : OpenJDK 8 Runtime Environment unoptimised with full debugging on
+java-1.8.0-openjdk-src.x86_64 : OpenJDK 8 Source Bundle
+java-1.8.0-openjdk-src-fastdebug.x86_64 : OpenJDK 8 Source Bundle for packages with debugging on and optimisation
+java-1.8.0-openjdk-src-slowdebug.x86_64 : OpenJDK 8 Source Bundle for packages with debugging on and no optimisation
+java-11-openjdk.x86_64 : OpenJDK 11 Runtime Environment
+java-11-openjdk.i686 : OpenJDK 11 Runtime Environment
+java-11-openjdk-demo.x86_64 : OpenJDK 11 Demos
+java-11-openjdk-demo-fastdebug.x86_64 : OpenJDK 11 Demos optimised with full debugging on
+java-11-openjdk-demo-slowdebug.x86_64 : OpenJDK 11 Demos unoptimised with full debugging on
+java-11-openjdk-devel.x86_64 : OpenJDK 11 Development Environment
+java-11-openjdk-devel.i686 : OpenJDK 11 Development Environment
+java-11-openjdk-devel-fastdebug.x86_64 : OpenJDK 11 Development Environment optimised with full debugging on
+java-11-openjdk-devel-slowdebug.x86_64 : OpenJDK 11 Development Environment unoptimised with full debugging on
+java-11-openjdk-fastdebug.x86_64 : OpenJDK 11 Runtime Environment optimised with full debugging on
+java-11-openjdk-headless.x86_64 : OpenJDK 11 Headless Runtime Environment
+java-11-openjdk-headless.i686 : OpenJDK 11 Headless Runtime Environment
+java-11-openjdk-headless-fastdebug.x86_64 : OpenJDK 11 Runtime Environment optimised with full debugging on
+java-11-openjdk-headless-slowdebug.i686 : OpenJDK 11 Runtime Environment unoptimised with full debugging on
+java-11-openjdk-headless-slowdebug.x86_64 : OpenJDK 11 Runtime Environment unoptimised with full debugging on
+java-11-openjdk-javadoc.x86_64 : OpenJDK 11 API documentation
+java-11-openjdk-javadoc-zip.x86_64 : OpenJDK 11 API documentation compressed in a single archive
+java-11-openjdk-jmods.x86_64 : JMods for OpenJDK 11
+java-11-openjdk-jmods-fastdebug.x86_64 : JMods for OpenJDK 11 optimised with full debugging on
+java-11-openjdk-jmods-slowdebug.x86_64 : JMods for OpenJDK 11 unoptimised with full debugging on
+java-11-openjdk-slowdebug.i686 : OpenJDK 11 Runtime Environment unoptimised with full debugging on
+java-11-openjdk-slowdebug.x86_64 : OpenJDK 11 Runtime Environment unoptimised with full debugging on
+java-11-openjdk-src.x86_64 : OpenJDK 11 Source Bundle
+java-11-openjdk-src-fastdebug.x86_64 : OpenJDK 11 Source Bundle for packages with debugging on and optimisation
+java-11-openjdk-src-slowdebug.x86_64 : OpenJDK 11 Source Bundle for packages with debugging on and no optimisation
+java-11-openjdk-static-libs.x86_64 : OpenJDK 11 libraries for static linking
+java-11-openjdk-static-libs-fastdebug.x86_64 : OpenJDK 11 libraries for static linking optimised with full debugging on
+java-11-openjdk-static-libs-slowdebug.x86_64 : OpenJDK 11 libraries for static linking unoptimised with full debugging on
+java-17-openjdk.i686 : OpenJDK 17 Runtime Environment
+java-17-openjdk.x86_64 : OpenJDK 17 Runtime Environment
+java-17-openjdk-demo.x86_64 : OpenJDK 17 Demos
+java-17-openjdk-demo-fastdebug.x86_64 : OpenJDK 17 Demos optimised with full debugging on
+java-17-openjdk-demo-slowdebug.x86_64 : OpenJDK 17 Demos unoptimised with full debugging on
+java-17-openjdk-devel.i686 : OpenJDK 17 Development Environment
+java-17-openjdk-devel.x86_64 : OpenJDK 17 Development Environment
+java-17-openjdk-devel-fastdebug.x86_64 : OpenJDK 17 Development Environment optimised with full debugging on
+java-17-openjdk-devel-slowdebug.x86_64 : OpenJDK 17 Development Environment unoptimised with full debugging on
+java-17-openjdk-fastdebug.x86_64 : OpenJDK 17 Runtime Environment optimised with full debugging on
+java-17-openjdk-headless.i686 : OpenJDK 17 Headless Runtime Environment
+java-17-openjdk-headless.x86_64 : OpenJDK 17 Headless Runtime Environment
+java-17-openjdk-headless-fastdebug.x86_64 : OpenJDK 17 Runtime Environment optimised with full debugging on
+java-17-openjdk-headless-slowdebug.x86_64 : OpenJDK 17 Runtime Environment unoptimised with full debugging on
+java-17-openjdk-javadoc.x86_64 : OpenJDK 17 API documentation
+java-17-openjdk-javadoc-zip.x86_64 : OpenJDK 17 API documentation compressed in a single archive
+java-17-openjdk-jmods.x86_64 : JMods for OpenJDK 17
+java-17-openjdk-jmods-fastdebug.x86_64 : JMods for OpenJDK 17 optimised with full debugging on
+java-17-openjdk-jmods-slowdebug.x86_64 : JMods for OpenJDK 17 unoptimised with full debugging on
+java-17-openjdk-slowdebug.x86_64 : OpenJDK 17 Runtime Environment unoptimised with full debugging on
+java-17-openjdk-src.x86_64 : OpenJDK 17 Source Bundle
+java-17-openjdk-src-fastdebug.x86_64 : OpenJDK 17 Source Bundle for packages with debugging on and optimisation
+java-17-openjdk-src-slowdebug.x86_64 : OpenJDK 17 Source Bundle for packages with debugging on and no optimisation
+java-17-openjdk-static-libs.x86_64 : OpenJDK 17 libraries for static linking
+java-17-openjdk-static-libs-fastdebug.x86_64 : OpenJDK 17 libraries for static linking optimised with full debugging on
+java-17-openjdk-static-libs-slowdebug.x86_64 : OpenJDK 17 libraries for static linking unoptimised with full debugging on
+java-latest-openjdk.i686 : OpenJDK 18 Runtime Environment
+java-latest-openjdk.x86_64 : OpenJDK 18 Runtime Environment
+java-latest-openjdk-demo.x86_64 : OpenJDK 18 Demos
+java-latest-openjdk-demo-fastdebug.x86_64 : OpenJDK 18 Demos optimised with full debugging on
+java-latest-openjdk-demo-slowdebug.x86_64 : OpenJDK 18 Demos unoptimised with full debugging on
+java-latest-openjdk-devel.i686 : OpenJDK 18 Development Environment
+java-latest-openjdk-devel.x86_64 : OpenJDK 18 Development Environment
+java-latest-openjdk-devel-fastdebug.x86_64 : OpenJDK 18 Development Environment optimised with full debugging on
+java-latest-openjdk-devel-slowdebug.x86_64 : OpenJDK 18 Development Environment unoptimised with full debugging on
+java-latest-openjdk-fastdebug.x86_64 : OpenJDK 18 Runtime Environment optimised with full debugging on
+java-latest-openjdk-headless.i686 : OpenJDK 18 Headless Runtime Environment
+java-latest-openjdk-headless.x86_64 : OpenJDK 18 Headless Runtime Environment
+java-latest-openjdk-headless-fastdebug.x86_64 : OpenJDK 18 Runtime Environment optimised with full debugging on
+java-latest-openjdk-headless-slowdebug.x86_64 : OpenJDK 18 Runtime Environment unoptimised with full debugging on
+java-latest-openjdk-javadoc.x86_64 : OpenJDK 18 API documentation
+java-latest-openjdk-javadoc-zip.x86_64 : OpenJDK 18 API documentation compressed in a single archive
+java-latest-openjdk-jmods.x86_64 : JMods for OpenJDK 18
+java-latest-openjdk-jmods-fastdebug.x86_64 : JMods for OpenJDK 18 optimised with full debugging on
+java-latest-openjdk-jmods-slowdebug.x86_64 : JMods for OpenJDK 18 unoptimised with full debugging on
+java-latest-openjdk-slowdebug.x86_64 : OpenJDK 18 Runtime Environment unoptimised with full debugging on
+java-latest-openjdk-src.x86_64 : OpenJDK 18 Source Bundle
+java-latest-openjdk-src-fastdebug.x86_64 : OpenJDK 18 Source Bundle for packages with debugging on and optimisation
+java-latest-openjdk-src-slowdebug.x86_64 : OpenJDK 18 Source Bundle for packages with debugging on and no optimisation
+java-latest-openjdk-static-libs.x86_64 : OpenJDK 18 libraries for static linking
+java-latest-openjdk-static-libs-fastdebug.x86_64 : OpenJDK 18 libraries for static linking optimised with full debugging on
+java-latest-openjdk-static-libs-slowdebug.x86_64 : OpenJDK 18 libraries for static linking unoptimised with full debugging on
+lammps-openmpi.i686 : LAMMPS Open MPI binaries and libraries
+lammps-openmpi.x86_64 : LAMMPS Open MPI binaries and libraries
+lammps-openmpi-devel.i686 : Development libraries for Open MPI LAMMPS
+lammps-openmpi-devel.x86_64 : Development libraries for Open MPI LAMMPS
+libcircle-openmpi.i686 : Libcircle Open MPI libraries
+libcircle-openmpi.x86_64 : Libcircle Open MPI libraries
+libcircle-openmpi-devel.i686 : Development headers and libraries for Open MPI libcircle
+libcircle-openmpi-devel.x86_64 : Development headers and libraries for Open MPI libcircle
+libfreenect-opencv.i686 : OpenCV bindings for libfreenect
+libfreenect-opencv.x86_64 : OpenCV bindings for libfreenect
+libfreenect-openni.x86_64 : OpenNI2 driver for the Kinect
+libglvnd-opengl.x86_64 : OpenGL support for libglvnd
+libglvnd-opengl.i686 : OpenGL support for libglvnd
+libknet1-crypto-openssl-plugin.x86_64 : Provides libknet1 openssl support
+libneurosim-openmpi.i686 : libneurosim built with openmpi
+libneurosim-openmpi.x86_64 : libneurosim built with openmpi
+libneurosim-openmpi-devel.i686 : libneurosim built with openmpi
+libneurosim-openmpi-devel.x86_64 : libneurosim built with openmpi
+libnodeupdown-backend-openib.x86_64 : Openib backend for libnodeupdown
+libopenarc.i686 : An open source ARC library
+libopenarc.x86_64 : An open source ARC library
+libopenarc-devel.i686 : Development files for libopenarc
+libopenarc-devel.x86_64 : Development files for libopenarc
+libopendkim.i686 : An open source DKIM library
+libopendkim.x86_64 : An open source DKIM library
+libopendkim-devel.i686 : Development files for libopendkim
+libopendkim-devel.x86_64 : Development files for libopendkim
+libopendmarc.i686 : An open source DMARC library
+libopendmarc.x86_64 : An open source DMARC library
+libopendmarc-devel.i686 : Development files for libopendmarc
+libopendmarc-devel.x86_64 : Development files for libopendmarc
+libopenmpt-devel.i686 : Development files for the libopenmpt library
+libopenmpt-devel.x86_64 : Development files for the libopenmpt library
+libopenraw-devel.i686 : Development files for libopenraw
+libopenraw-devel.x86_64 : Development files for libopenraw
+libopenraw-gnome.i686 : GUI components of libopenraw
+libopenraw-gnome.x86_64 : GUI components of libopenraw
+libopenraw-gnome-devel.i686 : Development files for libopenraw-gnome
+libopenraw-gnome-devel.x86_64 : Development files for libopenraw-gnome
+libopenshot-audio.x86_64 : Audio library used by OpenShot
+libopenshot-audio-devel.x86_64 : Development files for libopenshot-audio
+libopenshot-devel.x86_64 : Development files for libopenshot
+libopenzwave-devel.i686 : Open-ZWave header files
+libopenzwave-devel.x86_64 : Open-ZWave header files
+libopenzwave-devel-doc.x86_64 : Open-ZWave API documentation files
+lighttpd-mod_openssl.x86_64 : TLS module for lighttpd that uses OpenSSL
+lumina-open.x86_64 : xdg-open style utility for Lumina Desktop
+lxqt-openssh-askpass.x86_64 : Askpass openssh transition dialog for LXQt desktop suite
+lxqt-openssh-askpass-l10n.x86_64 : Translations for lxqt-openssh-askpass
+mathgl-openmpi.i686 : OpenMPI version of mathgl library
+mathgl-openmpi.x86_64 : OpenMPI version of mathgl library
+mathgl-openmpi-devel.i686 : Devel files for OpenMPI version of mathgl library
+mathgl-openmpi-devel.x86_64 : Devel files for OpenMPI version of mathgl library
+mesa-libOpenCL.i686 : Mesa OpenCL runtime library
+mesa-libOpenCL.x86_64 : Mesa OpenCL runtime library
+mesa-libOpenCL-devel.i686 : Mesa OpenCL development package
+mesa-libOpenCL-devel.x86_64 : Mesa OpenCL development package
+mingw32-openal-soft.noarch : MinGW compiled OpenAL Soft library for Win32 target
+mingw32-opencv.noarch : MinGW Windows OpenCV library
+mingw32-opencv-tools.noarch : MinGW Windows OpenCV library tools
+mingw32-openexr.noarch : MinGW Windows openexr library
+mingw32-openexr-tools.noarch : Tools for the MinGW Windows openexr library
+mingw32-openjpeg2.noarch : MinGW Windows openjpeg2 library
+mingw32-openjpeg2-tools.noarch : Tools for the MinGW Windows openjpeg2 library
+mingw32-openssl.noarch : MinGW port of the OpenSSL toolkit
+mingw32-openssl-static.noarch : Static version of the MinGW port of the OpenSSL toolkit
+mingw32-python3-opencv.noarch : MinGW Windows Python3 OpenCV bindings
+mingw64-openal-soft.noarch : MinGW compiled OpenAL Soft library for Win64 target
+mingw64-opencv.noarch : MinGW Windows OpenCV library
+mingw64-opencv-tools.noarch : MinGW Windows OpenCV library tools
+mingw64-openexr.noarch : MinGW Windows openexr library
+mingw64-openexr-tools.noarch : Tools for the MinGW Windows openexr library
+mingw64-openjpeg2.noarch : MinGW Windows openjpeg2 library
+mingw64-openjpeg2-tools.noarch : Tools for the MinGW Windows openjpeg2 library
+mingw64-openssl.noarch : MinGW port of the OpenSSL toolkit
+mingw64-openssl-static.noarch : Static version of the MinGW port of the OpenSSL toolkit
+mingw64-python3-opencv.noarch : MinGW Windows Python3 OpenCV bindings
+mld2p4-openmpi.i686 : OpenMPI mld2p4
+mld2p4-openmpi.x86_64 : OpenMPI mld2p4
+mod_auth_openid.x86_64 : OpenID authentication for apache
+mod_auth_openidc.x86_64 : OpenID Connect auth module for Apache HTTP Server
+mpibash-openmpi.x86_64 : Mpibash Open MPI binaries and libraries
+mpibash-openmpi-examples.x86_64 : Example Scripts for Open MPI mpibash
+nest-openmpi.i686 : nest built with openmpi
+nest-openmpi.x86_64 : nest built with openmpi
+nest-openmpi-common.x86_64 : Common files for nest built with openmpi support
+nest-openmpi-devel.i686 : Development files for nest built with openmpi support
+nest-openmpi-devel.x86_64 : Development files for nest built with openmpi support
+nest-openmpi-headers.x86_64 : Header files for nest built with openmpi support
+netcdf-cxx4-openmpi.i686 : NetCDF openmpi libraries
+netcdf-cxx4-openmpi.x86_64 : NetCDF openmpi libraries
+netcdf-cxx4-openmpi-devel.i686 : NetCDF openmpi development files
+netcdf-cxx4-openmpi-devel.x86_64 : NetCDF openmpi development files
+netcdf-cxx4-openmpi-static.i686 : NetCDF openmpi static libraries
+netcdf-cxx4-openmpi-static.x86_64 : NetCDF openmpi static libraries
+netcdf-fortran-openmpi.i686 : NetCDF Fortran openmpi libraries
+netcdf-fortran-openmpi.x86_64 : NetCDF Fortran openmpi libraries
+netcdf-fortran-openmpi-devel.i686 : NetCDF Fortran openmpi development files
+netcdf-fortran-openmpi-devel.x86_64 : NetCDF Fortran openmpi development files
+netcdf-fortran-openmpi-static.i686 : NetCDF Fortran openmpi static libraries
+netcdf-fortran-openmpi-static.x86_64 : NetCDF Fortran openmpi static libraries
+netcdf-openmpi.i686 : NetCDF openmpi libraries
+netcdf-openmpi.x86_64 : NetCDF openmpi libraries
+netcdf-openmpi-devel.i686 : NetCDF openmpi development files
+netcdf-openmpi-devel.x86_64 : NetCDF openmpi development files
+netcdf-openmpi-static.i686 : NetCDF openmpi static libraries
+netcdf-openmpi-static.x86_64 : NetCDF openmpi static libraries
+netgen-mesher-openmpi.i686 : Netgen compiled against openmpi
+netgen-mesher-openmpi.x86_64 : Netgen compiled against openmpi
+netgen-mesher-openmpi-devel.i686 : Development files for Netgen compiled against openmpi
+netgen-mesher-openmpi-devel.x86_64 : Development files for Netgen compiled against openmpi
+netgen-mesher-openmpi-libs.i686 : Netgen libraries compiled against openmpi
+netgen-mesher-openmpi-libs.x86_64 : Netgen libraries compiled against openmpi
+network-scripts-openvswitch.x86_64 : Open vSwitch legacy network service support
+neuron-openmpi.i686 : neuron built with OpenMPI support
+neuron-openmpi.x86_64 : neuron built with OpenMPI support
+noggin-theme-openSUSE.noarch : openSUSE Accounts theme for Noggin
+nvidia-query-resource-opengl.x86_64 : Querying OpenGL resource usage of applications using the NVIDIA OpenGL driver
+nvidia-query-resource-opengl-lib.i686 : Library for nvidia-query-resource-opengl
+nvidia-query-resource-opengl-lib.x86_64 : Library for nvidia-query-resource-opengl
+nwchem-openmpi.x86_64 : nwchem - openmpi version
+open-amp.i686 : Open Asymmetric Multi Processing (OpenAMP) framework project
+open-amp.x86_64 : Open Asymmetric Multi Processing (OpenAMP) framework project
+open-amp-devel.i686 : Development files for OpenAMP
+open-amp-devel.x86_64 : Development files for OpenAMP
+open-policy-agent.x86_64 : Open source, general-purpose policy engine
+open-sans-fonts.noarch : Open Sans is a humanist sans-serif typeface designed by Steve Matteson
+open-vm-tools.x86_64 : Open Virtual Machine Tools for virtual machines hosted on VMware
+open-vm-tools.i686 : Open Virtual Machine Tools for virtual machines hosted on VMware
+open-vm-tools-desktop.x86_64 : User experience components for Open Virtual Machine Tools
+open-vm-tools-devel.i686 : Development libraries for Open Virtual Machine Tools
+open-vm-tools-devel.x86_64 : Development libraries for Open Virtual Machine Tools
+open-vm-tools-sdmp.x86_64 : Service Discovery components for Open Virtual Machine Tools
+open-vm-tools-test.x86_64 : Test utilities for Open Virtual Machine Tools
+open62541-devel.i686 : Development files for open62541
+open62541-devel.x86_64 : Development files for open62541
+open62541-doc.noarch : Documentation for open62541
+openCOLLADA-devel.i686 : Include files for openCOLLADA development
+openCOLLADA-devel.x86_64 : Include files for openCOLLADA development
+openCOLLADA-doc.noarch : Developer documentation for openCOLLADA
+openal-soft.x86_64 : Open Audio Library
+openal-soft.i686 : Open Audio Library
+openal-soft-devel.x86_64 : Development files for openal-soft
+openal-soft-devel.i686 : Development files for openal-soft
+openal-soft-examples.x86_64 : Sample applications for OpenAl Soft
+openal-soft-qt.x86_64 : Qt frontend for configuring OpenAL Soft
+openambit.x86_64 : Open software for the Suunto Ambit(2)
+openambit-devel.i686 : Development files for openambit
+openambit-devel.x86_64 : Development files for openambit
+openambit-libs.i686 : Libraries for openambit
+openambit-libs.x86_64 : Libraries for openambit
+openarc.x86_64 : An open source library and milter for providing ARC service
+openarena.noarch : Open source first person shooter
+openas2-javadoc.noarch : OpenAS2 API documentation
+openas2-lib.noarch : OpenAS2 core libraries
+openbabel-devel.i686 : Development tools for programs which will use the Open Babel library
+openbabel-devel.x86_64 : Development tools for programs which will use the Open Babel library
+openbabel-doc.noarch : Additional documentation for the Open Babel library
+openbgpd.x86_64 : OpenBGPD Routing Daemon
+openbios.noarch : OpenBIOS implementation of IEEE 1275-1994
+openblas-devel.i686 : Development headers and libraries for OpenBLAS
+openblas-devel.x86_64 : Development headers and libraries for OpenBLAS
+openblas-openmp.x86_64 : An optimized BLAS library based on GotoBLAS2, OpenMP version
+openblas-openmp.i686 : An optimized BLAS library based on GotoBLAS2, OpenMP version
+openblas-openmp64.x86_64 : An optimized BLAS library based on GotoBLAS2, OpenMP version
+openblas-openmp64_.x86_64 : An optimized BLAS library based on GotoBLAS2, OpenMP version
+openblas-srpm-macros.noarch : OpenBLAS architecture macros
+openblas-static.i686 : Static version of OpenBLAS
+openblas-static.x86_64 : Static version of OpenBLAS
+openbox-devel.i686 : Development files for openbox
+openbox-devel.x86_64 : Development files for openbox
+openbox-kde.noarch : KDE integration for openbox
+openbox-libs.i686 : Shared libraries for openbox
+openbox-libs.x86_64 : Shared libraries for openbox
+openbox-theme-mistral-thin.noarch : Mistral Thin theme for Openbox
+openbox-theme-mistral-thin-dark.noarch : Mistral Dark theme for Openbox
+opencascade-devel.i686 : OpenCASCADE CAE platform library development files
+opencascade-devel.x86_64 : OpenCASCADE CAE platform library development files
+opencascade-draw.i686 : OpenCASCADE CAE platform shared libraries
+opencascade-draw.x86_64 : OpenCASCADE CAE platform shared libraries
+opencascade-foundation.i686 : OpenCASCADE CAE platform shared libraries
+opencascade-foundation.x86_64 : OpenCASCADE CAE platform shared libraries
+opencascade-modeling.i686 : OpenCASCADE CAE platform shared libraries
+opencascade-modeling.x86_64 : OpenCASCADE CAE platform shared libraries
+opencascade-ocaf.i686 : OpenCASCADE CAE platform shared libraries
+opencascade-ocaf.x86_64 : OpenCASCADE CAE platform shared libraries
+opencascade-visualization.i686 : OpenCASCADE CAE platform shared libraries
+opencascade-visualization.x86_64 : OpenCASCADE CAE platform shared libraries
+opencc-devel.i686 : Development files for OpenCC
+opencc-devel.x86_64 : Development files for OpenCC
+opencc-doc.x86_64 : Documentation for OpenCC
+opencc-tools.x86_64 : Command line tools for OpenCC
+openchange-client.x86_64 : User tools for OpenChange libraries
+openchange-devel.i686 : Developer tools for OpenChange libraries
+openchange-devel.x86_64 : Developer tools for OpenChange libraries
+openchange-devel-docs.noarch : Developer documentation for OpenChange libraries
+opencity-data.noarch : Data files for opencity
+opencl-filesystem.noarch : OpenCL filesystem layout
+opencl-headers.noarch : OpenCL (Open Computing Language) header files
+opencl-utils.i686 : Useful OpenCL tools and utilities
+opencl-utils.x86_64 : Useful OpenCL tools and utilities
+opencl-utils-devel.i686 : Devel files for OpenCL Utils
+opencl-utils-devel.x86_64 : Devel files for OpenCL Utils
+openconnect.x86_64 : Open client for Cisco AnyConnect VPN, Juniper Network Connect/Pulse, PAN GlobalProtect
+openconnect.i686 : Open client for Cisco AnyConnect VPN, Juniper Network Connect/Pulse, PAN GlobalProtect
+openconnect-devel.i686 : Development package for OpenConnect VPN authentication tools
+openconnect-devel.x86_64 : Development package for OpenConnect VPN authentication tools
+opencore-amr.x86_64 : OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
+opencore-amr.i686 : OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
+opencore-amr-devel.i686 : Development files for opencore-amr
+opencore-amr-devel.x86_64 : Development files for opencore-amr
+opencryptoki-devel.i686 : Development files for openCryptoki
+opencryptoki-devel.x86_64 : Development files for openCryptoki
+opencryptoki-icsftok.x86_64 : ICSF token support for opencryptoki
+opencryptoki-libs.i686 : The run-time libraries for opencryptoki package
+opencryptoki-libs.x86_64 : The run-time libraries for opencryptoki package
+opencryptoki-swtok.x86_64 : The software token implementation for opencryptoki
+opencsd.i686 : An open source CoreSight(tm) Trace Decode library
+opencsd.x86_64 : An open source CoreSight(tm) Trace Decode library
+opencsg.i686 : Library for Constructive Solid Geometry using OpenGL
+opencsg.x86_64 : Library for Constructive Solid Geometry using OpenGL
+opencsg-devel.i686 : OpenCSG development files
+opencsg-devel.x86_64 : OpenCSG development files
+opencv-contrib.i686 : OpenCV contributed functionality
+opencv-contrib.x86_64 : OpenCV contributed functionality
+opencv-core.i686 : OpenCV core libraries
+opencv-core.x86_64 : OpenCV core libraries
+opencv-devel.i686 : Development files for using the OpenCV library
+opencv-devel.x86_64 : Development files for using the OpenCV library
+opencv-java.x86_64 : Java bindings for apps which use OpenCV
+opendbx-devel.i686 : Development files for opendbx
+opendbx-devel.x86_64 : Development files for opendbx
+opendbx-firebird.x86_64 : Firebird backend - provides firebird support in opendbx
+opendbx-mssql.x86_64 : MSSQL backend - provides mssql support in opendbx
+opendbx-mysql.x86_64 : MySQL backend - provides mysql support in opendbx
+opendbx-postgresql.x86_64 : PostgreSQL backend - provides postgresql support in opendbx
+opendbx-sqlite.x86_64 : SQLite 3 backend - provides sqlite3 support in opendbx
+opendbx-sqlite2.x86_64 : SQLite 2 backend - provides sqlite2 support in opendbx
+opendbx-sybase.x86_64 : Sybase backend - provides sybase support in opendbx
+opendbx-utils.x86_64 : Utility binaries for opendbx
+opendoas.x86_64 : Portable fork of the OpenBSDs doas command
+openelp.i686 : Open Source EchoLink Proxy
+openelp.x86_64 : Open Source EchoLink Proxy
+openelp-devel.i686 : Development files for OpenELP
+openelp-devel.x86_64 : Development files for OpenELP
+openexr-devel.i686 : Development files for openexr
+openexr-devel.x86_64 : Development files for openexr
+openexr-libs.i686 : OpenEXR Libraries
+openexr-libs.x86_64 : OpenEXR Libraries
+openfst-devel.i686 : Development files for OpenFst
+openfst-devel.x86_64 : Development files for OpenFst
+opengrm-ngram-devel.i686 : Development files for OpenGrm NGram
+opengrm-ngram-devel.x86_64 : Development files for OpenGrm NGram
+openh264-devel.x86_64 : Development files for openh264
+openhpi-devel.i686 : The development environment for the OpenHPI project
+openhpi-devel.x86_64 : The development environment for the OpenHPI project
+openhpi-libs.i686 : The system libraries for the OpenHPI project
+openhpi-libs.x86_64 : The system libraries for the OpenHPI project
+openhpi-selinux.noarch : openhpi SELinux policy
+openhpi-subagent.x86_64 : NetSNMP subagent for OpenHPI
+openigtlink.i686 : Implementation of the OpenIGTLink network communication protocol
+openigtlink.x86_64 : Implementation of the OpenIGTLink network communication protocol
+openigtlink-devel.i686 : OpenIGTLink development files
+openigtlink-devel.x86_64 : OpenIGTLink development files
+openjdk-asmtools-javadoc.noarch : Javadoc for openjdk-asmtools
+openjfx-devel.x86_64 : OpenJFX development tools and libraries
+openjfx8-devel.x86_64 : OpenJFX development tools and libraries
+openjfx8-javadoc.x86_64 : Javadoc for openjfx8
+openjfx8-src.x86_64 : OpenJFX Source Bundle
+openjpeg-devel.i686 : Development files for openjpeg
+openjpeg-devel.x86_64 : Development files for openjpeg
+openjpeg2-devel.i686 : Development files for OpenJPEG 2
+openjpeg2-devel.x86_64 : Development files for OpenJPEG 2
+openjpeg2-devel-docs.noarch : Developer documentation for OpenJPEG 2
+openjpeg2-tools.i686 : OpenJPEG 2 command line tools
+openjpeg2-tools.x86_64 : OpenJPEG 2 command line tools
+openkim-models.x86_64 : Open Knowledgebase of Interatomic Models
+openlibm.i686 : High quality system independent, open source libm
+openlibm.x86_64 : High quality system independent, open source libm
+openlibm-devel.i686 : High quality system independent, open source libm
+openlibm-devel.x86_64 : High quality system independent, open source libm
+openmeeg-devel.i686 : Development files for openmeeg
+openmeeg-devel.x86_64 : Development files for openmeeg
+openmeeg-doc.noarch : Documentation files for OpenMEEG
+openmpi.i686 : Open Message Passing Interface
+openmpi.x86_64 : Open Message Passing Interface
+openmpi-devel.i686 : Development files for openmpi
+openmpi-devel.x86_64 : Development files for openmpi
+openmpi-java-devel.i686 : Java development files for openmpi
+openmpi-java-devel.x86_64 : Java development files for openmpi
+openmpt123.x86_64 : Command-line tracker music player based on libopenmpt
+openms-data.i686 : The OpenMS data files
+openms-data.x86_64 : The OpenMS data files
+openms-devel.i686 : OpenMS header files
+openms-devel.x86_64 : OpenMS header files
+openms-doc.x86_64 : OpenMS documentation
+openms-tools.x86_64 : OpenMS tools
+openmsx-catapult.x86_64 : Graphical front-end for openMSX
+openni-devel.i686 : Development files for openni
+openni-devel.x86_64 : Development files for openni
+openni-doc.noarch : API documentation for openni
+openni-examples.x86_64 : Sample programs for openni
+openni-java.x86_64 : openni Java library
+openni-nite.x86_64 : OpenNI-based toolbox for hand movement tracking
+openni-nite-devel.x86_64 : Development files for openni-nite
+openni-nite-examples.x86_64 : Sample programs for openni-nite
+openni-primesense.x86_64 : PrimeSensor/Kinect Modules for OpenNI
+openosc.i686 : Open Object Size Check Library
+openosc.x86_64 : Open Object Size Check Library
+openosc-devel.i686 : The OpenOSC development package
+openosc-devel.x86_64 : The OpenOSC development package
+openosc-static.i686 : The OpenOSC static library package
+openosc-static.x86_64 : The OpenOSC static library package
+openosc-tools.x86_64 : The OpenOSC tools package
+openpgm-devel.i686 : Development files for openpgm
+openpgm-devel.x86_64 : Development files for openpgm
+openqa-bootstrap.noarch : Automated openQA setup
+openqa-client.noarch : Client tools for remote openQA management
+openqa-common.noarch : Common components for openQA server and workers
+openqa-doc.noarch : The openQA documentation
+openqa-httpd.noarch : openQA httpd (Apache) integration
+openqa-plugin-fedora-messaging.noarch : openQA plugin for publishing to fedora-messaging
+openqa-plugin-fedoraupdaterestart.noarch : openQA plugin for restarting failed Fedora update tests
+openqa-worker.noarch : The openQA worker
+openrgb.x86_64 : Open source RGB lighting control
+openrgb-udev-rules.noarch : Udev rules for openrgb
+openscad-MCAD.noarch : OpenSCAD Parametric CAD Library
+openscap.i686 : Set of open source libraries enabling integration of the SCAP line of standards
+openscap.x86_64 : Set of open source libraries enabling integration of the SCAP line of standards
+openscap-devel.i686 : Development files for openscap
+openscap-devel.x86_64 : Development files for openscap
+openscap-engine-sce.i686 : Script Check Engine plug-in for OpenSCAP
+openscap-engine-sce.x86_64 : Script Check Engine plug-in for OpenSCAP
+openscap-engine-sce-devel.i686 : Development files for openscap-engine-sce
+openscap-engine-sce-devel.x86_64 : Development files for openscap-engine-sce
+openscap-python3.x86_64 : Python 3 bindings for openscap
+openscap-scanner.x86_64 : OpenSCAP Scanner Tool (oscap)
+openscap-utils.x86_64 : OpenSCAP Utilities
+openshadinglanguage-devel.x86_64 : Development files for openshadinglanguage
+openshadinglanguage-doc.noarch : Documentation for OpenShadingLanguage
+openshadinglanguage-libs.x86_64 : OpenShadingLanguage's libraries
+openshot-lang.noarch : Additional languages for OpenShot
+opensips.x86_64 : Open Source SIP Server
+opensips-db_mysql.x86_64 : MySQL storage support for OpenSIPS
+opensips-db_postgresql.x86_64 : PostgreSQL storage support for OpenSIPS
+opensips-db_sqlite.x86_64 : SQLite sorage support for OpenSIPS
+opensips-db_unixodbc.x86_64 : OpenSIPS unixODBC Storage support
+opensips-jabber.x86_64 : Gateway between OpenSIPS and a jabber server
+opensips-lua.x86_64 : Helps implement your own OpenSIPS extensions in Lua
+opensips-perl.x86_64 : Helps implement your own OpenSIPS extensions in Perl
+opensips-pi_http.x86_64 : A HTTP provisioning interface for OpenSIPS
+opensips-rest_client.x86_64 : HTTP client module for OpenSIPS
+opensips-snmpstats.x86_64 : SNMP management interface for the OpenSIPS
+opensips-xmpp.x86_64 : Gateway between OpenSIPS and a jabber server
+openslide-devel.i686 : Development files for openslide
+openslide-devel.x86_64 : Development files for openslide
+openslide-tools.x86_64 : Command line tools for openslide
+openslp.i686 : Open implementation of Service Location Protocol V2
+openslp.x86_64 : Open implementation of Service Location Protocol V2
+openslp-devel.i686 : OpenSLP headers and libraries
+openslp-devel.x86_64 : OpenSLP headers and libraries
+openslp-server.x86_64 : OpenSLP server daemon
+opensm.x86_64 : OpenIB InfiniBand Subnet Manager and management utilities
+opensm-devel.i686 : Development files for the opensm-libs libraries
+opensm-devel.x86_64 : Development files for the opensm-libs libraries
+opensm-libs.i686 : Libraries used by opensm and included utilities
+opensm-libs.x86_64 : Libraries used by opensm and included utilities
+opensm-static.i686 : Static version of the opensm libraries
+opensm-static.x86_64 : Static version of the opensm libraries
+opensp-devel.i686 : Files for developing applications that use OpenSP
+opensp-devel.x86_64 : Files for developing applications that use OpenSP
+openssh.x86_64 : An open source implementation of SSH protocol version 2
+openssh-askpass.x86_64 : A passphrase dialog for OpenSSH and X
+openssh-clients.x86_64 : An open source SSH client applications
+openssh-keycat.x86_64 : A mls keycat backend for openssh
+openssh-server.x86_64 : An open source SSH server daemon
+openssl-devel.x86_64 : Files for development of applications which will use OpenSSL
+openssl-devel.i686 : Files for development of applications which will use OpenSSL
+openssl-gost-engine.x86_64 : A reference implementation of the Russian GOST crypto algorithms for OpenSSL
+openssl-ibmpkcs11.x86_64 : IBM OpenSSL PKCS#11 engine
+openssl-perl.x86_64 : Perl scripts provided with OpenSSL
+openssl-pkcs11.x86_64 : A PKCS#11 engine for use with OpenSSL
+openssl-pkcs11.i686 : A PKCS#11 engine for use with OpenSSL
+openssl-static.i686 : Libraries for static linking of applications which will use OpenSSL
+openssl-static.x86_64 : Libraries for static linking of applications which will use OpenSSL
+openssl1.1.i686 : Compatibility version of the OpenSSL library
+openssl1.1.x86_64 : Compatibility version of the OpenSSL library
+openssl1.1-devel.i686 : Files for development of applications which will use OpenSSL
+openssl1.1-devel.x86_64 : Files for development of applications which will use OpenSSL
+openstack-java-ceilometer-client.noarch : OpenStack Java Ceilometer Client
+openstack-java-ceilometer-model.noarch : OpenStack Java Ceilometer Model
+openstack-java-cinder-client.noarch : OpenStack Java Cinder Client
+openstack-java-cinder-model.noarch : OpenStack Java Cinder Model
+openstack-java-client.noarch : OpenStack Java Client
+openstack-java-glance-client.noarch : OpenStack Java Glance Client
+openstack-java-glance-model.noarch : OpenStack Java Glance Model
+openstack-java-heat-client.noarch : OpenStack Java Heat Client
+openstack-java-heat-model.noarch : OpenStack Java Heat Model
+openstack-java-keystone-client.noarch : OpenStack Java Keystone Client
+openstack-java-keystone-model.noarch : OpenStack Java Keystone Model
+openstack-java-nova-client.noarch : OpenStack Java Nova Client
+openstack-java-nova-model.noarch : OpenStack Java Nova Model
+openstack-java-quantum-client.noarch : OpenStack Java Quantum Client
+openstack-java-quantum-model.noarch : OpenStack Java Quantum Model
+openstack-java-resteasy-connector.noarch : OpenStack Java RESTEasy Connector
+openstack-java-sdk-javadoc.noarch : API documentation for openstack-java-sdk
+openstack-java-swift-client.noarch : OpenStack Java Swift Client
+openstack-java-swift-model.noarch : OpenStack Java Swift Model
+opensubdiv-devel.i686 : Development files for opensubdiv
+opensubdiv-devel.x86_64 : Development files for opensubdiv
+opensubdiv-libs.i686 : Core OpenSubdiv libraries
+opensubdiv-libs.x86_64 : Core OpenSubdiv libraries
+opensurge-data.noarch : Data files for opensurge
+opentest4j.noarch : Open Test Alliance for the JVM
+opentest4j-javadoc.noarch : Javadoc for opentest4j
+opentrep-devel.i686 : Header files, libraries and development helper tools for opentrep
+opentrep-devel.x86_64 : Header files, libraries and development helper tools for opentrep
+opentrep-doc.noarch : HTML documentation for the opentrep library
+openttd-docs.noarch : Documentation for OpenTTD
+openttd-opengfx.noarch : OpenGFX replacement graphics for OpenTTD
+opentype-sanitizer.x86_64 : Parses and serializes OpenType/WOFF/WOFF2 font files
+openvas-gsa.x86_64 : Greenbone Security Assistant (GSA) is GUI to the OpenVAS
+openvas-gsa-doc.x86_64 : Development documentation for openvas-gsa
+openvas-libraries.i686 : Support libraries for Greenbone Vulnerability Management Solution and OpenVAS
+openvas-libraries.x86_64 : Support libraries for Greenbone Vulnerability Management Solution and OpenVAS
+openvas-libraries-devel.i686 : Development files for openvas-libraries
+openvas-libraries-devel.x86_64 : Development files for openvas-libraries
+openvas-libraries-doc.x86_64 : Documentation for openvas-libraries
+openvas-manager.i686 : Manager Module for the Open Vulnerability Assessment System (OpenVAS)
+openvas-manager.x86_64 : Manager Module for the Open Vulnerability Assessment System (OpenVAS)
+openvas-manager-doc.x86_64 : Development documentation for openvas-manager
+openvas-scanner.i686 : Open Vulnerability Assessment (OpenVAS) Scanner
+openvas-scanner.x86_64 : Open Vulnerability Assessment (OpenVAS) Scanner
+openvas-scanner-doc.x86_64 : Development documentation for openvas-scanner
+openvdb-devel.i686 : Development files for openvdb
+openvdb-devel.x86_64 : Development files for openvdb
+openvdb-libs.i686 : Core OpenVDB libraries
+openvdb-libs.x86_64 : Core OpenVDB libraries
+openvpn-auth-ldap.x86_64 : OpenVPN plugin for LDAP authentication
+openvpn-devel.i686 : Development headers and examples for OpenVPN plug-ins
+openvpn-devel.x86_64 : Development headers and examples for OpenVPN plug-ins
+openvswitch.i686 : Open vSwitch daemon/database/utilities
+openvswitch.x86_64 : Open vSwitch daemon/database/utilities
+openvswitch-devel.i686 : Open vSwitch OpenFlow development package (library, headers)
+openvswitch-devel.x86_64 : Open vSwitch OpenFlow development package (library, headers)
+openvswitch-ipsec.x86_64 : Open vSwitch IPsec tunneling support
+openvswitch-test.noarch : Open vSwitch testing utilities
+openwsman-client.i686 : Openwsman Client libraries
+openwsman-client.x86_64 : Openwsman Client libraries
+openwsman-perl.x86_64 : Perl bindings for openwsman client API
+openwsman-python3.x86_64 : Python bindings for openwsman client API
+openwsman-server.i686 : Openwsman Server and service libraries
+openwsman-server.x86_64 : Openwsman Server and service libraries
+openxr-devel.i686 : Headers and development files of the OpenXR library
+openxr-devel.x86_64 : Headers and development files of the OpenXR library
+openzwave.x86_64 : Sample Executables for OpenZWave
+orsa-openmpi.i686 : A build of orsa with support for OpenMPI
+orsa-openmpi.x86_64 : A build of orsa with support for OpenMPI
+orsa-openmpi-devel.i686 : Development files for orsa build with support for OpenMPI
+orsa-openmpi-devel.x86_64 : Development files for orsa build with support for OpenMPI
+os-autoinst-openvswitch.x86_64 : Open vSwitch support for os-autoinst
+paraview-openmpi-devel.i686 : Development files for paraview-openmpi
+paraview-openmpi-devel.x86_64 : Development files for paraview-openmpi
+pcp-pmda-openmetrics.x86_64 : Performance Co-Pilot (PCP) metrics from OpenMetrics endpoints
+pcp-pmda-openvswitch.x86_64 : Performance Co-Pilot (PCP) metrics for Open vSwitch
+perl-Browser-Open.noarch : Open a browser in a given URL
+perl-Crypt-OpenSSL-AES.x86_64 : Perl interface to OpenSSL for AES
+perl-Crypt-OpenSSL-Bignum.x86_64 : Perl interface to OpenSSL for Bignum
+perl-Crypt-OpenSSL-DSA.x86_64 : Perl interface to OpenSSL for DSA
+perl-Crypt-OpenSSL-EC.x86_64 : Perl extension for OpenSSL EC (Elliptic Curves) library
+perl-Crypt-OpenSSL-ECDSA.x86_64 : Perl extension for OpenSSL ECDSA (Elliptic Curve Digital Signature Algorithm)
+perl-Crypt-OpenSSL-ECDSA-tests.noarch : Tests for perl-Crypt-OpenSSL-ECDSA
+perl-Crypt-OpenSSL-Guess.noarch : Guess OpenSSL include path
+perl-Crypt-OpenSSL-Guess-tests.noarch : Tests for perl-Crypt-OpenSSL-Guess
+perl-Crypt-OpenSSL-PKCS10.x86_64 : Perl interface to OpenSSL for PKCS10
+perl-Crypt-OpenSSL-RSA.x86_64 : Perl interface to OpenSSL for RSA
+perl-Crypt-OpenSSL-Random.x86_64 : OpenSSL/LibreSSL pseudo-random number generator access
+perl-Crypt-OpenSSL-X509.x86_64 : Perl interface to OpenSSL for X509
+perl-IPC-Open3.noarch : Open a process for reading, writing, and error handling
+perl-Mojolicious-Plugin-OpenAPI.noarch : OpenAPI / Swagger plugin for Mojolicious
+perl-Net-OpenID-Common.noarch : Libraries shared between Net::OpenID::Consumer and Net::OpenID::Server
+perl-Net-OpenID-Consumer.noarch : Library for consumers of OpenID identities
+perl-Net-OpenID-Server.noarch : Library for building your own OpenID server/provider
+perl-Net-OpenSSH.noarch : Perl SSH client package implemented on top of OpenSSH
+perl-OpenGL.x86_64 : Perl OpenGL bindings
+perl-OpenOffice-UNO.x86_64 : Interface to OpenOffice's UNO run-time
+perl-SGML-Parser-OpenSP.x86_64 : Perl interface to the OpenSP SGML and XML parser
+perl-openbabel.x86_64 : Perl wrapper for the Open Babel library
+petsc-openmpi.i686 : Portable Extensible Toolkit for Scientific Computation (OpenMPI)
+petsc-openmpi.x86_64 : Portable Extensible Toolkit for Scientific Computation (OpenMPI)
+petsc-openmpi-devel.i686 : Portable Extensible Toolkit for Scientific Computation (OpenMPI)
+petsc-openmpi-devel.x86_64 : Portable Extensible Toolkit for Scientific Computation (OpenMPI)
+php-akamai-open-edgegrid-auth.noarch : Implements the Akamai {OPEN} EdgeGrid Authentication
+php-akamai-open-edgegrid-client.noarch : Implements the Akamai {OPEN} EdgeGrid Authentication
+php-horde-Horde-OpenXchange.noarch : Open-Xchange Connector
+php-opencloud-openstack.noarch : PHP SDK for OpenStack clouds
+php-opencloud-openstack-doc.noarch : Documentation for PHP SDK for OpenStack clouds
+plasma-nm-openconnect.i686 : OpenConnect support for plasma-nm
+plasma-nm-openconnect.x86_64 : OpenConnect support for plasma-nm
+plasma-nm-openswan.i686 : Openswan support for plasma-nm
+plasma-nm-openswan.x86_64 : Openswan support for plasma-nm
+plasma-nm-openvpn.i686 : OpenVPN support for plasma-nm
+plasma-nm-openvpn.x86_64 : OpenVPN support for plasma-nm
+psblas3-openmpi.i686 : OpenMPI psblas3
+psblas3-openmpi.x86_64 : OpenMPI psblas3
+psblas3-openmpi-devel.i686 : The OpenMPI psblas3 headers and development-related files
+psblas3-openmpi-devel.x86_64 : The OpenMPI psblas3 headers and development-related files
+ptscotch-openmpi.i686 : PT-Scotch libraries compiled against openmpi
+ptscotch-openmpi.x86_64 : PT-Scotch libraries compiled against openmpi
+ptscotch-openmpi-devel.i686 : Development libraries for PT-Scotch (openmpi)
+ptscotch-openmpi-devel.x86_64 : Development libraries for PT-Scotch (openmpi)
+pyOpenSSL-doc.noarch : Documentation for pyOpenSSL
+python-opencensus-doc.noarch : Documentation for python-opencensus
+python-openshift-doc.noarch : Documentation for python-openshift.
+python-openstackclient-doc.noarch : Documentation for OpenStack Command-line Client
+python-openstackclient-lang.noarch : Translation files for Openstackclient
+python-openstackdocstheme-doc.noarch : openstackdocstheme documentation
+python-opentelemetry-doc.noarch : Documentation for python-opentelemetry
+python-opentracing-doc.noarch : OpenTracing interface for Python - HTML documentation
+python3-MUSIC-openmpi.x86_64 : Python3 support for MUSIC built with openmpi
+python3-aioopenssl.noarch : TLS-capable transport using OpenSSL for asyncio
+python3-bout++-openmpi.x86_64 : BOUT++ openmpi library for python3
+python3-flask-openid.noarch : OpenID support for Flask
+python3-gpaw-openmpi.x86_64 : python3-gpaw - openmpi version
+python3-h5py-openmpi.x86_64 : A Python interface to the HDF5 library using OpenMPI
+python3-libopenshot.x86_64 : Python bindings for libopenshot
+python3-mpi4py-openmpi.x86_64 : Python 3.9 bindings of MPI, Open MPI version
+python3-nest-openmpi.x86_64 : Python3 bindings for nest with openmpi support
+python3-netgen-mesher-openmpi.x86_64 : Python3 interface for netgen compiled against openmpi
+python3-neuron-openmpi.x86_64 : Python3 interface to neuron-openmpi
+python3-openbabel.x86_64 : Python wrapper for the Open Babel library
+python3-opencensus-context.noarch : OpenCensus Runtime Context
+python3-opencensus-ext-azure.noarch : OpenCensus Azure Monitor Exporters
+python3-opencensus-ext-datadog.noarch : OpenCensus Datadog Exporter
+python3-opencensus-ext-dbapi.noarch : OpenCensus Database API Integration
+python3-opencensus-ext-django.noarch : OpenCensus Django Integration
+python3-opencensus-ext-flask.noarch : OpenCensus Flask Integration
+python3-opencensus-ext-gevent.noarch : OpenCensus gevent helper
+python3-opencensus-ext-grpc.noarch : OpenCensus gRPC Integration
+python3-opencensus-ext-httplib.noarch : OpenCensus httplib Integration
+python3-opencensus-ext-jaeger.noarch : OpenCensus Jaeger Exporter
+python3-opencensus-ext-logging.noarch : OpenCensus logging Integration
+python3-opencensus-ext-mysql.noarch : OpenCensus MySQL Integration
+python3-opencensus-ext-ocagent.noarch : OpenCensus OC-Agent Exporter
+python3-opencensus-ext-postgresql.noarch : OpenCensus PostgreSQL Integration
+python3-opencensus-ext-prometheus.noarch : OpenCensus Prometheus Exporter
+python3-opencensus-ext-pymongo.noarch : OpenCensus pymongo Integration
+python3-opencensus-ext-pymysql.noarch : OpenCensus PyMySQL Integration
+python3-opencensus-ext-pyramid.noarch : OpenCensus Pyramid Integration
+python3-opencensus-ext-requests.noarch : OpenCensus requests Integration
+python3-opencensus-ext-sqlalchemy.noarch : OpenCensus SQLAlchemy Integration
+python3-opencensus-ext-threading.noarch : OpenCensus threading Integration
+python3-opencensus-ext-zipkin.noarch : OpenCensus Zipkin Exporter
+python3-opencensus-proto.noarch : Python library generated from OpenCensus cross-language protos
+python3-opencv.x86_64 : Python3 bindings for apps which use OpenCV
+python3-opendata-transport.noarch : Python client for interacting with transport.opendata.ch
+python3-openexr.i686 : Python 3 binding for OpenEXR
+python3-openexr.x86_64 : Python 3 binding for OpenEXR
+python3-openid.noarch : Python 3 port of the python-openid library
+python3-openid-cla.noarch : OpenID support for Flask
+python3-openid-teams.noarch : OpenID support for Flask
+python3-openidc-client.noarch : Python OpenID Connect client with token caching and management
+python3-openimageio.x86_64 : Python 3 bindings for OpenImageIO
+python3-openmeeg.x86_64 : OpenMEEG binding for Python3
+python3-openmpi.i686 : OpenMPI support for Python 3
+python3-openmpi.x86_64 : OpenMPI support for Python 3
+python3-openms.x86_64 : Python wrapper for OpenMS
+python3-openpaperwork-core.noarch : OpenPaperwork's core
+python3-openpaperwork-gtk.noarch : OpenPaperwork GTK plugins
+python3-openqa_client.noarch : Python client library for openQA API
+python3-opensensemap-api.noarch : Python Client for interacting with the openSenseMap API
+python3-openshadinglanguage.x86_64 : Development files for openshadinglanguage
+python3-openshift.noarch : Python client for the OpenShift API
+python3-openslide.x86_64 : Python 3 bindings for the OpenSlide library
+python3-openstackclient.noarch : OpenStack Command-line Client
+python3-openstackdocstheme.noarch : OpenStack Docs Theme
+python3-openstacksdk.noarch : An SDK for building applications to work with OpenStack
+python3-openstacksdk-tests.noarch : An SDK for building applications to work with OpenStack - test files
+python3-opentelemetry-api.noarch : OpenTelemetry Python API
+python3-opentelemetry-auto-instrumentation.noarch : OpenTelemetry Auto Instrumentation
+python3-opentelemetry-ext-aiohttp-client.noarch : OpenTelemetry aiohttp client Integration
+python3-opentelemetry-ext-asgi.noarch : OpenTelemetry ASGI Middleware
+python3-opentelemetry-ext-dbapi.noarch : OpenTelemetry Database API integration
+python3-opentelemetry-ext-django.noarch : OpenTelemetry Django Tracing
+python3-opentelemetry-ext-flask.noarch : OpenTelemetry Flask Tracing
+python3-opentelemetry-ext-grpc.noarch : OpenTelemetry gRPC Integration
+python3-opentelemetry-ext-jaeger.noarch : OpenTelemetry Jaeger Exporter
+python3-opentelemetry-ext-jinja2.noarch : OpenTelemetry jinja2 integration
+python3-opentelemetry-ext-mysql.noarch : OpenTelemetry MySQL Integration
+python3-opentelemetry-ext-opencensusexporter.noarch : OpenCensus Exporter
+python3-opentelemetry-ext-prometheus.noarch : OpenTelemetry Prometheus Exporter
+python3-opentelemetry-ext-psycopg2.noarch : OpenTelemetry Psycopg Integration
+python3-opentelemetry-ext-pymongo.noarch : OpenTelemetry pymongo Integration
+python3-opentelemetry-ext-pymysql.noarch : OpenTelemetry PyMySQL integration
+python3-opentelemetry-ext-redis.noarch : OpenTelemetry Redis Instrumentation
+python3-opentelemetry-ext-requests.noarch : OpenTelemetry requests Integration
+python3-opentelemetry-ext-sqlalchemy.noarch : OpenTelemetry SQLAlchemy Tracing
+python3-opentelemetry-ext-sqlite3.noarch : OpenTelemetry SQLite3 Integration
+python3-opentelemetry-ext-wsgi.noarch : OpenTelemetry WSGI Middleware
+python3-opentelemetry-ext-zipkin.noarch : OpenTelemetry Zipkin Exporter
+python3-opentelemetry-sdk.noarch : OpenTelemetry Python SDK
+python3-opentracing.noarch : OpenTracing interface for Python
+python3-opentrep.x86_64 : Python bindings for opentrep
+python3-openvdb.x86_64 : OpenVDB Python module
+python3-openvswitch.x86_64 : Open vSwitch python3 bindings
+python3-petsc-openmpi.x86_64 : Python3 bindings for OpenMPI PETSc
+python3-pyOpenSSL.noarch : Python 3 wrapper module around the OpenSSL library
+python3-pyopencl.x86_64 : Python 3 wrapper for OpenCL
+python3-pyopengl.x86_64 : Python 3 bindings for OpenGL
+python3-pyopengl-tk.noarch : PyOpenGL Python 3.x Tk widget
+python3-pyopenuv.noarch : Python API data from openuv.io
+python3-pyramid-fas-openid.noarch : A view for pyramid that functions as an OpenID consumer for FAS
+python3-pytest-openfiles.noarch : The py.test openfiles plugin
+python3-social-auth-core+openidconnect.noarch : social-auth-core with OpenIDConnect support.
+python3-sphinxcontrib-openapi.noarch : OpenAPI spec renderer for Sphinx
+python3-steps-openmpi.x86_64 : steps built with openmpi
+python3-vtk-openmpi.i686 : Python 3 bindings for VTK with openmpi
+python3-vtk-openmpi.x86_64 : Python 3 bindings for VTK with openmpi
+pyzy-db-open-phrase.noarch : The open phrase database for pyzy
+qemu-ui-opengl.x86_64 : QEMU OpenGL driver
+quantum-espresso-openmpi.x86_64 : quantum-espresso - openmpi version
+quantum-espresso-openmpi-devel.i686 : quantum-espresso - devel openmpi version
+quantum-espresso-openmpi-devel.x86_64 : quantum-espresso - devel openmpi version
+quantum-espresso-openmpi-static.i686 : quantum-espresso - static libraries openmpi version
+quantum-espresso-openmpi-static.x86_64 : quantum-espresso - static libraries openmpi version
+resalloc-openstack.noarch : Resource allocator scripts for OpenStack
+ruby-libopenshot.x86_64 : Ruby bindings for libopenshot
+ruby-openbabel.x86_64 : Ruby wrapper for the Open Babel library
+rubygem-POpen4.noarch : Open4 cross-platform
+rubygem-POpen4-doc.noarch : Documentation for rubygem-POpen4
+rubygem-open4-doc.noarch : Documentation for rubygem-open4
+rubygem-opengl.x86_64 : An OpenGL wrapper for Ruby
+rubygem-opengl-doc.noarch : Documentation for rubygem-opengl
+rubygem-opennebula.noarch : OpenNebula Client API
+rubygem-opennebula-doc.noarch : Documentation for rubygem-opennebula
+rubygem-openscap.noarch : A FFI wrapper around the OpenSCAP library
+rubygem-openscap-devel.noarch : Development for rubygem-openscap
+rubygem-openscap-doc.noarch : Documentation for rubygem-openscap
+rubygem-openwsman.x86_64 : Ruby client bindings for Openwsman
+rubygem-openwsman-doc.noarch : Documentation for openwsman
+rubygem-ruby-opengl.noarch : OpenGL Interface for Ruby
+rust-glutin+wayland-dlopen-devel.noarch : Cross-platform OpenGL context provider
+rust-open+default-devel.noarch : Open a path or URL using the program configured on the system
+rust-open-devel.noarch : Open a path or URL using the program configured on the system
+rust-open1+default-devel.noarch : Open a path or URL using the program configured on the system
+rust-open1-devel.noarch : Open a path or URL using the program configured on the system
+rust-openat+default-devel.noarch : Wrapper around openat, symlinkat, and similar system calls
+rust-openat-devel.noarch : Wrapper around openat, symlinkat, and similar system calls
+rust-openat-ext+default-devel.noarch : Extension methods for the openat crate
+rust-openat-ext-devel.noarch : Extension methods for the openat crate
+rust-opener+default-devel.noarch : Open a file or link using the system default program
+rust-opener-devel.noarch : Open a file or link using the system default program
+rust-openssh-keys+default-devel.noarch : Read and write OpenSSH public keys
+rust-openssh-keys-devel.noarch : Read and write OpenSSH public keys
+rust-openssl+default-devel.noarch : OpenSSL bindings
+rust-openssl+v101-devel.noarch : OpenSSL bindings
+rust-openssl+v102-devel.noarch : OpenSSL bindings
+rust-openssl+v110-devel.noarch : OpenSSL bindings
+rust-openssl+v111-devel.noarch : OpenSSL bindings
+rust-openssl-devel.noarch : OpenSSL bindings
+rust-openssl-probe+default-devel.noarch : Tool for helping to find SSL certificate locations on the system for OpenSSL
+rust-openssl-probe-devel.noarch : Tool for helping to find SSL certificate locations on the system for OpenSSL
+rust-openssl-sys+default-devel.noarch : FFI bindings to OpenSSL
+rust-openssl-sys-devel.noarch : FFI bindings to OpenSSL
+rust-sequoia-openpgp+allow-experimental-crypto-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+allow-variable-time-crypto-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+bzip2-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+compression-bzip2-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+compression-deflate-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+compression-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+crypto-nettle-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+default-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+flate2-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp+nettle-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp-devel.noarch : OpenPGP data types and associated machinery
+rust-sequoia-openpgp-mt+default-devel.noarch : Multi-threaded parsing of OpenPGP data
+rust-sequoia-openpgp-mt-devel.noarch : Multi-threaded parsing of OpenPGP data
+rust-tokio-openssl+default-devel.noarch : Implementation of SSL streams for Tokio backed by OpenSSL
+rust-tokio-openssl-devel.noarch : Implementation of SSL streams for Tokio backed by OpenSSL
+rust-tokio-openssl0.4+default-devel.noarch : Implementation of SSL streams for Tokio backed by OpenSSL
+rust-tokio-openssl0.4-devel.noarch : Implementation of SSL streams for Tokio backed by OpenSSL
+scalapack-openmpi.i686 : ScaLAPACK libraries compiled against openmpi
+scalapack-openmpi.x86_64 : ScaLAPACK libraries compiled against openmpi
+scalapack-openmpi-devel.i686 : Development libraries for ScaLAPACK (openmpi)
+scalapack-openmpi-devel.x86_64 : Development libraries for ScaLAPACK (openmpi)
+scalapack-openmpi-static.i686 : Static libraries for ScaLAPACK (openmpi)
+scalapack-openmpi-static.x86_64 : Static libraries for ScaLAPACK (openmpi)
+scalasca-openmpi.x86_64 : Toolset for performance analysis of large-scale parallel applications - openmpi
+scorep-openmpi.x86_64 : Scalable Performance Measurement Infrastructure for Parallel Codes for openmpi
+scorep-openmpi-config.x86_64 : Score-P openmpi configuration files
+scorep-openmpi-libs.x86_64 : Score-P openmpi runtime libraries
+slurm-openlava.x86_64 : Openlava/LSF wrappers for transition from OpenLava/LSF to Slurm
+superlu_dist-openmpi.i686 : Solution of large, sparse, nonsymmetric systems of linear equations - openmpi
+superlu_dist-openmpi.x86_64 : Solution of large, sparse, nonsymmetric systems of linear equations - openmpi
+superlu_dist-openmpi-devel.i686 : Development files for superlu_dist-openmpi
+superlu_dist-openmpi-devel.x86_64 : Development files for superlu_dist-openmpi
+taskopen.noarch : Script for taking notes and open urls with taskwarrior
+texlive-opensans.noarch : The Open Sans font family, and LaTeX support
+texlive-opensans-doc.noarch : Documentation for opensans
+trytond-openoffice.noarch : OpenOffice.org support for Tryton Server
+tuned-profiles-openshift.noarch : Additional TuneD profile(s) optimized for OpenShift
+ucs-miscfixed-opentype-fonts.noarch : Selected set of bitmap fonts (opentype version)
+vagrant-openstack-provider.noarch : Vagrant plugin for OpenStack provider
+vagrant-openstack-provider-doc.noarch : Documentation for vagrant-openstack-provider
+valgrind-openmpi.x86_64 : OpenMPI support for valgrind
+vips-openslide.x86_64 : OpenSlide support for vips
+vtk-openmpi.i686 : The Visualization Toolkit - openmpi version
+vtk-openmpi.x86_64 : The Visualization Toolkit - openmpi version
+vtk-openmpi-devel.i686 : VTK header files for building C++ code with openmpi
+vtk-openmpi-devel.x86_64 : VTK header files for building C++ code with openmpi
+vtk-openmpi-java.i686 : Java bindings for VTK with openmpi
+vtk-openmpi-java.x86_64 : Java bindings for VTK with openmpi
+vtk-openmpi-qt.i686 : Qt bindings for VTK with openmpi
+vtk-openmpi-qt.x86_64 : Qt bindings for VTK with openmpi
+wdune-opengl-examples.x86_64 : Compiled OpenGL examples for white_dune
+wine-openal.i686 : Openal support for wine
+wine-openal.x86_64 : Openal support for wine
+wine-opencl.i686 : OpenCL support for wine
+wine-opencl.x86_64 : OpenCL support for wine
+xmlsec1-openssl.x86_64 : OpenSSL crypto plugin for XML Security Library
+xmlsec1-openssl.i686 : OpenSSL crypto plugin for XML Security Library
+xmlsec1-openssl-devel.i686 : OpenSSL crypto plugin for XML Security Library
+xmlsec1-openssl-devel.x86_64 : OpenSSL crypto plugin for XML Security Library
+xorg-x11-drv-openchrome.x86_64 : Xorg X11 openchrome video driver
+xtuple-openrpt-devel.i686 : OpenRPT development files
+xtuple-openrpt-devel.x86_64 : OpenRPT development files
+xtuple-openrpt-libs.i686 : Shared libraries for OpenRPT
+xtuple-openrpt-libs.x86_64 : Shared libraries for OpenRPT
+============================== Name Matched: open ==============================
+MUMPS-openmp-devel.i686 : The MUMPS headers and development-related files
+MUMPS-openmp-devel.x86_64 : The MUMPS headers and development-related files
+MUMPS-openmpi-devel.i686 : The MUMPS headers and development-related files
+MUMPS-openmpi-devel.x86_64 : The MUMPS headers and development-related files
+OpenColorIO.i686 : Enables color transforms and image display across graphics apps
+OpenColorIO.x86_64 : Enables color transforms and image display across graphics apps
+OpenEXR.x86_64 : A high dynamic-range (HDR) image file format
+OpenIPMI.i686 : IPMI (Intelligent Platform Management Interface) library and tools
+OpenIPMI.x86_64 : IPMI (Intelligent Platform Management Interface) library and tools
+OpenIPMI-lanserv.i686 : Emulates an IPMI network listener
+OpenIPMI-lanserv.x86_64 : Emulates an IPMI network listener
+OpenIPMI-perl.x86_64 : IPMI Perl language bindings
+OpenImageIO.i686 : Library for reading and writing images
+OpenImageIO.x86_64 : Library for reading and writing images
+OpenMesh.i686 : A generic and efficient polygon mesh data structure
+OpenMesh.x86_64 : A generic and efficient polygon mesh data structure
+OpenMolcas.x86_64 : A multiconfigurational quantum chemistry software package
+OpenNL.i686 : A library for solving sparse linear systems
+OpenNL.x86_64 : A library for solving sparse linear systems
+OpenSceneGraph.x86_64 : High performance real-time graphics toolkit
+OpenSceneGraph-Collada.x86_64 : OSG Collada plugin
+OpenSceneGraph-examples-SDL.x86_64 : OSG sample applications using SDL
+OpenSceneGraph-examples-fltk.x86_64 : OSG sample applications using FLTK
+OpenSceneGraph-examples-gtk.x86_64 : OSG sample applications using gtk
+OpenSceneGraph-examples-qt.x86_64 : OSG sample applications using qt
+OpenSceneGraph-gdal.x86_64 : OSG Gdal plugin
+OpenSceneGraph-gstreamer.x86_64 : OSG gstreamer plugin
+OpenSceneGraph-qt.i686 : OSG Qt bindings
+OpenSceneGraph-qt.x86_64 : OSG Qt bindings
+OpenSceneGraph-qt-devel.i686 : OSG Qt development files
+OpenSceneGraph-qt-devel.x86_64 : OSG Qt development files
+OpenStego.noarch : Free Steganography solution
+amg4psblas-openmpi-devel.i686 : The amg4psblas headers and development-related files
+amg4psblas-openmpi-devel.x86_64 : The amg4psblas headers and development-related files
+boost-graph-openmpi.i686 : Run-time component of parallel boost graph library
+boost-graph-openmpi.x86_64 : Run-time component of parallel boost graph library
+boost-openmpi.i686 : Run-time component of Boost.MPI library
+boost-openmpi.x86_64 : Run-time component of Boost.MPI library
+boost-openmpi-devel.i686 : Shared library symbolic links for Boost.MPI
+boost-openmpi-devel.x86_64 : Shared library symbolic links for Boost.MPI
+boost-openmpi-python3.i686 : Python 3 run-time component of Boost.MPI library
+boost-openmpi-python3.x86_64 : Python 3 run-time component of Boost.MPI library
+boost-openmpi-python3-devel.i686 : Shared library symbolic links for Boost.MPI Python 3 component
+boost-openmpi-python3-devel.x86_64 : Shared library symbolic links for Boost.MPI Python 3 component
+coin-or-Ipopt-openmpi-devel.i686 : The coin-or-Ipopt headers and development-related files
+coin-or-Ipopt-openmpi-devel.x86_64 : The coin-or-Ipopt headers and development-related files
+combblas-openmpi.i686 : The Combinatorial BLAS Library
+combblas-openmpi.x86_64 : The Combinatorial BLAS Library
+compat-golang-github-opendns-vegadns2client-devel.noarch : Go Client for VegaDNS-API
+fawkes-plugin-openni-pcl-frombuf.x86_64 : Fawkes plugin to create point clouds from FireVision buffer
+flexiblas-blis-openmp.x86_64 : FlexiBLAS wrappers for BLIS
+flexiblas-blis-openmp64.x86_64 : FlexiBLAS wrappers for BLIS (64-bit)
+gnome-shell-extension-openweather.noarch : Display weather information for any location on Earth
+golang-contrib-opencensus-resource.x86_64 : Go packages for auto discovery of resource information in various environments
+golang-contrib-opencensus-resource-devel.noarch : Go packages for auto discovery of resource information in various environments
+golang-github-grpc-ecosystem-opentracing-devel.noarch : Vendor-neutral APIs for distributed tracing and context propagation
+golang-github-infobloxopen-infoblox-client-devel.noarch : Infoblox NIOS WAPI Go Client library
+golang-github-microsoft-opengcs-devel.noarch : Guest Compute Service for Linux Hyper-V Container
+golang-github-openapi-inflect-devel.noarch : Go library to perform word transformations
+golang-github-openapi-jsonpointer-devel.noarch : Gojsonpointer with support for structs
+golang-github-openapi-jsonreference-devel.noarch : Gojsonreference with support for structs
+golang-github-opencontainers-digest-devel.noarch : Common digest package used across the container ecosystem
+golang-github-opencontainers-image-spec-devel.noarch : OCI Image Format Specification
+golang-github-opencontainers-runc-devel.noarch : CLI tool for spawning and running containers
+golang-github-opencontainers-runtime-tools.x86_64 : OCI Runtime Tools
+golang-github-opencontainers-runtime-tools-devel.noarch : OCI Runtime Tools
+golang-github-opencontainers-selinux-devel.noarch : Common SELinux implementation
+golang-github-opendns-vegadns2client-devel.noarch : Go Client for VegaDNS-API
+golang-github-openprinting-goipp-devel.noarch : IPP core protocol in pure Go (RFC 8010)
+golang-github-openprinting-ipp-usb-devel.noarch : HTTP reverse proxy capable of IPP-over-USB connection
+golang-github-openzipkin-zipkin-devel.noarch : Zipkin tracer library for Go
+golang-gitlab-opennota-wd-devel.noarch : Comparing strings on a word per word basis and generating a coloured diff
+golang-opencensus-devel.noarch : Stats collection and distributed tracing framework
+gsi-openssh.x86_64 : An implementation of the SSH protocol with GSI authentication
+gsi-openssh-clients.x86_64 : SSH client applications with GSI authentication
+gsi-openssh-server.x86_64 : SSH server daemon with GSI authentication
+gstreamer1-plugin-openh264.x86_64 : GStreamer H.264 plugin
+hfg-gmuend-openmoji-black-fonts.noarch : Emojis with a line-drawn style (black and white)
+hfg-gmuend-openmoji-color-fonts.noarch : Emojis with a line-drawn style (color)
+hpx-openmpi-devel.i686 : Development headers and libraries for hpx
+hpx-openmpi-devel.x86_64 : Development headers and libraries for hpx
+libopenmpt.x86_64 : C/C++ library to decode tracker music module (MOD) files
+libopenmpt.i686 : C/C++ library to decode tracker music module (MOD) files
+libopenraw.i686 : Decode camera RAW files
+libopenraw.x86_64 : Decode camera RAW files
+libopenraw-pixbuf-loader.i686 : RAW image loader for GTK+ applications
+libopenraw-pixbuf-loader.x86_64 : RAW image loader for GTK+ applications
+libopenshot.x86_64 : Library for creating and editing videos
+libopenzwave.i686 : Library to access Z-Wave interfaces
+libopenzwave.x86_64 : Library to access Z-Wave interfaces
+libreoffice-opensymbol-fonts.noarch : LibreOffice dingbats font
+mgopen-canonica-fonts.noarch : Truetype variable-stroke-width serif font faces
+mgopen-cosmetica-fonts.noarch : Truetype variable-stroke-width sans serif font faces
+mgopen-fonts-common.noarch : Truetype greek fonts, common files (documentation…)
+mgopen-fonts-compat.noarch : Truetype greek fonts, compatibility package
+mgopen-modata-fonts.noarch : Truetype fixed-stroke-width sans serif font faces
+mgopen-moderna-fonts.noarch : Truetype fixed-stroke-width sans serif font faces
+mld2p4-openmpi-devel.i686 : The mld2p4 headers and development-related files
+mld2p4-openmpi-devel.x86_64 : The mld2p4 headers and development-related files
+mozilla-openh264.x86_64 : H.264 codec support for Mozilla browsers
+nagios-plugins-openmanage.x86_64 : Nagios plugin to monitor hardware health on Dell servers
+neuron-openmpi-devel.i686 : Development files for neuron
+neuron-openmpi-devel.x86_64 : Development files for neuron
+open-eid.noarch : Meta-package for Estonian Electronic Identity Software
+open-mtools.x86_64 : Tools for testing IP multicast
+open-sendmail.noarch : Additional m4 files used to generate sendmail.cf
+open-vm-tools-salt-minion.x86_64 : Script file to install/uninstall salt-minion
+open62541.i686 : OPC UA implementation
+open62541.x86_64 : OPC UA implementation
+openCOLLADA.i686 : Collada 3D import and export libraries
+openCOLLADA.x86_64 : Collada 3D import and export libraries
+openCOLLADA-utils.x86_64 : XML validator for COLLADA files
+openalchemist.x86_64 : Reflection game
+openas2.noarch : Java-based implementation of the EDIINT AS2 standard
+openbabel.i686 : Chemistry software file format converter
+openbabel.x86_64 : Chemistry software file format converter
+openbabel-gui.x86_64 : Chemistry software file format converter - GUI version
+openbabel-libs.i686 : Chemistry software file format converter - libraries
+openbabel-libs.x86_64 : Chemistry software file format converter - libraries
+openblas.x86_64 : An optimized BLAS library based on GotoBLAS2
+openblas.i686 : An optimized BLAS library based on GotoBLAS2
+openblas-serial.i686 : An optimized BLAS library based on GotoBLAS2, serial version
+openblas-serial.x86_64 : An optimized BLAS library based on GotoBLAS2, serial version
+openblas-serial64.x86_64 : An optimized BLAS library based on GotoBLAS2, serial version
+openblas-serial64_.x86_64 : An optimized BLAS library based on GotoBLAS2, serial version
+openblas-threads.i686 : An optimized BLAS library based on GotoBLAS2, pthreads version
+openblas-threads.x86_64 : An optimized BLAS library based on GotoBLAS2, pthreads version
+openblas-threads64.x86_64 : An optimized BLAS library based on GotoBLAS2, pthreads version
+openblas-threads64_.x86_64 : An optimized BLAS library based on GotoBLAS2, pthreads version
+openbox.x86_64 : A highly configurable and standards-compliant X11 window manager
+opencc.i686 : Libraries for Simplified-Traditional Chinese Conversion
+opencc.x86_64 : Libraries for Simplified-Traditional Chinese Conversion
+openchange.i686 : Provides access to Microsoft Exchange servers using native protocols
+openchange.x86_64 : Provides access to Microsoft Exchange servers using native protocols
+opencity.x86_64 : Full 3D city simulator game project
+openclonk.x86_64 : Multiplayer action, tactics and skill game
+openclonk-data.noarch : Multiplayer action, tactics and skill game
+opencryptoki.x86_64 : Implementation of the PKCS#11 (Cryptoki) specification v2.11
+opencsd-devel.i686 : Development files for the CoreSight(tm) Trace Decode library
+opencsd-devel.x86_64 : Development files for the CoreSight(tm) Trace Decode library
+opencv.i686 : Collection of algorithms for computer vision
+opencv.x86_64 : Collection of algorithms for computer vision
+opencv-doc.noarch : Documentation files
+opendbx.i686 : Lightweight but extensible database access library written in C
+opendbx.x86_64 : Lightweight but extensible database access library written in C
+opendkim.x86_64 : A DomainKeys Identified Mail (DKIM) milter to sign and/or verify mail
+opendmarc.x86_64 : A Domain-based Message Authentication, Reporting & Conformance (DMARC) milter and library
+opendnssec.x86_64 : DNSSEC key and zone management software
+opendyslexic-fonts.noarch : Font designed for dyslexics and high readability
+openeuclide.x86_64 : A geometry software that is intended for educational or modeling purposes
+openexr.x86_64 : Provides the specification and reference implementation of the EXR file format
+openfortivpn.x86_64 : Client for PPP+SSL VPN tunnel services
+openfst.i686 : Weighted finite-state transducer library
+openfst.x86_64 : Weighted finite-state transducer library
+openfst-tools.x86_64 : Command-line tools for working with FSTs
+opengl-games-utils.noarch : Utilities to check proper 3d support before launching 3d games
+opengrm-ngram.i686 : Library for making and modifying n-gram language models
+opengrm-ngram.x86_64 : Library for making and modifying n-gram language models
+opengrm-ngram-tools.x86_64 : Command-line tools for working with n-gram language models
+openh264.x86_64 : H.264 codec library
+openhantek.x86_64 : Hantek and compatible USB digital signal oscilloscope
+openhpi.x86_64 : Hardware Platform Interface library and tools
+openiked.x86_64 : A free Internet Key Exchange (IKEv2) implementation
+openjade.i686 : A DSSSL implementation
+openjade.x86_64 : A DSSSL implementation
+openjdk-asmtools.noarch : To develop tools create proper & improper Java '.class' files
+openjfx.x86_64 : Rich client application platform for Java
+openjfx8.x86_64 : Rich client application platform for Java
+openjpeg.x86_64 : JPEG 2000 command line tools
+openjpeg-libs.i686 : JPEG 2000 codec runtime library
+openjpeg-libs.x86_64 : JPEG 2000 codec runtime library
+openjpeg2.x86_64 : C-Library for JPEG 2000
+openjpeg2.i686 : C-Library for JPEG 2000
+openldap.x86_64 : LDAP support libraries
+openldap.i686 : LDAP support libraries
+openldap-clients.x86_64 : LDAP client utilities
+openldap-compat.i686 : Package providing legacy non-threaded libldap
+openldap-compat.x86_64 : Package providing legacy non-threaded libldap
+openldap-devel.i686 : LDAP development libraries and header files
+openldap-devel.x86_64 : LDAP development libraries and header files
+openldap-servers.x86_64 : LDAP server
+openlierox.x86_64 : Addictive realtime multi-player 2D shoot-em-up
+openmeeg.i686 : Low-frequency bio-electromagnetism solving forward problems in the field of EEG and MEG
+openmeeg.x86_64 : Low-frequency bio-electromagnetism solving forward problems in the field of EEG and MEG
+openmpi-java.x86_64 : Java library
+openms.i686 : LC/MS data management and analyses
+openms.x86_64 : LC/MS data management and analyses
+openmsx.x86_64 : An emulator for the MSX home computer system
+openni.i686 : Library for human-machine Natural Interaction
+openni.x86_64 : Library for human-machine Natural Interaction
+openobex.i686 : Library for using OBEX
+openobex.x86_64 : Library for using OBEX
+openobex-apps.x86_64 : Applications for using OBEX
+openobex-devel.i686 : Files for development of applications which will use OBEX
+openobex-devel.x86_64 : Files for development of applications which will use OBEX
+openocd.x86_64 : Debugging, in-system programming and boundary-scan testing for embedded devices
+openoffice.org-diafilter.x86_64 : DIA diagram shape importer and gallery extension for LibreOffice
+openpgm.x86_64 : An implementation of the PGM reliable multicast protocol
+openpgm.i686 : An implementation of the PGM reliable multicast protocol
+openqa.noarch : OS-level automated testing framework
+openqa-devel.noarch : Development package pulling in all build+test dependencies
+openqa-local-db.noarch : Helper package to ease setup of postgresql DB
+openqa-python-scripts.noarch : Additional scripts in python
+openqa-single-instance.noarch : Convenience package for a single-instance setup
+openrdate.x86_64 : Good-old rdate date and time-setting software
+openresolv.noarch : DNS management framework
+opensc.x86_64 : Smart card library and applications
+opensc.i686 : Smart card library and applications
+openscad.x86_64 : The Programmers Solid 3D CAD Modeller
+openscap-containers.noarch : Utils for scanning containers
+openscap-daemon.noarch : Manages continuous SCAP scans of your infrastructure
+openshadinglanguage.x86_64 : Advanced shading language for production GI renderers
+openshadinglanguage-MaterialX-shaders-source.noarch : MaterialX shader nodes
+openshadinglanguage-common-headers.noarch : OSL standard library and auxiliary headers
+openshadinglanguage-example-shaders-source.noarch : OSL shader examples
+openshot.noarch : Create and edit videos and movies
+opensips-aaa_radius.x86_64 : RADIUS backend for AAA api
+opensips-acc.x86_64 : Accounts transactions information to different backends
+opensips-auth_aaa.x86_64 : Performs authentication using an AAA server
+opensips-b2bua.x86_64 : Back-2-Back User Agent
+opensips-cachedb_couchbase.x86_64 : Couchbase connector for cache subsystem
+opensips-cachedb_memcached.x86_64 : Memcached connector for cache subsystem
+opensips-cachedb_mongodb.x86_64 : MongoDB connector for cache subsystem
+opensips-cachedb_redis.x86_64 : Redis connector for cache subsystem
+opensips-call_center.x86_64 : An inbound call center system
+opensips-carrierroute.x86_64 : Routing extension suitable for carriers
+opensips-cgrates.x86_64 : Billing module for CGRates engine
+opensips-compression.x86_64 : Message compression/decompression and base64 encoding
+opensips-cpl_c.x86_64 : Call Processing Language interpreter
+opensips-db_berkeley.x86_64 : Berkeley DB backend support
+opensips-db_http.x86_64 : HTTP DB backend support
+opensips-db_perlvdb.x86_64 : Perl virtual database engine
+opensips-emergency.x86_64 : Emergency call treatment
+opensips-event_rabbitmq.x86_64 : Event RabbitMQ module
+opensips-h350.x86_64 : H350 implementation
+opensips-httpd.x86_64 : HTTP transport layer implementation
+opensips-identity.x86_64 : Support for SIP Identity (see RFC 4474)
+opensips-json.x86_64 : A JSON variables within the script
+opensips-ldap.x86_64 : LDAP connector
+opensips-media_exchange.x86_64 : Lets exchange SDP between calls
+opensips-mi_html.x86_64 : A minimal web user interface for the Management Interface
+opensips-mi_http.x86_64 : A JSON REST interface for the Management Interface
+opensips-mi_xmlrpc_ng.x86_64 : A xmlrpc server for the Management Interface (new version)
+opensips-mmgeoip.x86_64 : Wrapper for the MaxMind GeoIP API
+opensips-peering.x86_64 : Radius peering
+opensips-presence.x86_64 : Presence server
+opensips-presence_callinfo.x86_64 : SIMPLE Presence extension
+opensips-presence_dfks.x86_64 : Extension to Presence server for Broadsoft's DFKS
+opensips-presence_dialoginfo.x86_64 : Extension to Presence server for Dialog-Info
+opensips-presence_mwi.x86_64 : Extension to Presence server for Message Waiting Indication
+opensips-presence_xcapdiff.x86_64 : Extension to Presence server for XCAP-DIFF event
+opensips-presence_xml.x86_64 : SIMPLE Presence extension
+opensips-proto_sctp.x86_64 : An optional SCTP transport module
+opensips-proto_tls.x86_64 : An optional TLS transport module
+opensips-proto_wss.x86_64 : An optional Secure WebSocket transport module
+opensips-pua.x86_64 : Offer the functionality of a presence user agent client
+opensips-pua_bla.x86_64 : BLA extension for PUA
+opensips-pua_dialoginfo.x86_64 : Dialog-Info extension for PUA
+opensips-pua_mi.x86_64 : Connector between usrloc and MI interface
+opensips-pua_usrloc.x86_64 : Connector between usrloc and pua modules
+opensips-pua_xmpp.x86_64 : SIMPLE-XMPP Presence gateway
+opensips-rabbitmq.x86_64 : RabbitMQ module
+opensips-rabbitmq_consumer.x86_64 : RabbitMQ message receiver
+opensips-regex.x86_64 : RegExp via PCRE library
+opensips-rls.x86_64 : Resource List Server
+opensips-siprec.x86_64 : Call recording using SIPREC protocol
+opensips-stir_shaken.x86_64 : Support for implementing STIR/SHAKEN
+opensips-tls_mgm.x86_64 : Management for TLS certificates and parameters
+opensips-uuid.x86_64 : Generates UUIDs as specified in RFC 4122
+opensips-xcap.x86_64 : XCAP common functions
+opensips-xcap_client.x86_64 : XCAP client
+opensips-xml.x86_64 : Basic XML parsing and manipulation
+openslide.i686 : C library for reading virtual slides
+openslide.x86_64 : C library for reading virtual slides
+opensmtpd.x86_64 : Free implementation of the server-side SMTP protocol as defined by RFC 5321
+opensp.i686 : SGML and XML parser
+opensp.x86_64 : SGML and XML parser
+openspecfun.i686 : Library providing a collection of special mathematical functions
+openspecfun.x86_64 : Library providing a collection of special mathematical functions
+openspecfun-devel.i686 : Library providing a collection of special mathematical functions
+openspecfun-devel.x86_64 : Library providing a collection of special mathematical functions
+openssh-ldap-authkeys.noarch : Python script to generate SSH authorized_keys files using an LDAP directory
+openssl.x86_64 : Utilities from the general purpose cryptography library with TLS implementation
+openssl-libs.x86_64 : A general purpose cryptography library with TLS implementation
+openssl-libs.i686 : A general purpose cryptography library with TLS implementation
+opensubdiv.i686 : High performance subdivision surface libraries
+opensubdiv.x86_64 : High performance subdivision surface libraries
+opensubdiv-doc.noarch : High performance subdivision surface libraries
+opensurge.x86_64 : 2D retro platformer inspired by Sonic games
+opentracker-common.noarch : Common-Files for the BitTorrent-Tracker
+opentracker-ipv4.x86_64 : BitTorrent Tracker using ipv4
+opentracker-ipv6.x86_64 : BitTorrent Tracker using ipv6
+opentrep.i686 : C++ library providing a clean API for parsing travel-focused requests
+opentrep.x86_64 : C++ library providing a clean API for parsing travel-focused requests
+openttd.x86_64 : Transport system simulation game
+openvdb.x86_64 : C++ library for sparse volumetric data discretized on three-dimensional grids
+openvpn.x86_64 : A full-featured TLS VPN solution
+openwsman-winrs.x86_64 : Windows Remote Shell
+openxr.x86_64 : An API for writing VR and AR software
+openxr-libs.i686 : Libraries for writing VR and AR software
+openxr-libs.x86_64 : Libraries for writing VR and AR software
+paraview-openmpi.i686 : Parallel visualization application
+paraview-openmpi.x86_64 : Parallel visualization application
+perl-File-DesktopEntry.noarch : Object to handle .desktop files
+perl-OpenFrame.noarch : Framework for network enabled applications
+perl-open.noarch : Perl pragma to set default PerlIO layers for input and output
+php-openpsa-universalfeedcreator.noarch : RSS and Atom feed generator
+ptscotch-openmpi-devel-parmetis.x86_64 : Parmetis compatibility header for scotch
+python3-espresso-openmpi.x86_64 : Extensible Simulation Package for Research on Soft matter
+python3-openant.noarch : A python library to communicate with ANT-FS compliant devices
+python3-opencensus.noarch : A stats collection and distributed tracing framework
+python3-opencensus-correlation.noarch : W3C Correlation Context
+python3-openipmi.x86_64 : IPMI Python language bindings
+python3-openoffice.noarch : Python 3 libraries for interacting with LibreOffice
+python3-openopt.noarch : A python module for numerical optimization
+python3-openpyxl.noarch : Python library to read/write Excel 2010 xlsx/xlsm files
+python3-smart_open.noarch : Utils for streaming large files (S3, HDFS, gzip, bz2, and more)
+rubygem-open4.noarch : Manage child processes and their IO handles easily
+rust-actix-connect+open-ssl-devel.noarch : TCP connector service for Actix ecosystem
+rust-actix-connect+openssl-devel.noarch : TCP connector service for Actix ecosystem
+rust-actix-connect+tokio-openssl-devel.noarch : TCP connector service for Actix ecosystem
+rust-actix-http+openssl-devel.noarch : HTTP primitives for the Actix ecosystem
+rust-actix-tls+open-ssl-devel.noarch : TLS acceptor services for Actix ecosystem
+rust-actix-tls+openssl-devel.noarch : TLS acceptor services for Actix ecosystem
+rust-actix-tls+tokio-openssl-devel.noarch : TLS acceptor services for Actix ecosystem
+rust-actix-web+open-ssl-devel.noarch : Powerful, pragmatic, and extremely fast web framework for Rust
+rust-actix-web+openssl-devel.noarch : Powerful, pragmatic, and extremely fast web framework for Rust
+rust-attohttpc+openssl-devel.noarch : Small and lightweight HTTP client
+rust-awc+open-ssl-devel.noarch : Async HTTP client library that uses the Actix runtime
+rust-awc+openssl-devel.noarch : Async HTTP client library that uses the Actix runtime
+rust-cargo+openssl-devel.noarch : Package manager for Rust
+rust-curl+openssl-probe-devel.noarch : Rust bindings to libcurl for making HTTP requests
+rust-curl+openssl-sys-devel.noarch : Rust bindings to libcurl for making HTTP requests
+rust-curl-sys+openssl-sys-devel.noarch : Native bindings to the libcurl library
+rust-dlib+dlopen-devel.noarch : Helper macros for handling manually loading optional system libraries
+rust-dlib0.4+dlopen-devel.noarch : Helper macros for handling manually loading optional system libraries
+rust-dua-cli+open-devel.noarch : Tool to conveniently learn about the disk usage of directories
+rust-ffsend-api+crypto-openssl-devel.noarch : Fully featured Firefox Send API client
+rust-ffsend-api+openssl-devel.noarch : Fully featured Firefox Send API client
+rust-git2+openssl-probe-devel.noarch : Bindings to libgit2 for interoperating with git repositories
+rust-git2+openssl-sys-devel.noarch : Bindings to libgit2 for interoperating with git repositories
+rust-libgit2-sys+openssl-sys-devel.noarch : Native bindings to the libgit2 library
+rust-libsqlite3-sys+openssl-sys-devel.noarch : Native bindings to the libsqlite3 library
+rust-owned_ttf_parser+opentype-layout-devel.noarch : Ttf-parser plus support for owned data
+rust-pcap+pcap-fopen-offline-precision-devel.noarch : Packet capture API around pcap/wpcap
+rust-sev+openssl-devel.noarch : Library for AMD SEV
+rust-smithay-client-toolkit+dlopen-devel.noarch : Toolkit for making client wayland applications
+rust-smithay-clipboard+dlopen-devel.noarch : Provides access to the wayland clipboard for client applications
+rust-tiny_http+openssl-devel.noarch : Low level HTTP server library
+rust-tiny_http0.6+openssl-devel.noarch : Low level HTTP server library
+rust-trust-dns-openssl+default-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-openssl+dns-over-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-openssl0.19+backtrace-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-openssl0.19+default-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-openssl0.19+dns-over-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-openssl0.19-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-proto+dnssec-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-proto+openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-proto0.19+dnssec-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-proto0.19+openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver+dns-over-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver+dnssec-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver+tokio-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver+trust-dns-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver0.19+dns-over-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver0.19+dnssec-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver0.19+tokio-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-trust-dns-resolver0.19+trust-dns-openssl-devel.noarch : Trust-DNS is a safe and secure DNS library
+rust-ttf-parser+opentype-layout-devel.noarch : High-level, safe, zero-allocation TrueType font parser
+rust-wayland-client+dlopen-devel.noarch : Bindings to the standard C implementation of the wayland protocol, client side
+rust-wayland-server+dlopen-devel.noarch : Bindings to the standard C implementation of the wayland protocol, server side
+rust-wayland-sys+dlopen-devel.noarch : FFI bindings to the various libwayland-*.so libraries
+rust-web-sys+HalfOpenInfoDict-devel.noarch : Bindings for all Web APIs, a procedurally generated crate from WebIDL
+rust-web-sys+IdbOpenDbOptions-devel.noarch : Bindings for all Web APIs, a procedurally generated crate from WebIDL
+rust-web-sys+IdbOpenDbRequest-devel.noarch : Bindings for all Web APIs, a procedurally generated crate from WebIDL
+rust-web-sys+OpenWindowEventDetail-devel.noarch : Bindings for all Web APIs, a procedurally generated crate from WebIDL
+rust-winit+wayland-dlopen-devel.noarch : Cross-platform window creation library
+rust-ws+openssl-devel.noarch : Lightweight, event-driven WebSockets for Rust
+rust-yup-oauth2+openssl-devel.noarch : Oauth2 implementation
+sundials-openmpi.i686 : Suite of nonlinear solvers
+sundials-openmpi.x86_64 : Suite of nonlinear solvers
+sundials-openmpi-devel.i686 : Suite of nonlinear solvers
+sundials-openmpi-devel.x86_64 : Suite of nonlinear solvers
+sundials2-openmpi.i686 : Suite of nonlinear solvers
+sundials2-openmpi.x86_64 : Suite of nonlinear solvers
+sundials2-openmpi-devel.i686 : Suite of nonlinear solvers
+sundials2-openmpi-devel.x86_64 : Suite of nonlinear solvers
+texlive-xpdfopen.x86_64 : Commands to control PDF readers, under X11
+vdr-softhddevice-openglosd.x86_64 : A software and GPU emulated HD output device plugin for VDR
+xtuple-openrpt.x86_64 : xTuple / PostBooks reporting utility and libraries
+xtuple-openrpt-images.noarch : Images for xTuple products
+============================ Summary Matched: open =============================
+0xFFFF.x86_64 : The Open Free Fiasco Firmware Flasher
+5minute.noarch : Give me an instance of mine image on OpenStack. Hurry!
+CriticalMass.x86_64 : SDL/OpenGL space shoot'em up game also known as critter
+EMBOSS.x86_64 : The European Molecular Biology Open Software Suite
+GLC_lib.i686 : C++ class library for OpenGL application based on Qt 4
+GLC_lib.x86_64 : C++ class library for OpenGL application based on Qt 4
+GtkAda-gl.i686 : GTKada 2 binding to OpenGL
+GtkAda-gl.x86_64 : GTKada 2 binding to OpenGL
+GtkAda3-gl.i686 : GTKada 3 binding to OpenGL
+GtkAda3-gl.x86_64 : GTKada 3 binding to OpenGL
+HandBrake.x86_64 : An open-source multiplatform video transcoder
+HandBrake-gui.x86_64 : An open-source multiplatform video transcoder (GUI)
+IQmol.x86_64 : A free open-source molecular editor and visualization package
+Inventor.i686 : SGI Open Inventor (TM)
+Inventor.x86_64 : SGI Open Inventor (TM)
+Inventor-data.noarch : SGI Open Inventor (TM) data
+Inventor-demos.x86_64 : SGI Open Inventor (TM) Demos
+Inventor-devel.i686 : SGI Open Inventor (TM) development files
+Inventor-devel.x86_64 : SGI Open Inventor (TM) development files
+Inventor-examples.x86_64 : SGI Open Inventor (TM) source code examples
+InventorXt.i686 : SGI Open Inventor (TM) Motif bindings
+InventorXt.x86_64 : SGI Open Inventor (TM) Motif bindings
+InventorXt-devel.i686 : SGI Open Inventor (TM) Motif bindings
+InventorXt-devel.x86_64 : SGI Open Inventor (TM) Motif bindings
+NLopt.i686 : Open-Source library for nonlinear optimization
+NLopt.x86_64 : Open-Source library for nonlinear optimization
+Nestopia.x86_64 : A portable open source NES/Famicom emulator
+NetworkManager-ovs.x86_64 : Open vSwitch device plugin for NetworkManager
+R-rgeos.x86_64 : Interface to Geometry Engine - Open Source ('GEOS')
+R-tesseract.x86_64 : Open Source OCR Engine
+RemoteBox.noarch : Open Source VirtualBox Client with Remote Management
+SDLPoP.x86_64 : An open-source port of Prince of Persia
+SLOF.noarch : Slimline Open Firmware
+SOIL.i686 : Simple OpenGL Image Library
+SOIL.x86_64 : Simple OpenGL Image Library
+VirtualGL.i686 : A toolkit for displaying OpenGL applications to thin clients
+VirtualGL.x86_64 : A toolkit for displaying OpenGL applications to thin clients
+YafaRay.i686 : A free open-source ray-tracing render engine
+YafaRay.x86_64 : A free open-source ray-tracing render engine
+adobe-afdko.x86_64 : Adobe Font Development Kit for OpenType
+adobe-source-code-pro-fonts.noarch : A set of mono-spaced OpenType fonts designed for coding environments
+adobe-source-han-code-jp-fonts.noarch : Adobe OpenType UI font for mixed Latin and Japanese text
+adobe-source-han-mono-fonts.noarch : Adobe OpenType monospaced font for mixed Latin and CJK text
+adobe-source-han-sans-cn-fonts.noarch : Adobe OpenType Pan-CJK font family for Simplified Chinese
+adobe-source-han-sans-jp-fonts.noarch : Adobe OpenType Pan-CJK font family for Japanese
+adobe-source-han-sans-kr-fonts.noarch : Adobe OpenType Pan-CJK font family for Korean
+adobe-source-han-sans-tw-fonts.noarch : Adobe OpenType Pan-CJK font family for Traditional Chinese
+adobe-source-han-serif-cn-fonts.noarch : Adobe OpenType Pan-CJK font family for Simplified Chinese
+adobe-source-han-serif-jp-fonts.noarch : Adobe OpenType Pan-CJK font family for Japanese
+adobe-source-han-serif-kr-fonts.noarch : Adobe OpenType Pan-CJK font family for Korean
+adobe-source-han-serif-tw-fonts.noarch : Adobe OpenType Pan-CJK font family for Traditional Chinese
+adobe-source-sans-pro-fonts.noarch : A set of OpenType fonts designed for user interfaces
+alacritty.x86_64 : Fast, cross-platform, OpenGL terminal emulator
+alembic.i686 : Open framework for storing and sharing scene data
+alembic.x86_64 : Open framework for storing and sharing scene data
+alleggl.i686 : OpenGL support library for Allegro
+alleggl.x86_64 : OpenGL support library for Allegro
+alsa-sof-firmware.noarch : Firmware and topology files for Sound Open Firmware project
+alsa-sof-firmware-debug.noarch : Debug files for Sound Open Firmware project
+apa-new-athena-unicode-fonts.noarch : New Athena Unicode is a libre/open multilingual font
+apitrace.x86_64 : Tools for tracing OpenGL
+aqsis.x86_64 : Open source 3D rendering solution adhering to the RenderMan standard
+asterisk.i686 : The Open Source PBX
+asterisk.x86_64 : The Open Source PBX
+attica.i686 : Implementation of the Open Collaboration Services API
+attica.x86_64 : Implementation of the Open Collaboration Services API
+baresip-omx.x86_64 : OpenMAX IL video display module for baresip
+bcg729.i686 : Opensource implementation of the G.729 codec
+bcg729.x86_64 : Opensource implementation of the G.729 codec
+beecrypt.i686 : An open source cryptography library
+beecrypt.x86_64 : An open source cryptography library
+bes.i686 : Back-end server software framework for OPeNDAP
+bes.x86_64 : Back-end server software framework for OPeNDAP
+bes-doc.x86_64 : Documentation of the OPeNDAP BES
+bouncycastle-pg.noarch : Bouncy Castle OpenPGP API
+brewtarget.x86_64 : An open source beer recipe creation tool
+cAudio.i686 : 3D Audio Engine Based on Openal
+cAudio.x86_64 : 3D Audio Engine Based on Openal
+calligra-okular-odpgenerator.i686 : OpenDocument presenter support for okular
+calligra-okular-odpgenerator.x86_64 : OpenDocument presenter support for okular
+calligra-okular-odtgenerator.i686 : OpenDocument text support for okular
+calligra-okular-odtgenerator.x86_64 : OpenDocument text support for okular
+calypso.noarch : Free and open-source CalDAV calendar server
+celestia.x86_64 : OpenGL real-time visual space simulation
+clblast.i686 : Tuned OpenCL BLAS routines
+clblast.x86_64 : Tuned OpenCL BLAS routines
+clinfo.x86_64 : Enumerate OpenCL platforms and devices
+clpeak.x86_64 : Find peak OpenCL capacities like bandwidth & compute
+clutter.x86_64 : Open Source software library for creating rich graphical user interfaces
+clutter.i686 : Open Source software library for creating rich graphical user interfaces
+codeblocks.x86_64 : An open source, cross platform, free C++ IDE
+coin-or-Bonmin.i686 : Basic Open-source Nonlinear Mixed INteger programming
+coin-or-Bonmin.x86_64 : Basic Open-source Nonlinear Mixed INteger programming
+coin-or-Osi.i686 : COIN-OR Open Solver Interface Library
+coin-or-Osi.x86_64 : COIN-OR Open Solver Interface Library
+collectd-ovs_events.x86_64 : Open vSwitch events plugin for collectd
+collectd-ovs_stats.x86_64 : Open vSwitch stats plugin for collectd
+collectd-write_tsdb.x86_64 : OpenTSDB output plugin for collectd
+compat-golang-github-coreos-oidc-3-devel.noarch : Go OpenID Connect client
+compat-golang-github-jaegertracing-jaeger-client-devel.noarch : Jaeger Bindings for Go OpenTracing API
+compat-wxGTK3-gtk2-gl.i686 : OpenGL add-on for the wxWidgets library
+compat-wxGTK3-gtk2-gl.x86_64 : OpenGL add-on for the wxWidgets library
+compiz.i686 : OpenGL window and compositing manager
+compiz.x86_64 : OpenGL window and compositing manager
+containerd.x86_64 : Open and reliable container runtime
+containerd-devel.noarch : Open and reliable container runtime
+coolreader.x86_64 : Cross platform open source e-book reader
+corsix-th.x86_64 : Open source clone of Theme Hospital
+csound-osc.x86_64 : Open Sound Control (OSC) plugin for Csound
+cups-filters.x86_64 : OpenPrinting CUPS filters and backends
+cups-filters-braille.x86_64 : OpenPrinting CUPS filters and backends - braille filters and backend
+cups-filters-devel.i686 : OpenPrinting CUPS filters and backends - development environment
+cups-filters-devel.x86_64 : OpenPrinting CUPS filters and backends - development environment
+cups-filters-libs.x86_64 : OpenPrinting CUPS filters and backends - cupsfilters and fontembed libraries
+cups-filters-libs.i686 : OpenPrinting CUPS filters and backends - cupsfilters and fontembed libraries
+cwm.x86_64 : Calm Window Manager by OpenBSD project
+dex-autostart.noarch : Generate and execute DesktopEntry files
+diskimage-builder.noarch : Image building tools for OpenStack
+docker-ce.x86_64 : The open-source application container engine
+docker-ce-cli.x86_64 : The open-source application container engine
+dom4j.noarch : Open Source XML framework for Java
+domoticz.x86_64 : Open source Home Automation System
+drupal7.noarch : An open-source content-management platform
+drupal8.noarch : An open source content management platform
+dx.x86_64 : Open source version of IBM's Visualization Data Explorer
+dx-devel.i686 : OpenDX module development headers and libraries
+dx-devel.x86_64 : OpenDX module development headers and libraries
+dx-libs.i686 : OpenDX shared libraries
+dx-libs.x86_64 : OpenDX shared libraries
+easytag-nautilus.x86_64 : Nautilus extension for opening in EasyTAG
+edit.x86_64 : Open a file in the default text editor
+edk2-ovmf.noarch : Open Virtual Machine Firmware
+edk2-ovmf-ia32.noarch : Open Virtual Machine Firmware
+efont-unicode-bdf.noarch : Unicode font by Electronic Font Open Laboratory
+eggdrop.x86_64 : World's most popular Open Source IRC bot
+erlang-cl.x86_64 : OpenCL binding for Erlang
+erlang-esdl.x86_64 : Erlang OpenGL/SDL API and utilities
+eurephia.x86_64 : An advanced and flexible OpenVPN user authentication plug-in
+fbf-mukti-fonts.noarch : Bangla open source Opentype font
+fence-agents-ironic.noarch : Fence agent for OpenStack's Ironic (Bare Metal as a service)
+fips.x86_64 : OpenGL-based FITS image viewer
+florist.i686 : Open Source implementation of the POSIX Ada Bindings
+florist.x86_64 : Open Source implementation of the POSIX Ada Bindings
+folly.i686 : An open-source C++ library developed and used at Facebook
+folly.x86_64 : An open-source C++ library developed and used at Facebook
+foobillard.x86_64 : OpenGL billard game
+freeDiameter.i686 : A Diameter protocol open implementation
+freeDiameter.x86_64 : A Diameter protocol open implementation
+freealut.i686 : Implementation of OpenAL's ALUT standard
+freealut.x86_64 : Implementation of OpenAL's ALUT standard
+freeopcua.i686 : Open Source C++ OPC-UA Server and Client Library
+freeopcua.x86_64 : Open Source C++ OPC-UA Server and Client Library
+ftgl.i686 : OpenGL frontend to Freetype 2
+ftgl.x86_64 : OpenGL frontend to Freetype 2
+ftop.x86_64 : Utility that shows shows progress of open files and file systems
+gauche-gl.i686 : OpenGL binding for Gauche
+gauche-gl.x86_64 : OpenGL binding for Gauche
+gazebo-ode.i686 : Gazebo fork of the Open Dynamics Engine
+gazebo-ode.x86_64 : Gazebo fork of the Open Dynamics Engine
+geany-plugins-lineoperations.x86_64 : Assortment of simple line functions that can be applied to an open file
+ghc-GLURaw.x86_64 : A raw binding for the OpenGL graphics system
+ghc-hosc.x86_64 : Haskell Open Sound Control
+gl-manpages.noarch : OpenGL manpages
+gl2ps.i686 : An OpenGL to PostScript printing library
+gl2ps.x86_64 : An OpenGL to PostScript printing library
+glava.x86_64 : OpenGL audio spectrum visualizer
+glaxium.x86_64 : An OpenGL space shooter
+glew.x86_64 : The OpenGL Extension Wrangler Library
+glglobe.x86_64 : OpenGl Globe - Earth simulation for linux
+glmark2.x86_64 : Benchmark for OpenGL 2.0
+glslang.i686 : OpenGL and OpenGL ES shader front end and validator
+glslang.x86_64 : OpenGL and OpenGL ES shader front end and validator
+glues.i686 : GLU port for OpenGL ES
+glues.x86_64 : GLU port for OpenGL ES
+gocl.i686 : GLib/GObject based library for OpenCL
+gocl.x86_64 : GLib/GObject based library for OpenCL
+golang-github-alibabacloud-tea-devel.noarch : Alibaba Cloud (Aliyun) support for TEA OpenAPI DSL
+golang-github-armon-gomdb-devel.noarch : Go wrapper for LMDB: OpenLDAP Lightning Memory-Mapped Database
+golang-github-cli-browser-devel.noarch : Go helpers to open URLs, files, or readers in a web browser
+golang-github-cockroachdb-cockroach-devel.noarch : Open source, cloud-native SQL database
+golang-github-coreos-oidc-devel.noarch : Go OpenID Connect client
+golang-github-daaku-zipexe-devel.noarch : Open an executable binary file as a zip file
+golang-github-deepmap-oapi-codegen.x86_64 : Generate Go client and server boilerplate from OpenAPI 3 specifications
+golang-github-deepmap-oapi-codegen-devel.noarch : Generate Go client and server boilerplate from OpenAPI 3 specifications
+golang-github-devigned-tab-devel.noarch : OpenTracing and OpenCensus abstraction for tracing and logging
+golang-github-gl-devel.noarch : Go bindings for OpenGL
+golang-github-googleapis-gnostic.x86_64 : Compiler for APIs described by the OpenAPI Specification
+golang-github-googleapis-gnostic-devel.noarch : Compiler for APIs described by the OpenAPI Specification
+golang-github-googleapis-gnostic-devel-0.4.noarch : Compiler for APIs described by the OpenAPI Specification
+golang-github-gophercloud-devel.noarch : OpenStack SDK for Go
+golang-github-phayes-freeport.x86_64 : Detect free and open TCP port
+golang-github-phayes-freeport-devel.noarch : Detect free and open TCP port
+golang-github-pkg-browser-devel.noarch : Helpers to open files, readers, and urls in a browser
+golang-github-r4ygm-netscanner-devel.noarch : TCP/UDP scanner to find open or closed ports
+golang-github-rackspace-gophercloud-devel.noarch : A Go SDK for OpenStack
+golang-github-uber-jaeger-client.x86_64 : Jaeger Bindings for Go OpenTracing API
+golang-github-uber-jaeger-client-devel.noarch : Jaeger Bindings for Go OpenTracing API
+golang-github-xo-dburl-devel.noarch : URL style mechanism for parsing and opening SQL database connection strings
+golang-gocloud-devel.noarch : Library and tools for open cloud development in Go
+google-authenticator.x86_64 : One-time pass-code support using open standards
+gotun.x86_64 : Tool to run tests on OpenStack
+gotun-devel.noarch : Tool to run tests on OpenStack
+gr-hpsdr.i686 : GNU Radio modules for OpenHPSDR Hermes / Metis and Red Pitaya
+gr-hpsdr.x86_64 : GNU Radio modules for OpenHPSDR Hermes / Metis and Red Pitaya
+gtkglext-devel.i686 : Development tools for GTK-based OpenGL applications
+gtkglext-devel.x86_64 : Development tools for GTK-based OpenGL applications
+gtkglext-libs.i686 : OpenGL Extension to GTK
+gtkglext-libs.x86_64 : OpenGL Extension to GTK
+gubbi-fonts.noarch : Free Kannada Opentype serif font
+guichan.i686 : Portable C++ GUI library for games using Allegro, SDL and OpenGL
+guichan.x86_64 : Portable C++ GUI library for games using Allegro, SDL and OpenGL
+hash-slinger.noarch : Generate and verify various DNS records such as SSHFP, TLSA and OPENPGPKEY
+ibutils.x86_64 : OpenIB Mellanox InfiniBand Diagnostic Tools
+icc-profiles-basiccolor-printing2009.noarch : The OpenICC profiles from basICColor
+icedtea-web.x86_64 : Additional Java components for OpenJDK - Java Web Start implementation
+infiniband-diags-compat.x86_64 : OpenFabrics Alliance InfiniBand Diagnostic Tools
+ioc-writer.noarch : Tool to create and edit OpenIOC objects
+ipa-ex-gothic-fonts.noarch : Japanese Gothic-typeface OpenType font by IPA
+ipa-ex-mincho-fonts.noarch : Japanese Mincho-typeface OpenType font by IPA
+ipa-gothic-fonts.noarch : Japanese Gothic-typeface OpenType font by IPA
+ipa-mincho-fonts.noarch : Japanese Mincho-typeface OpenType font by IPA
+ipa-pgothic-fonts.noarch : Japanese Proportional Gothic-typeface OpenType font by IPA
+ipa-pmincho-fonts.noarch : Japanese Proportional Mincho-typeface OpenType font by IPA
+jabberd.x86_64 : OpenSource server implementation of the Jabber protocols
+jxrlib.i686 : Open source implementation of jpegxr
+jxrlib.x86_64 : Open source implementation of jpegxr
+kalapi-fonts.noarch : OpenType sanserif font for Gujarati script
+kanotf-fonts.noarch : OpenType Kannada fonts
+kdiskmark.x86_64 : Simple open-source disk benchmark tool for Linux distros
+keychain.noarch : Agent manager for OpenSSH, ssh.com, Sun SSH, and GnuPG
+keylime.noarch : Open source TPM software for Bootstrapping and Maintaining Trust
+kf5-attica.i686 : KDE Frameworks Tier 1 Addon with Open Collaboration Services API
+kf5-attica.x86_64 : KDE Frameworks Tier 1 Addon with Open Collaboration Services API
+kim-api.i686 : Open Knowledgebase of Interatomic Models KIM API
+kim-api.x86_64 : Open Knowledgebase of Interatomic Models KIM API
+labwc.x86_64 : Openbox alternative for Wayland
+launchy.x86_64 : Open Source Keystroke Launcher
+legendary.noarch : Free and open-source replacement for the Epic Games Launcher
+libQGLViewer.i686 : Qt based OpenGL generic 3D viewer library
+libQGLViewer.x86_64 : Qt based OpenGL generic 3D viewer library
+libaacs.x86_64 : Open implementation of AACS specification
+libbdplus.x86_64 : Open implementation of BD+ protocol
+libclc.i686 : An open source implementation of the OpenCL 1.1 library requirements
+libclc.x86_64 : An open source implementation of the OpenCL 1.1 library requirements
+libcryptui.i686 : Interface components for OpenPGP
+libcryptui.x86_64 : Interface components for OpenPGP
+libdap.i686 : The C++ DAP2 library from OPeNDAP
+libdap.x86_64 : The C++ DAP2 library from OPeNDAP
+libde265.x86_64 : Open H.265 video codec implementation
+libde265.i686 : Open H.265 video codec implementation
+libde265-devel.i686 : Open H.265 video codec implementation - development files
+libde265-devel.x86_64 : Open H.265 video codec implementation - development files
+libde265-examples.x86_64 : Open H.265 video codec implementation - examples
+libeot.i686 : A library for parsing Embedded OpenType font files
+libeot.x86_64 : A library for parsing Embedded OpenType font files
+libfabric.i686 : Open Fabric Interfaces
+libfabric.x86_64 : Open Fabric Interfaces
+libfreeaptx.x86_64 : Open Source implementation of Audio Processing Technology codec (aptX)
+libgdiplus.i686 : An Open Source implementation of the GDI+ API
+libgdiplus.x86_64 : An Open Source implementation of the GDI+ API
+libgle.i686 : A Tubing and Extrusion Library for OpenGL
+libgle.x86_64 : A Tubing and Extrusion Library for OpenGL
+libglpng.i686 : Toolkit for loading PNG images as OpenGL textures
+libglpng.x86_64 : Toolkit for loading PNG images as OpenGL textures
+libgomp.x86_64 : GCC OpenMP v4.5 shared support library
+libgomp.i686 : GCC OpenMP v4.5 shared support library
+libgomp-offload-nvptx.x86_64 : GCC OpenMP v4.5 plugin for offloading to NVPTX
+libibcommon.i686 : OpenFabrics Alliance InfiniBand management common library
+libibcommon.x86_64 : OpenFabrics Alliance InfiniBand management common library
+libibumad.i686 : OpenFabrics Alliance InfiniBand umad (userspace management datagram) library
+libibumad.x86_64 : OpenFabrics Alliance InfiniBand umad (userspace management datagram) library
+liblo.i686 : Open Sound Control library
+liblo.x86_64 : Open Sound Control library
+libmatroska.i686 : Open audio/video container format library
+libmatroska.x86_64 : Open audio/video container format library
+libmml-qt4.i686 : Qt4/OpenGL-based MML Widget
+libmml-qt4.x86_64 : Qt4/OpenGL-based MML Widget
+libmml-qt5.i686 : Qt5/OpenGL-based MML Widget
+libmml-qt5.x86_64 : Qt5/OpenGL-based MML Widget
+libndi.x86_64 : Open-source library done to interact with NDI streams
+liboauth2.i686 : Generic library to build OAuth 2.x and OpenID Connect servers and clients in C
+liboauth2.x86_64 : Generic library to build OAuth 2.x and OpenID Connect servers and clients in C
+liboauth2-apache.i686 : OAuth 2.x and OpenID Connect library integration to Apache
+liboauth2-apache.x86_64 : OAuth 2.x and OpenID Connect library integration to Apache
+liboauth2-devel.i686 : Library to build OAuth 2.x and OpenID Connect servers and clients in C
+liboauth2-devel.x86_64 : Library to build OAuth 2.x and OpenID Connect servers and clients in C
+libofa.i686 : Open Fingerprint Architecture library
+libofa.x86_64 : Open Fingerprint Architecture library
+libofx.i686 : A library for supporting Open Financial Exchange (OFX)
+libofx.x86_64 : A library for supporting Open Financial Exchange (OFX)
+liboglappth.i686 : An OpenGL wrapper library
+liboglappth.x86_64 : An OpenGL wrapper library
+libomp.x86_64 : OpenMP runtime for clang
+libomp-devel.x86_64 : OpenMP header files
+libomp-devel.i686 : OpenMP header files
+libomp-test.x86_64 : OpenMP regression tests
+libomxil-bellagio.i686 : OpenMAX Integration Layer
+libomxil-bellagio.x86_64 : OpenMAX Integration Layer
+libopkele.i686 : C++ implementation of the OpenID decentralized identity system
+libopkele.x86_64 : C++ implementation of the OpenID decentralized identity system
+libopm.i686 : Blitzed open proxy monitor library
+libopm.x86_64 : Blitzed open proxy monitor library
+libosmocore.i686 : Utility functions for OsmocomBB, OpenBSC and related projects
+libosmocore.x86_64 : Utility functions for OsmocomBB, OpenBSC and related projects
+libotf.i686 : A Library for handling OpenType Font
+libotf.x86_64 : A Library for handling OpenType Font
+libreoffice-ogltrans.x86_64 : 3D OpenGL slide transitions for LibreOffice
+libretls.i686 : Port of libtls from LibreSSL to OpenSSL
+libretls.x86_64 : Port of libtls from LibreSSL to OpenSSL
+libspnav.i686 : Open source alternative to 3DConnextion drivers
+libspnav.x86_64 : Open source alternative to 3DConnextion drivers
+libsquish.i686 : Open source DXT compression library
+libsquish.x86_64 : Open source DXT compression library
+libsquish-devel.i686 : Development files for Open source DXT compression library
+libsquish-devel.x86_64 : Development files for Open source DXT compression library
+libvdpau-va-gl.i686 : VDPAU driver with OpenGL/VAAPI back-end
+libvdpau-va-gl.x86_64 : VDPAU driver with OpenGL/VAAPI back-end
+libwsman-devel.i686 : Open source Implementation of WS-Management
+libwsman-devel.x86_64 : Open source Implementation of WS-Management
+libwsman1.x86_64 : Open source Implementation of WS-Management
+libwsman1.i686 : Open source Implementation of WS-Management
+linux-libertine-biolinum-fonts.noarch : Sans-serif fonts from Linux Libertine Open Fonts
+linux-libertine-fonts.noarch : Linux Libertine Open Fonts
+linux-libertine-fonts-common.noarch : Common files for Linux Libertine Open Fonts
+loook.noarch : OpenOffice.org document search tool
+lsof.x86_64 : A utility which lists open files on a Linux/UNIX system
+lua-ldap.x86_64 : LDAP client library for Lua, using OpenLDAP
+lua-ldap-compat.x86_64 : LDAP client library for Lua 5.1, using OpenLDAP
+lua-luaossl.x86_64 : Most comprehensive OpenSSL module in the Lua universe
+lua-luaossl-doc.noarch : Documentation for OpenSSL Lua module
+lua-sec.x86_64 : Lua binding for OpenSSL library
+lua5.1-luaossl.x86_64 : Most comprehensive OpenSSL module in the Lua universe
+lua5.1-sec.x86_64 : Lua 5.1 binding for OpenSSL library
+lxappearance-obconf.x86_64 : Plugin to configure Openbox inside LXAppearance
+lxlauncher.x86_64 : Open source replacement for Launcher on the EeePC
+manchu-fonts.noarch : A Manchu OpenType (TrueType-flavored) font
+mariadb-oqgraph-engine.x86_64 : The Open Query GRAPH engine for MariaDB
+mednafen.x86_64 : A multi-system emulator utilizing OpenGL and SDL
+megaglest.x86_64 : Open Source 3d real time strategy game
+merkaartor.x86_64 : Qt-Based OpenStreetMap editor
+mesa-libGLw.i686 : Xt / Motif OpenGL widgets
+mesa-libGLw.x86_64 : Xt / Motif OpenGL widgets
+meteo.x86_64 : Forecast application using OpenWeatherMap API
+mingw32-dirac.noarch : Dirac is an open source video codec
+mingw32-dlfcn.noarch : Implements a wrapper for dlfcn (dlopen dlclose dlsym dlerror)
+mingw32-freeglut.noarch : Fedora MinGW alternative to the OpenGL Utility Toolkit (GLUT)
+mingw32-libgomp.x86_64 : GCC OpenMP v3.0 shared support library for the win32 target
+mingw32-portaudio.noarch : Free, cross platform, open-source, audio I/O library
+mingw32-wavpack.noarch : Completely open audiocodec
+mingw32-wavpack-tools.noarch : Completely open audiocodec tools
+mingw64-dlfcn.noarch : Implements a wrapper for dlfcn (dlopen dlclose dlsym dlerror)
+mingw64-freeglut.noarch : Fedora MinGW alternative to the OpenGL Utility Toolkit (GLUT)
+mingw64-libgomp.x86_64 : GCC OpenMP v3.0 shared support library for the win64 target
+mingw64-wavpack.noarch : Completely open audiocodec tools
+mingw64-wavpack-tools.noarch : Completely open audiocodec tools tools
+mixxx.x86_64 : Mixxx is open source software for DJ'ing
+moby-engine.x86_64 : The open-source application container engine
+monitorix.noarch : A free, open source, lightweight system monitoring tool
+mosquitto.i686 : Open Source MQTT v5/v3.1.x Broker
+mosquitto.x86_64 : Open Source MQTT v5/v3.1.x Broker
+mp.x86_64 : An open-source library for mathematical programming
+navilu-fonts.noarch : Free Kannada opentype sans-serif font
+netatalk.i686 : Open Source Apple Filing Protocol(AFP) File Server
+netatalk.x86_64 : Open Source Apple Filing Protocol(AFP) File Server
+netcat.x86_64 : OpenBSD netcat to read and write data across connections using TCP or UDP
+netscanner.x86_64 : TCP/UDP scanner to find open or closed ports
+o3read.x86_64 : Standalone converter for OpenOffice.org documents
+obconf.x86_64 : A graphical configuration editor for the Openbox window manager
+obconf-qt.x86_64 : A configuration editor for the OpenBox window manager
+obs-studio.x86_64 : Open Broadcaster Software Studio
+obs-studio-devel.x86_64 : Open Broadcaster Software Studio header files
+obs-studio-libs.x86_64 : Open Broadcaster Software Studio libraries
+oc-inject.noarch : Copy an executable to an OpenShift container and run it
+ocaml-lablgl.x86_64 : LablGL is an OpenGL interface for Objective Caml
+ocl-icd.x86_64 : OpenCL Library (Installable Client Library) Bindings
+ocl-icd.i686 : OpenCL Library (Installable Client Library) Bindings
+ocl-icd-devel.i686 : OpenCL Library Development files
+ocl-icd-devel.x86_64 : OpenCL Library Development files
+ocp.x86_64 : Open Cubic Player for MOD/S3M/XM/IT/MIDI music files
+ocproxy.x86_64 : OpenConnect Proxy
+ocserv.x86_64 : OpenConnect SSL VPN server
+ocsinventory-agent.x86_64 : Open Computer and Software Inventory Next Generation client
+ocspd.x86_64 : OpenCA OCSP Daemon
+odfpy-doc.noarch : Python library for manipulating OpenDocument files
+odt2txt.x86_64 : Converts an OpenDocument to plain text
+oflb-asana-math-fonts.noarch : An OpenType font with a MATH table
+ofono.i686 : Open Source Telephony
+ofono.x86_64 : Open Source Telephony
+ogdi.i686 : Open Geographic Datastore Interface
+ogdi.x86_64 : Open Geographic Datastore Interface
+ois.x86_64 : Open Input System, OO gaming input library
+oksh.x86_64 : Portable OpenBSD ksh, based on the Public Domain Korn Shell
+ompl.i686 : The Open Motion Planning Library
+ompl.x86_64 : The Open Motion Planning Library
+ooo2txt.noarch : Convert OpenOffice documents to simple text
+opae.x86_64 : Open Programmable Acceleration Engine (OPAE) SDK
+opal.i686 : Open Phone Abstraction Library
+opal.x86_64 : Open Phone Abstraction Library
+opari2.x86_64 : An OpenMP runtime performance measurement instrumenter
+origin.x86_64 : OpenShift Open Source Container Management by Red Hat
+origin-excluder.noarch : Exclude openshift packages from updates
+origin-sdn-ovs.x86_64 : Origin SDN Plugin for Open vSwitch
+origin-web-console.x86_64 : Web Console for the OpenShift Application Platform
+osbs-client.noarch : Python command line client for OpenShift Build Service
+osc.noarch : Open Build Service Commander
+oscap-anaconda-addon.noarch : Anaconda addon integrating OpenSCAP to the installation process
+osgearth.i686 : Dynamic map generation toolkit for OpenSceneGraph
+osgearth.x86_64 : Dynamic map generation toolkit for OpenSceneGraph
+osm-gps-map.i686 : Gtk+ widget for displaying OpenStreetMap tiles
+osm-gps-map.x86_64 : Gtk+ widget for displaying OpenStreetMap tiles
+osm2pgsql.x86_64 : Import map data from OpenStreetMap to a PostgreSQL database
+osmctools.x86_64 : Tools to manipulate OpenStreetMap files
+osmium-tool.x86_64 : Command line tool for working with OpenStreetMap data
+osmpbf.i686 : C library to read and write OpenStreetMap PBF files
+osmpbf.x86_64 : C library to read and write OpenStreetMap PBF files
+osmpbf-java.noarch : Java OpenStreetMap PBF file format library
+osslsigncode.x86_64 : OpenSSL based Authenticode signing for PE/MSI/Java CAB files
+otf2.i686 : Open Trace Format 2 library
+otf2.x86_64 : Open Trace Format 2 library
+otf2bdf.x86_64 : Generate BDF bitmap fonts from OpenType outline fonts
+ovn.x86_64 : Open Virtual Network support
+ovn-central.x86_64 : Open Virtual Network support
+ovn-host.x86_64 : Open Virtual Network support
+ovn-vtep.x86_64 : Open Virtual Network support
+pagure-theme-chameleon.noarch : Web interface based on openSUSE's chameleon theme
+paperkey.x86_64 : An OpenPGP key archiver
+papirus-icon-theme.noarch : Free and open source SVG icon theme based on Paper Icon Set
+pcb-rnd-hid-gtk2-gl.x86_64 : GUI: gtk2, opengl
+pcb-rnd-lib-gl.x86_64 : Support library for rendering with opengl
+penguin-command.x86_64 : Open source arcade game
+perl-Crypt-SSLeay.x86_64 : OpenSSL glue that provides LWP with HTTPS support
+perl-Data-Pond.x86_64 : Perl-based open notation for data
+perl-Encode-EUCJPASCII.x86_64 : EucJP-ascii - An eucJP-open mapping
+perl-File-MimeInfo.noarch : Determine file type and open application
+perl-FileCache.noarch : Keep more files open than the system permits
+perl-IO-HTML.noarch : Open an HTML file with automatic character set detection
+perl-IO-InSitu.noarch : Avoid clobbering files opened for both input and output
+perl-IO-Socket-PortState.noarch : Perl extension for checking the open or closed status of a port
+perl-LMDB_File.x86_64 : Perl5 wrapper around the OpenLDAP's LMDB
+perl-Net-SSLeay.x86_64 : Perl extension for using OpenSSL
+perl-Tapper.noarch : A flexible and open test infrastructure
+perl-Wx-GLCanvas.x86_64 : Interface to wxWidgets' OpenGL canvas
+pgp-tools.x86_64 : Collection of several utilities related to OpenPGP
+phoronix-test-suite.noarch : An Automated, Open-Source Testing Framework
+php-facedetect.x86_64 : PHP extension to access the OpenCV library
+pocl.i686 : Portable Computing Language - an OpenCL implementation
+pocl.x86_64 : Portable Computing Language - an OpenCL implementation
+polyglot-chess.x86_64 : Polyglot chess opening book program
+portaudio.i686 : Free, cross platform, open-source, audio I/O library
+portaudio.x86_64 : Free, cross platform, open-source, audio I/O library
+pothana2000-fonts.noarch : Unicode compliant OpenType font for Telugu
+prboom.x86_64 : Open source port of the DOOM game engine
+python-aodhclient-doc.noarch : Documentation for OpenStack Aodh API Client
+python-barbicanclient-doc.noarch : Documentation for OpenStack Barbican API client
+python-cinderclient-doc.noarch : Documentation for OpenStack Cinder API Client
+python-designateclient-doc.noarch : Documentation for OpenStack Designate API Client
+python-glanceclient-doc.noarch : Documentation for OpenStack Glance API Client
+python-gnocchiclient-doc.noarch : Documentation for OpenStack Gnocchi API Client
+python-heatclient-doc.noarch : Documentation for OpenStack Heat API Client
+python-keystoneauth1-doc.noarch : Documentation for OpenStack Identity Authentication Library
+python-keystoneclient-doc.noarch : Documentation for OpenStack Keystone API client
+python-manilaclient-doc.noarch : Documentation for OpenStack Share API Client
+python-neutronclient-doc.noarch : Documentation for OpenStack Neutron API Client
+python-novaclient-doc.noarch : Documentation for OpenStack Nova API Client
+python-octaviaclient-doc.noarch : Documentation for OpenStack Octavia Client
+python-os-client-config-doc.noarch : Documentation for OpenStack os-client-config library
+python-osc-lib-doc.noarch : OpenStack osc-lib library documentation
+python-oslo-config-doc.noarch : Documentation for OpenStack common configuration library
+python-oslo-context-doc.noarch : Documentation for the OpenStack Oslo context library
+python-oslo-i18n-doc.noarch : Documentation for OpenStack i18n library
+python-pysword.noarch : Open source python API wrapper for Sword Bible files
+python-swiftclient-doc.noarch : Documentation for OpenStack Object Storage API Client
+python-tackerclient-doc.noarch : OpenStack tacker client documentation
+python3-aodhclient.noarch : Python API and CLI for OpenStack Aodh
+python3-aodhclient-tests.noarch : Python API and CLI for OpenStack Aodh Tests
+python3-authlib.noarch : Build OAuth and OpenID Connect servers in Python
+python3-barbicanclient.noarch : Client Library for OpenStack Barbican Key Management API
+python3-cinderclient.noarch : Python API and CLI for OpenStack Cinder
+python3-designateclient.noarch : Python API and CLI for OpenStack Designate
+python3-designateclient-tests.noarch : Python API and CLI for OpenStack Designate (tests)
+python3-dlrn.noarch : Build and maintain yum repositories following OpenStack upstream commits
+python3-drf-yasg.noarch : Automated generation of real Swagger/OpenAPI 2.0 schemas from Django Rest
+python3-drf-yasg+validation.noarch : Automated generation of real Swagger/OpenAPI 2.0 schemas from Django Rest
+python3-edgegrid.noarch : {OPEN} client authentication protocol for python-requests
+python3-editor.noarch : Programmatically open an editor, capture the result.
+python3-fasjson-client.noarch : An OpenAPI client for FASJSON
+python3-flask-oidc.noarch : An openID Connect support for Flask
+python3-glanceclient.noarch : Python API and CLI for OpenStack Glance
+python3-glymur.noarch : Interface to the OpenJPEG library for working with JPEG 2000 files
+python3-gnocchiclient.noarch : Python API and CLI for OpenStack Gnocchi
+python3-gnocchiclient-tests.noarch : Python API and CLI for OpenStack Gnocchi Tests
+python3-hacking.noarch : OpenStack Hacking Guideline Enforcement
+python3-heatclient.noarch : Python API and CLI for OpenStack Heat
+python3-keystoneauth1.noarch : Authentication Libarary for OpenStack Identity
+python3-keystoneclient.noarch : Client library for OpenStack Identity API
+python3-keystoneclient-tests.noarch : Python API and CLI for OpenStack Keystone (tests)
+python3-libpfm.x86_64 : Python bindings for libpfm and perf_event_open system call
+python3-m2crypto.x86_64 : Support for using OpenSSL in Python 3 scripts
+python3-manilaclient.noarch : Client Library for OpenStack Share API
+python3-mozilla-django-oidc.noarch : A django OpenID Connect library
+python3-ndg_httpsclient.noarch : Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL
+python3-neutronclient.noarch : Python API and CLI for OpenStack Neutron
+python3-neutronclient-tests.noarch : Python API and CLI for OpenStack Neutron - Unit tests
+python3-novaclient.noarch : Python API and CLI for OpenStack Nova
+python3-octaviaclient.noarch : Client for OpenStack Octavia (Load Balancer as a Service)
+python3-octaviaclient-tests.noarch : OpenStack Octavia client tests
+python3-odfpy.noarch : Python library for manipulating OpenDocument files
+python3-ofxparse.noarch : Python library for working with the OFX (Open Financial Exchange) file format
+python3-os-client-config.noarch : OpenStack Client Configuration Library
+python3-os-service-types.noarch : Python library for consuming OpenStack sevice-types-authority data
+python3-os-testr.noarch : A testr wrapper to provide functionality for OpenStack projects
+python3-osbs-client.noarch : Python 3 module for OpenShift Build Service
+python3-osc-lib.noarch : OpenStack library for writing OSC plugins
+python3-osc-lib-tests.noarch : OpenStack osc-lib library tests
+python3-oslo-concurrency.noarch : OpenStack Oslo concurrency library
+python3-oslo-config.noarch : OpenStack common configuration library
+python3-oslo-context.noarch : OpenStack Oslo Context library
+python3-oslo-context-tests.noarch : Tests for OpenStack Oslo context library
+python3-oslo-db.noarch : OpenStack oslo.db library
+python3-oslo-i18n.noarch : OpenStack i18n Python 2 library
+python3-oslo-log.noarch : OpenStack Oslo Log library
+python3-oslo-serialization.noarch : OpenStack oslo.serialization library
+python3-oslo-serialization-tests.noarch : Tests for OpenStack Oslo serialization library
+python3-oslo-sphinx.noarch : OpenStack Sphinx Extensions
+python3-oslo-utils.noarch : OpenStack Oslo Utility library
+python3-oslotest.noarch : OpenStack test framework
+python3-ots.noarch : Python wrapper for the OpenType Sanitizer
+python3-ouimeaux.noarch : Open source control for Belkin WeMo devices
+python3-plotly.noarch : An open-source, interactive data visualization library
+python3-py-bcrypt.x86_64 : Python 3 bindings for OpenBSD's Blowfish password hashing code
+python3-pykdtree.x86_64 : Fast kd-tree implementation with OpenMP-enabled queries
+python3-pyone.noarch : Python Bindings for OpenNebula XML-RPC API
+python3-pyotgw.noarch : Python library to interface with the OpenTherm Gateway
+python3-pyowm.noarch : A Python wrapper around the OpenWeatherMap web API
+python3-rsdclient.noarch : OpenStack client plugin for Rack Scale Design
+python3-saharaclient.noarch : Client library for OpenStack Sahara API
+python3-scons.noarch : An Open Source software construction tool
+python3-service-identity.noarch : Service identity verification for pyOpenSSL
+python3-shade.noarch : Python module for operating OpenStack clouds
+python3-sshpubkeys.noarch : OpenSSH public key parser for Python
+python3-swiftclient.noarch : Client Library for OpenStack Object Storage API
+python3-tackerclient.noarch : OpenStack tacker client
+python3-tackerclient-tests-unit.noarch : OpenStack taker client unit tests
+python3-troveclient.noarch : Client library for OpenStack DBaaS API
+python3-zaqarclient.noarch : Client Library for OpenStack Zaqar Queueing API
+qatengine.x86_64 : Intel QuickAssist Technology (QAT) OpenSSL Engine
+qca-ossl.i686 : Openssl plugin for the Qt4 Cryptographic Architecture
+qca-ossl.x86_64 : Openssl plugin for the Qt4 Cryptographic Architecture
+qca-qt5-ossl.i686 : Openssl plugin for the Qt5 Cryptographic Architecture
+qca-qt5-ossl.x86_64 : Openssl plugin for the Qt5 Cryptographic Architecture
+qemu-system-or1k.x86_64 : QEMU system emulator for OpenRisc32
+qemu-system-or1k-core.x86_64 : QEMU system emulator for OpenRisc32
+qgis.i686 : A user friendly Open Source Geographic Information System
+qgis.x86_64 : A user friendly Open Source Geographic Information System
+qt6-qtshadertools.i686 : Qt6 - Qt Shader Tools module builds on the SPIR-V Open Source Ecosystem
+qt6-qtshadertools.x86_64 : Qt6 - Qt Shader Tools module builds on the SPIR-V Open Source Ecosystem
+quesoglc.i686 : The OpenGL Character Renderer
+quesoglc.x86_64 : The OpenGL Character Renderer
+qwtplot3d.i686 : Qt/OpenGL-based C++ library providing a bunch of 3D-widgets
+qwtplot3d.x86_64 : Qt/OpenGL-based C++ library providing a bunch of 3D-widgets
+qwtplot3d-qt4.i686 : Qt4/OpenGL-based C++ library providing a bunch of 3D-widgets
+qwtplot3d-qt4.x86_64 : Qt4/OpenGL-based C++ library providing a bunch of 3D-widgets
+readosm.i686 : Library to extract valid data from within an Open Street Map input file
+readosm.x86_64 : Library to extract valid data from within an Open Street Map input file
+recapp.noarch : User friendly Open Source screencaster for Linux written in GTK
+resource-agents.x86_64 : Open Source HA Reusable Cluster Resource Scripts
+routino.x86_64 : Router for OpenStreetMap Data
+routino-libs.i686 : Routing library for OpenStreetMap Data
+routino-libs.x86_64 : Routing library for OpenStreetMap Data
+rssh.x86_64 : Restricted shell for use with OpenSSH, allowing only scp and/or sftp
+rubygem-asciidoctor.noarch : A fast, open source AsciiDoc implementation in Ruby
+rubygem-glu.x86_64 : Glu bindings for the opengl gem
+rubygem-glut.x86_64 : Glut bindings for the OpenGL gem
+runc.x86_64 : CLI for running Open Containers
+rust-ab_glyph+default-devel.noarch : API for loading, scaling, positioning and rasterizing OpenType font glyphs
+rust-ab_glyph+libm-devel.noarch : API for loading, scaling, positioning and rasterizing OpenType font glyphs
+rust-ab_glyph+libm2-devel.noarch : API for loading, scaling, positioning and rasterizing OpenType font glyphs
+rust-ab_glyph+std-devel.noarch : API for loading, scaling, positioning and rasterizing OpenType font glyphs
+rust-ab_glyph-devel.noarch : API for loading, scaling, positioning and rasterizing OpenType font glyphs
+rust-edit+better-path-devel.noarch : Open a file in the default text editor
+rust-edit+default-devel.noarch : Open a file in the default text editor
+rust-edit+which-devel.noarch : Open a file in the default text editor
+rust-edit-devel.noarch : Open a file in the default text editor
+rust-gl_generator+default-devel.noarch : Code generators for creating bindings to the Khronos OpenGL APIs
+rust-gl_generator+unstable_generator_utils-devel.noarch : Code generators for creating bindings to the Khronos OpenGL APIs
+rust-gl_generator-devel.noarch : Code generators for creating bindings to the Khronos OpenGL APIs
+rust-glutin+default-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin+glutin_glx_sys-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin+serde-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin+wayland-client-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin+wayland-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin+wayland-egl-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin+x11-devel.noarch : Cross-platform OpenGL context provider
+rust-glutin-devel.noarch : Cross-platform OpenGL context provider
+rust-os_pipe+default-devel.noarch : Cross-platform library for opening OS pipes
+rust-os_pipe-devel.noarch : Cross-platform library for opening OS pipes
+rust-os_pipe0.9+default-devel.noarch : Cross-platform library for opening OS pipes
+rust-os_pipe0.9-devel.noarch : Cross-platform library for opening OS pipes
+rust-sequoia-net+compression-bzip2-devel.noarch : Network services for OpenPGP
+rust-sequoia-net+compression-deflate-devel.noarch : Network services for OpenPGP
+rust-sequoia-net+compression-devel.noarch : Network services for OpenPGP
+rust-sequoia-net+crypto-nettle-devel.noarch : Network services for OpenPGP
+rust-sequoia-net+default-devel.noarch : Network services for OpenPGP
+rust-sequoia-net-devel.noarch : Network services for OpenPGP
+rust-sequoia-sop+cli-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sequoia-sop+compression-bzip2-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sequoia-sop+compression-deflate-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sequoia-sop+compression-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sequoia-sop+crypto-nettle-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sequoia-sop+default-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sequoia-sop-devel.noarch : Stateless OpenPGP Interface using Sequoia
+rust-sop+anyhow-devel.noarch : Rust Interface for the Stateless OpenPGP Protocol
+rust-sop+chrono-devel.noarch : Rust Interface for the Stateless OpenPGP Protocol
+rust-sop+cli-devel.noarch : Rust Interface for the Stateless OpenPGP Protocol
+rust-sop+default-devel.noarch : Rust Interface for the Stateless OpenPGP Protocol
+rust-sop+structopt-devel.noarch : Rust Interface for the Stateless OpenPGP Protocol
+rust-sop-devel.noarch : Rust Interface for the Stateless OpenPGP Protocol
+rust-webbrowser+default-devel.noarch : Open URLs in web browsers available on a platform
+rust-webbrowser-devel.noarch : Open URLs in web browsers available on a platform
+saab-fonts.noarch : Free Punjabi Unicode OpenType Serif Font
+sage.i686 : OpenGL extensions library using SDL
+sage.x86_64 : OpenGL extensions library using SDL
+sagemath.x86_64 : A free open-source mathematics software system
+sagemath-core.x86_64 : Open Source Mathematics Software
+samyak-devanagari-fonts.noarch : Open Type Fonts for Devanagari script
+samyak-gujarati-fonts.noarch : Open Type Fonts for Gujarati script
+samyak-malayalam-fonts.noarch : Open Type Fonts for Malayalam script
+samyak-odia-fonts.noarch : Open Type Fonts for Odia script
+samyak-tamil-fonts.noarch : Open Type Fonts for Tamil script
+sar2.x86_64 : An open source helicopter simulator
+scanssh.x86_64 : Fast SSH server and open proxy scanner
+scons-doc.noarch : An Open Source software construction tool
+scribus-generator.noarch : Open source high-quality PDF template and mail-merge alternative
+seabios.noarch : Open-source legacy BIOS implementation
+seqan.x86_64 : Open source C++ library of efficient algorithms and data structures
+sequoia-sop.x86_64 : Stateless OpenPGP Interface using Sequoia
+sequoia-sqv.x86_64 : Simple OpenPGP signature verification program
+sgmanager.noarch : OpenStack Security Groups Management Tool
+shobhika-fonts.noarch : Free Indian truetype/open type fonts
+shotcut.x86_64 : A free, open source, cross-platform video editor
+smbldap-tools.noarch : User and group administration tools for Samba/OpenLDAP
+smc.x86_64 : 2D platform game that uses OpenGL in a style similar to Super Mario
+smc-anjalioldlipi-fonts.noarch : Open Type Fonts for Malayalam script
+smc-dyuthi-fonts.noarch : Open Type Fonts for Malayalam script
+smc-meera-fonts.noarch : Open Type Fonts for Malayalam script
+smc-rachana-fonts.noarch : Open Type Fonts for Malayalam script
+smc-raghumalayalamsans-fonts.noarch : Open Type Fonts for Malayalam script
+smc-suruma-fonts.noarch : Open Type Fonts for Malayalam script
+smesh.i686 : OpenCascade based MESH framework
+smesh.x86_64 : OpenCascade based MESH framework
+sourcetrail.x86_64 : a free and open-source interactive source explorer
+speed-dreams.i686 : The Open Racing Car Simulator
+speed-dreams.x86_64 : The Open Racing Car Simulator
+speed-dreams-devel.i686 : The Open Racing Car Simulator development files
+speed-dreams-devel.x86_64 : The Open Racing Car Simulator development files
+speed-dreams-robots-base.noarch : The Open Racing Car Simulator additional dirt tracks
+sphinx.x86_64 : Free open-source SQL full-text search engine
+sqlcipher.i686 : SQLCipher is an open source extension to SQLite that provides transparent 256-bit AES encryption of database files.
+sqlcipher.x86_64 : SQLCipher is an open source extension to SQLite that provides transparent 256-bit AES encryption of database files.
+sticky-notes.noarch : Sticky notes is a free and open source paste-bin application
+stockfish.x86_64 : Powerful open source chess engine
+strongswan.x86_64 : An OpenSource IPsec-based VPN and TNC solution
+tachyon-gl.x86_64 : Parallel / Multiprocessor Ray Tracing System with OpenGL display
+tcl-togl.i686 : A Tk OpenGL widget
+tcl-togl.x86_64 : A Tk OpenGL widget
+tcltls.i686 : OpenSSL extension for Tcl
+tcltls.x86_64 : OpenSSL extension for Tcl
+tcltls-devel.i686 : Header files for the OpenSSL extension for Tcl
+tcltls-devel.x86_64 : Header files for the OpenSSL extension for Tcl
+tempest.x86_64 : Tempest OpenGL screensaver
+texlive-erewhon-math.noarch : Utopia based OpenType Math font
+texlive-firamath-otf.noarch : Use OpenType math font Fira Math
+texlive-frederika2016.noarch : An OpenType Greek calligraphy font
+texlive-getmap.noarch : Download OpenStreetMap maps for use in documents
+texlive-ku-template.noarch : Template for University of Copenhagen logos
+texlive-libertinus-otf.noarch : Support for Libertinus OpenType
+texlive-lm-math.noarch : OpenType maths fonts for Latin Modern
+texlive-luaotfload.noarch : OpenType 'loader' for Plain TeX and LaTeX
+texlive-mathfont.noarch : Use TrueType and OpenType fonts in math mode; compatible with XeTeX and LuaTeX
+texlive-missaali.noarch : A late medieval OpenType textura font
+texlive-mleftright.noarch : Variants of delimiters that act as maths open/close
+texlive-ocr-b-outline.noarch : OCR-B fonts in Type 1 and OpenType
+texlive-odsfile.noarch : Read OpenDocument Spreadsheet documents as LaTeX tables
+texlive-plex-otf.noarch : Support for the OpenType font IBM Plex
+texlive-punknova.noarch : OpenType version of Knuth's Punk font
+texlive-realscripts.noarch : Access OpenType subscript and superscript glyphs
+texlive-shobhika.noarch : An OpenType Devanagari font designed for scholars
+texlive-spark-otf.noarch : Support OpenType Spark fonts
+texlive-stix.noarch : OpenType Unicode maths fonts
+texlive-stix2-otf.noarch : OpenType Unicode text and maths fonts
+texlive-stix2-type1.noarch : Type1 versions of the STIX Two OpenType fonts
+texlive-xetex.x86_64 : Unicode and OpenType-enabled TeX engine
+thunderbird-librnp-rnp.x86_64 : OpenPGP implementation for Thunderbird based on RNP
+timescaledb.x86_64 : Open-source time-series database powered by PostgreSQL
+tog-pegasus.x86_64 : OpenPegasus WBEM Services for Linux
+tog-pegasus-devel.i686 : The OpenPegasus Software Development Kit
+tog-pegasus-devel.x86_64 : The OpenPegasus Software Development Kit
+tog-pegasus-libs.i686 : The OpenPegasus Libraries
+tog-pegasus-libs.x86_64 : The OpenPegasus Libraries
+tog-pegasus-test.x86_64 : The OpenPegasus Tests
+torcs.x86_64 : The Open Racing Car Simulator
+torcs-data.noarch : The Open Racing Car Simulator data files
+torque.x86_64 : Tera-scale Open-source Resource and QUEue manager
+tpm2-tss-engine.i686 : OpenSSL Engine for TPM2 devices using the tpm2-tss software stack
+tpm2-tss-engine.x86_64 : OpenSSL Engine for TPM2 devices using the tpm2-tss software stack
+tpm2-tss-engine-utilities.x86_64 : Utility binary for openssl using tpm2-tss software stack
+uniol-fonts.noarch : Unicode compliant Open source Ol Chiki font
+unrealircd.x86_64 : Open Source IRC server
+vemana2000-fonts.noarch : Unicode compliant OpenType font for Telugu
+vim-command-t.x86_64 : An extremely fast, intuitive mechanism for opening files in VIM
+vlc.x86_64 : The cross-platform open-source multimedia framework, player and server
+vokoscreenNG.x86_64 : User friendly Open Source screencaster
+vpnc-script.noarch : Routing setup script for vpnc and openconnect
+waifu2x-converter-cpp.i686 : Image Super-Resolution for Anime-style art using OpenCL and OpenCV
+waifu2x-converter-cpp.x86_64 : Image Super-Resolution for Anime-style art using OpenCL and OpenCV
+wavpack.x86_64 : A completely open audiocodec
+wavpack.i686 : A completely open audiocodec
+widelands.x86_64 : Open source realtime-strategy game
+wimlib.i686 : Open source Windows Imaging (WIM) library
+wimlib.x86_64 : Open source Windows Imaging (WIM) library
+woff.x86_64 : Encoding and Decoding for Web Open Font Format(Woff)
+woff2.x86_64 : Web Open Font Format 2.0 library
+woff2.i686 : Web Open Font Format 2.0 library
+woff2-tools.x86_64 : Web Open Font Format 2.0 tools
+wxGTK-gl.i686 : OpenGL add-on for the wxWidgets library
+wxGTK-gl.x86_64 : OpenGL add-on for the wxWidgets library
+wxGTK3-gl.i686 : OpenGL add-on for the wxWidgets library
+wxGTK3-gl.x86_64 : OpenGL add-on for the wxWidgets library
+x11-ssh-askpass.x86_64 : A passphrase dialog for X and not only for OpenSSH
+xrdp.i686 : Open source remote desktop protocol (RDP) server
+xrdp.x86_64 : Open source remote desktop protocol (RDP) server
+xscreensaver-gl-base.x86_64 : A base package for screensavers that require OpenGL
+xscreensaver-gl-extras.x86_64 : An enhanced set of screensavers that require OpenGL
+xwax.x86_64 : Open source vinyl emulation software for Linux
+yosys.i686 : Yosys Open SYnthesis Suite, including Verilog synthesizer
+yosys.x86_64 : Yosys Open SYnthesis Suite, including Verilog synthesizer
+zabbix.x86_64 : Open-source monitoring solution for your IT infrastructure
+zegrapher.x86_64 : Free and opensource math graphing software
+zhu3d.x86_64 : Interactive OpenGL-based mathematical function viewer

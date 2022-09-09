@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Getting started with virtualization :: Fedora Docs</title>
+    <link rel="canonical" href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/">
+    <meta name="generator" content="Antora 3.0.1">
+    <link rel="stylesheet" href="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/site.css">
+<link rel="stylesheet" href="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">  <link rel="stylesheet" href="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/search.css"></head>
+  <body class="article">
+<!-- Add any HTML code to show at the top of each page — like a banner to a survey, some announcement, etc. Leave this file empty to not show anything-->
+<header class="header" role="banner">
+  <nav class="navbar" style="">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="https://docs.fedoraproject.org/en-US">
+        <img src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/docs_logo.png" style="height:40px">
+      </a>
+      <div class="navbar-item search hide-for-print">
+        <div id="search-field" class="field has-filter">
+          <input id="search-input" type="text" placeholder="Search the docs" title="">
+	  <label class="filter checkbox">
+            <input type="checkbox" data-facet-filter="component:quick-docs"> In this project
+          </label>
+        <div class="search-result-dropdown-menu"></div></div>
+      </div>
+      <!-- We don't have anything in the menu, but the burger still appears
+           on mobile devices. So let's remove it. -->
+      <!--<button class="navbar-burger" data-target="topbar-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>-->
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+
+      </div>
+    </div>
+  </nav>
+</header>
+<div class="body">
+<div class="nav-container" data-component="quick-docs" data-version="master">
+  <aside class="nav">
+    <div class="panels">
+<div class="nav-panel-menu is-active" data-panel="menu">
+  <nav class="nav-menu">
+    <h3 class="title"><a href="https://docs.fedoraproject.org/en-US/quick-docs/">Quick Docs</a></h3>
+<ul class="nav-list">
+  <li class="nav-item is-active is-current-path" data-depth="0">
+<ul class="nav-list">
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/contribute-to-quick-docs/">Contribute to Quick Docs</a>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bugzilla/">Bugs</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/howto-file-a-bug/">How to file a bug</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bugzilla/query/">Bugzilla queries</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bugzilla/find-duplicates/">Finding duplicate bugs</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bugzilla/correct-component/">Finding the correct component</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bugzilla/spam/">Reporting Bugzilla spam</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bugzilla/email-notifications/">Managing email notifications</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-guide/">Getting started with Fedora</a>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Installation</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/">Creating and using a live installation image</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/">Fedora on Raspberry Pi</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/anaconda/anaconda/">Anaconda: the Fedora installer</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="3">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/anaconda/anaconda_logging/">Anaconda Logging</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Accessibility</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/accessibility/why-choose-fedora/">Why choose Fedora Linux?</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/accessibility/installing-fedora-with-orca/">Installing Fedora using Orca</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/accessibility/after-installing-with-orca/">Post installation configuration</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Adding and managing software</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/package-management/">Package management system</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/dnf/">Using the DNF software package manager</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/repositories/">Fedora Repositories</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/finding-and-installing-linux-applications/">Finding and installing Linux applications</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/adding-or-removing-software-repositories-in-fedora/">Adding or removing software repositories in Fedora</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/">Enabling the RPM Fusion repositories</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/fonts/">Adding new fonts</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/packagekit-not-found/">PackageKit Items Not Found</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/securing-the-system-by-keeping-it-up-to-date/">Securing the system by keeping it up-to-date</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/autoupdates/">AutoUpdates</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/dnf-vs-apt/">APT command equivalents on Fedora with DNF</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-java/">Installing Java</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/assembly_installing-plugins-for-playing-movies-and-music/">Installing plugins for playing movies and music</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/openh264/">OpenH264</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-chromium-or-google-chrome-browsers/">Installing Chromium or Google Chrome browsers</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-spotify/">Installing Spotify on Fedora</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-skype/">Installing Skype on Fedora</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Usage and customisation</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/changing-hostname/">Changing Hostname</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/switching-desktop-environments/">Switching desktop environments</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/configuring-x-window-system-using-the-xorg-conf-file/">Configuring X Window System using the xorg.conf file</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/configuring-xorg-as-default-gnome-session/">Configuring Xorg as the default GNOME session</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/gnome-shell-extensions/">Using GNOME Shell extensions</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/wine/">Running Windows applications with Wine</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/create-gpg-keys/">Creating GPG Keys</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bootloading-with-grub2/">Bootloading with GRUB2</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/root-account-locked/">Root Account Locked</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/proc_setting-key-shortcut/">Setting a key shortcut to run an application in GNOME</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/disabling-automatic-screenlock/">Disabling the GNOME automatic screen locking</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/viewing-logs/">Viewing logs in Fedora</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/encrypting-drives-using-LUKS/">Encrypting drives using LUKS</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-and-running-vlc/">Installing and running the VLC player</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/configuring-ip-networking-with-nmcli/">Configuring networking with NetworkManager CLI (nmcli)</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/using-shared-system-certificates/">Using shared system certificates</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/adding_user_to_sudoers_file/">Adding a user to sudoers</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/performing-administration-tasks-using-sudo/">Performing administration tasks using sudo</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/understanding-and-administering-systemd/">Understanding and administering systemd</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/displaying_user_prompt_on_gnome_login_screen/">Displaying a user prompt on the GNOME login screen</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/firewalld/">Controlling network traffic with firewalld</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/managing-keyboard-shortcuts-for-running-app-in-gnome/">Managing keyboard shortcuts for running an application in GNOME</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/creating-a-disk-partition-in-linux/">Creating disk partitions</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/reset-root-password/">Resetting a root password</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/using-aide/">Checking file integrity with AIDE</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-apache-http-server/">Getting started with Apache HTTP Server</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/how-to-edit-iptables-rules/">How to edit iptables rules</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/samba/">How to create a Samba share</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/join-active-directory-freeipa/">How to join an Active Directory or FreeIPA domain</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">NVIDIA</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="3">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/bumblebee/">NVIDIA Optimus Bumblebee</a>
+  </li>
+  <li class="nav-item" data-depth="3">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/how-to-set-nvidia-as-primary-gpu-on-optimus-based-laptops/">How to Set NVIDIA as Primary GPU on Optimus-based Laptops</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-selinux/">SELinux</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/changing-selinux-states-and-modes/">Changing SELinux states and modes</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/troubleshooting_selinux/">Troubleshooting SELinux</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/upgrading/">Upgrading to a new release</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/">Upgrading Fedora using the DNF system upgrade</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/upgrading-fedora-online/">Upgrading Fedora using package manager</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/overview/">Kernel and booting</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/booting/">Booting</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/troubleshooting/">Troubleshooting</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/build-custom-kernel/">Building a Custom Kernel</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/howto-kernel-testday/">Guide for Kernel Test Days</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/debug-dracut-problems/">How to debug Dracut problems</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/installing-koji-kernel/">Installing a kernel from Koji</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/kernel/testing-patches/">Testing kernel patches</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item is-active is-current-path" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Virtualization</span>
+<ul class="nav-list">
+  <li class="nav-item is-current-page is-active" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/">Getting started with virtualization (libvirt)</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-virtual-systems-with-gnome-boxes/">Installing virtual operating systems with GNOME Boxes</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/qemu/">Using virtualization emulation in QEMU</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/using-nested-virtualization-in-kvm/">Using nested virtualization in KVM</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/">Creating Windows virtual machines using virtIO drivers</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/how-to-use-vmware/">How to use VMware products</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="0">
+<ul class="nav-list">
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/publish-rpm-on-copr/">Publishing your software on Copr</a>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Databases</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/postgresql/">PostgreSQL</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/installing-mysql-mariadb/">Installing, Configuring and Troubleshooting MySql/MariaDB</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/manage-sql-server/">How to Manage your SQL Server from GUI</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">Printing and scanning</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/how-to-debug-printing-problems/">Troubleshooting printing issues</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/how-to-debug-scanning-problems/">Troubleshooting scanning issues</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/cups-useful-tricks/">Useful tricks</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/cups-terminology/">Terminology</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/cups-known-issues/">Known issues</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/cups-filing-a-bug-report/">Filing a bug report</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <span class="nav-text" style="cursor: pointer;">FAQ</span>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="https://docs.fedoraproject.org/en-US/quick-docs/fedora-and-red-hat-enterprise-linux/">Difference between Fedora and Red Hat Enterprise Linux</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </li>
+</ul>
+  </nav>
+</div>
+<div class="nav-panel-explore" data-panel="explore">
+  <div class="context">
+    <span class="title">Quick Docs</span>
+    <span class="version"></span>
+  </div>
+  <ul class="components">
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/ask-fedora-sops/">Ask Fedora SOPs</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/commops/latest/">CommOps</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/cpe/">Community Platform Engineering</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/defensive-coding/">Defensive Coding Guide</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/diversity-inclusion/">Diversity, Equity, and Inclusion</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/engineering/">Engineering Teams</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/epel/">EPEL</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-accounts/">Fedora Accounts</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/badges/">Fedora Badges</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/ci/">Fedora CI</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/containers/">Fedora Container Docs</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-coreos/">Fedora CoreOS</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/council/">Fedora Council</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-docs/">Fedora Docs Team</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/docs/">Fedora Documentation</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/eln/">Fedora ELN</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/gaming/">Fedora Gaming</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/i3/">Fedora i3 S.I.G.</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/infra/">Fedora Infrastructure</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/iot/">Fedora Internet Of Things</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/iot-wg/">Fedora IoT Working Group</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-join/">Fedora Join SIG</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-kinoite/">Fedora Kinoite</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/legal/">Fedora Legal</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/releases/">Fedora Linux Releases</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/localization/">Fedora Localization Team</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-magazine/">Fedora Magazine</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/marketing/">Fedora Marketing</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/program_management/">Fedora Program Management</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/project/">Fedora Project</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/qa-docs/">Fedora QA Docs</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/rawhide-gating/">Fedora Rawhide Gating</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-server/">Fedora Server Documentation</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/server-working-group/">Fedora Server Working Group</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora-silverblue/">Fedora Silverblue</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/teleirc-sig/">Fedora TeleIRC SIG</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fedora/latest/">Fedora User Docs</a>
+      <ul class="versions">
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/rawhide/">rawhide</a>
+        </li>
+        <li class="version is-latest">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/latest/">f36</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f35/">f35</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f34/">f34</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f33/">f33</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f32/">f32</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f31/">f31</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f30/">f30</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f29/">f29</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f28/">f28</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f27/">f27</a>
+        </li>
+        <li class="version">
+          <a href="https://docs.fedoraproject.org/en-US/fedora/f26/">f26</a>
+        </li>
+      </ul>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/websites/">Fedora Websites &amp; Apps</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/workstation-working-group/">Fedora Workstation Working Group</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/fesco/">FESCo</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/flatpak/">Flatpak</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/java-packaging-howto/">Java-Packaging HOWTO</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/docs-l10n/">Localization help and stats</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2021/">Mentored Projects</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/mindshare-committee/">Mindshare Committee</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/mindshare/">Mindshare Teams</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/minimization/">Minimization</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/modularity/">Modularity</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/neurofedora/overview/">NeuroFedora User Documentation</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/package-maintainers/">Package Maintainers</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/packaging-guidelines/">Packaging Guidelines</a>
+    </li>
+    <li class="component is-current">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/quick-docs/">Quick Docs</a>
+    </li>
+    <li class="component">
+      <a class="title" href="https://docs.fedoraproject.org/en-US/remix-building/remix-ci/">Remix Docs</a>
+    </li>
+  </ul>
+</div>
+    </div>
+  </aside>
+</div>
+<main class="article">
+<div class="toolbar" role="navigation">
+<button class="nav-toggle"></button>
+  <a href="https://docs.fedoraproject.org/en-US/docs/" class="home-link"></a>
+<nav class="crumbs" role="navigation" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="https://docs.fedoraproject.org/en-US/quick-docs/">Quick Docs</a></li>
+    <li>Virtualization</li>
+    <li><a href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/">Getting started with virtualization (libvirt)</a></li>
+  </ul>
+</nav>
+
+        <div class="page-languages">
+            <button class="languages-menu-toggle" title="Show other languages of the site">
+                en-US
+            </button>
+            <div class="languages-menu">
+    
+<a class="language" href="https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/">en-US</a>
+<a class="language" href="https://docs.fedoraproject.org/ar/quick-docs/getting-started-with-virtualization/">ar</a>
+<a class="language" href="https://docs.fedoraproject.org/ast/quick-docs/getting-started-with-virtualization/">ast</a>
+<a class="language" href="https://docs.fedoraproject.org/az/quick-docs/getting-started-with-virtualization/">az</a>
+<a class="language" href="https://docs.fedoraproject.org/be/quick-docs/getting-started-with-virtualization/">be</a>
+<a class="language" href="https://docs.fedoraproject.org/bg/quick-docs/getting-started-with-virtualization/">bg</a>
+<a class="language" href="https://docs.fedoraproject.org/bn/quick-docs/getting-started-with-virtualization/">bn</a>
+<a class="language" href="https://docs.fedoraproject.org/ca/quick-docs/getting-started-with-virtualization/">ca</a>
+<a class="language" href="https://docs.fedoraproject.org/cs/quick-docs/getting-started-with-virtualization/">cs</a>
+<a class="language" href="https://docs.fedoraproject.org/de/quick-docs/getting-started-with-virtualization/">de</a>
+<a class="language" href="https://docs.fedoraproject.org/el/quick-docs/getting-started-with-virtualization/">el</a>
+<a class="language" href="https://docs.fedoraproject.org/es/quick-docs/getting-started-with-virtualization/">es</a>
+<a class="language" href="https://docs.fedoraproject.org/es_419/quick-docs/getting-started-with-virtualization/">es_419</a>
+<a class="language" href="https://docs.fedoraproject.org/fa/quick-docs/getting-started-with-virtualization/">fa</a>
+<a class="language" href="https://docs.fedoraproject.org/fi/quick-docs/getting-started-with-virtualization/">fi</a>
+<a class="language" href="https://docs.fedoraproject.org/fil/quick-docs/getting-started-with-virtualization/">fil</a>
+<a class="language" href="https://docs.fedoraproject.org/fr/quick-docs/getting-started-with-virtualization/">fr</a>
+<a class="language" href="https://docs.fedoraproject.org/fur/quick-docs/getting-started-with-virtualization/">fur</a>
+<a class="language" href="https://docs.fedoraproject.org/he/quick-docs/getting-started-with-virtualization/">he</a>
+<a class="language" href="https://docs.fedoraproject.org/hi/quick-docs/getting-started-with-virtualization/">hi</a>
+<a class="language" href="https://docs.fedoraproject.org/hr/quick-docs/getting-started-with-virtualization/">hr</a>
+<a class="language" href="https://docs.fedoraproject.org/hu/quick-docs/getting-started-with-virtualization/">hu</a>
+<a class="language" href="https://docs.fedoraproject.org/id/quick-docs/getting-started-with-virtualization/">id</a>
+<a class="language" href="https://docs.fedoraproject.org/it/quick-docs/getting-started-with-virtualization/">it</a>
+<a class="language" href="https://docs.fedoraproject.org/ja/quick-docs/getting-started-with-virtualization/">ja</a>
+<a class="language" href="https://docs.fedoraproject.org/jp/quick-docs/getting-started-with-virtualization/">jp</a>
+<a class="language" href="https://docs.fedoraproject.org/ko/quick-docs/getting-started-with-virtualization/">ko</a>
+<a class="language" href="https://docs.fedoraproject.org/mr/quick-docs/getting-started-with-virtualization/">mr</a>
+<a class="language" href="https://docs.fedoraproject.org/ms/quick-docs/getting-started-with-virtualization/">ms</a>
+<a class="language" href="https://docs.fedoraproject.org/my/quick-docs/getting-started-with-virtualization/">my</a>
+<a class="language" href="https://docs.fedoraproject.org/nb_NO/quick-docs/getting-started-with-virtualization/">nb_NO</a>
+<a class="language" href="https://docs.fedoraproject.org/ne/quick-docs/getting-started-with-virtualization/">ne</a>
+<a class="language" href="https://docs.fedoraproject.org/nl/quick-docs/getting-started-with-virtualization/">nl</a>
+<a class="language" href="https://docs.fedoraproject.org/or/quick-docs/getting-started-with-virtualization/">or</a>
+<a class="language" href="https://docs.fedoraproject.org/pl/quick-docs/getting-started-with-virtualization/">pl</a>
+<a class="language" href="https://docs.fedoraproject.org/pt/quick-docs/getting-started-with-virtualization/">pt</a>
+<a class="language" href="https://docs.fedoraproject.org/pt_BR/quick-docs/getting-started-with-virtualization/">pt_BR</a>
+<a class="language" href="https://docs.fedoraproject.org/pt_PT/quick-docs/getting-started-with-virtualization/">pt_PT</a>
+<a class="language" href="https://docs.fedoraproject.org/ro/quick-docs/getting-started-with-virtualization/">ro</a>
+<a class="language" href="https://docs.fedoraproject.org/ru/quick-docs/getting-started-with-virtualization/">ru</a>
+<a class="language" href="https://docs.fedoraproject.org/si/quick-docs/getting-started-with-virtualization/">si</a>
+<a class="language" href="https://docs.fedoraproject.org/sk/quick-docs/getting-started-with-virtualization/">sk</a>
+<a class="language" href="https://docs.fedoraproject.org/sq/quick-docs/getting-started-with-virtualization/">sq</a>
+<a class="language" href="https://docs.fedoraproject.org/sv/quick-docs/getting-started-with-virtualization/">sv</a>
+<a class="language" href="https://docs.fedoraproject.org/sw/quick-docs/getting-started-with-virtualization/">sw</a>
+<a class="language" href="https://docs.fedoraproject.org/te/quick-docs/getting-started-with-virtualization/">te</a>
+<a class="language" href="https://docs.fedoraproject.org/tr/quick-docs/getting-started-with-virtualization/">tr</a>
+<a class="language" href="https://docs.fedoraproject.org/tzm/quick-docs/getting-started-with-virtualization/">tzm</a>
+<a class="language" href="https://docs.fedoraproject.org/uk/quick-docs/getting-started-with-virtualization/">uk</a>
+<a class="language" href="https://docs.fedoraproject.org/ur/quick-docs/getting-started-with-virtualization/">ur</a>
+<a class="language" href="https://docs.fedoraproject.org/ur_PK/quick-docs/getting-started-with-virtualization/">ur_PK</a>
+<a class="language" href="https://docs.fedoraproject.org/uz/quick-docs/getting-started-with-virtualization/">uz</a>
+<a class="language" href="https://docs.fedoraproject.org/zh_CN/quick-docs/getting-started-with-virtualization/">zh_CN</a>
+<a class="language" href="https://docs.fedoraproject.org/zh_Hans/quick-docs/getting-started-with-virtualization/">zh_Hans</a>
+<a class="language" href="https://docs.fedoraproject.org/zh_TW/quick-docs/getting-started-with-virtualization/">zh_TW</a>
+
+            </div>
+        </div>
+      <div class="edit-this-page"><a href="https://pagure.io/fedora-docs/quick-docs/history/modules/ROOT/pages/getting-started-with-virtualization.adoc?identifier=master" title="Page history"><i class="fas fa-history"></i></a></div>
+  <div class="edit-this-page"><a href="https://pagure.io/fedora-docs/quick-docs/blob/master/f/modules/ROOT/pages/getting-started-with-virtualization.adoc" title="Edit this Page"><i class="fas fa-edit"></i></a></div>
+  <div class="edit-this-page"><a href="https://pagure.io/fedora-docs/quick-docs/new_issue?title=[master]%20Doc%20issue%20in%20file%20modules/ROOT/pages/getting-started-with-virtualization.adoc" title="Report an issue"><i class="fas fa-bug"></i></a></div>
+  
+</div>
+  <div class="content">
+<aside class="toc sidebar" data-title="Contents" data-levels="2">
+  <div class="toc-menu"><h3>Contents</h3><ul><li data-level="1"><a href="#enabling-hardware-virtualization-support">Enabling hardware virtualization support</a></li><li data-level="2"><a href="#system-requirements">System requirements</a></li><li data-level="1"><a href="#installing-virtualization-software">Installing virtualization software</a></li><li data-level="2"><a href="#networking-support">Networking Support</a></li><li data-level="1"><a href="#creating-virtual-machines">Creating virtual machines</a></li><li data-level="2"><a href="#creating-a-guest-with-virt-install">Creating a guest with virt-install</a></li><li data-level="2"><a href="#creating-a-guest-with-virt-manager">Creating a guest with virt-manager</a></li><li data-level="1"><a href="#ref_managing-virtual-machines">Managing virtual machines</a></li><li data-level="2"><a href="#managing-guests-with-virt-manager">Managing guests with virt-manager</a></li><li data-level="2"><a href="#managing-guests-with-virsh">Managing guests with virsh</a></li><li data-level="2"><a href="#remote-management">Remote management</a></li><li data-level="1"><a href="#other-virtualization-options">Other virtualization options</a></li><li data-level="2"><a href="#qemukvm-without-libvirt">QEMU/KVM without libvirt</a></li><li data-level="2"><a href="#xen">Xen</a></li><li data-level="2"><a href="#openstack">OpenStack</a></li><li data-level="2"><a href="#opennebula">OpenNebula</a></li><li data-level="2"><a href="#ovirt">oVirt</a></li><li data-level="1"><a href="#troubleshooting-and-known-issues">Troubleshooting and known issues</a></li></ul></div>
+</aside>
+<article class="doc">
+<h1 class="page">Getting started with virtualization</h1>
+<aside class="toc embedded"><div class="toc-menu"><h3>Contents</h3><ul><li data-level="1"><a href="#enabling-hardware-virtualization-support">Enabling hardware virtualization support</a></li><li data-level="2"><a href="#system-requirements">System requirements</a></li><li data-level="1"><a href="#installing-virtualization-software">Installing virtualization software</a></li><li data-level="2"><a href="#networking-support">Networking Support</a></li><li data-level="1"><a href="#creating-virtual-machines">Creating virtual machines</a></li><li data-level="2"><a href="#creating-a-guest-with-virt-install">Creating a guest with virt-install</a></li><li data-level="2"><a href="#creating-a-guest-with-virt-manager">Creating a guest with virt-manager</a></li><li data-level="1"><a href="#ref_managing-virtual-machines">Managing virtual machines</a></li><li data-level="2"><a href="#managing-guests-with-virt-manager">Managing guests with virt-manager</a></li><li data-level="2"><a href="#managing-guests-with-virsh">Managing guests with virsh</a></li><li data-level="2"><a href="#remote-management">Remote management</a></li><li data-level="1"><a href="#other-virtualization-options">Other virtualization options</a></li><li data-level="2"><a href="#qemukvm-without-libvirt">QEMU/KVM without libvirt</a></li><li data-level="2"><a href="#xen">Xen</a></li><li data-level="2"><a href="#openstack">OpenStack</a></li><li data-level="2"><a href="#opennebula">OpenNebula</a></li><li data-level="2"><a href="#ovirt">oVirt</a></li><li data-level="1"><a href="#troubleshooting-and-known-issues">Troubleshooting and known issues</a></li></ul></div></aside><div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Fedora uses the libvirt family of tools as its virtualization solution.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="enabling-hardware-virtualization-support"><a class="anchor" href="#enabling-hardware-virtualization-support"></a>Enabling hardware virtualization support</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>This section covers setting up <code>libvirt</code> on your system. After setting up <code>libvirt</code>, you can create virtualized guest operating systems, also known as virtual machines.</p>
+</div>
+<div class="sect2">
+<h3 id="system-requirements"><a class="anchor" href="#system-requirements"></a>System requirements</h3>
+<div class="paragraph">
+<p>To run virtualization on Fedora, you need:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>At least 600MB of hard disk storage per guest. A minimal command-line
+ Fedora system requires 600MB of storage. Standard Fedora desktop guests
+ require at least 3GB of space.</p>
+</li>
+<li>
+<p>At least 256MB of RAM per guest, plus 256MB for the base operating 
+system. At least 756MB is recommended for each guest of a modern 
+operating system. A good way to estimate this is to think about how much
+ memory is required for the operating system normally, and allocate that
+ amount to the virtualized guest.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>KVM requires a CPU with virtualization extensions, found on most 
+consumer CPUs. These extensions are called Intel VT or AMD-V. To check 
+whether you have CPU support, run the following command:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>$ egrep '^flags.*(vmx|svm)' /proc/cpuinfo</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>If this command results in nothing printed, your system does not 
+support the relevant virtualization extensions. You can still use 
+QEMU/KVM, but the emulator will fall back to software virtualization, 
+which is much slower.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="installing-virtualization-software"><a class="anchor" href="#installing-virtualization-software"></a>Installing virtualization software</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>When installing Fedora, you can install the virtualization packages by
+selecting <strong>Virtualization</strong> in the <strong>Base Group</strong> in the installer. See <a href="https://docs.fedoraproject.org/en-US/fedora/latest/install-guide/install/Installing_Using_Anaconda/" class="xref page">Installing Using Anaconda</a>.</p>
+</div>
+<div class="paragraph">
+<p>For existing Fedora installations, you can install the virtualization
+ tools via the command line using the Virtualization Package Group. To 
+view the packages, run:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">$</span><span class="bash"> dnf groupinfo virtualization</span>
+
+Group: Virtualization
+ Description: These packages provide a graphical virtualization environment.
+ Mandatory Packages:
+   virt-install
+ Default Packages:
+   libvirt-daemon-config-network
+   libvirt-daemon-kvm
+   qemu-kvm
+   virt-manager
+   virt-viewer
+ Optional Packages:
+   libguestfs-tools
+   python3-libguestfs
+   virt-top</code></pre>
+</div>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Run the following command to install the mandatory and default packages in the virtualization group:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo dnf install @virtualization</span></code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Alternatively, to install the mandatory, default, and optional packages, run:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo dnf group install --with-optional virtualization</span></code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>After the packages install, start the <code>libvirtd</code> service:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo systemctl start libvirtd</span></code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To start the service on boot, run:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo systemctl <span class="hljs-built_in">enable</span> libvirtd</span></code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>To verify that the KVM kernel modules are properly loaded:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">$</span><span class="bash"> lsmod | grep kvm</span>
+kvm_amd               114688  0
+kvm                   831488  1 kvm_amd</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>If this command lists <code>kvm_intel</code> or <code>kvm_amd</code>, KVM is properly configured.</p>
+</div>
+</li>
+</ol>
+</div>
+<div class="sect2">
+<h3 id="networking-support"><a class="anchor" href="#networking-support"></a>Networking Support</h3>
+<div class="paragraph">
+<p>By default, libvirt will create a private network for your guests on 
+the host machine. This private network will use a 192.168.x.x subnet and
+ not be reachable directly from the network the host machine is on. 
+However, virtual guests can use the host machine as a gateway and can 
+connect out via it. If you need to provide services on your guests that 
+are reachable via other machines on your host network you can use 
+iptables DNAT rules to forward in specific ports, or you can set up a 
+bridged environment.</p>
+</div>
+<div class="paragraph">
+<p>See the <a href="https://wiki.libvirt.org/page/Networking">libvirt networking setup page</a> for more information on how to setup a bridged network.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="creating-virtual-machines"><a class="anchor" href="#creating-virtual-machines"></a>Creating virtual machines</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The installation of Fedora guests using Anaconda is supported. The installation can be started on the command-line using the <code>virt-install</code> program or in the user interface program <code>virt-manager</code>.</p>
+</div>
+<div class="sect2">
+<h3 id="creating-a-guest-with-virt-install"><a class="anchor" href="#creating-a-guest-with-virt-install"></a>Creating a guest with virt-install</h3>
+<div class="paragraph">
+<p><code>virt-install</code> is a command-line based tool for creating virtualized guests. Execute <code>virt-install --help</code> for command line help, or you can find the manual page at <code>man 1 virt-install</code>.</p>
+</div>
+<div class="paragraph">
+<p>To use the virt-install command, you should first download an ISO of 
+the Fedora version you wish to install.  You can find the latest Fedora 
+images at <a href="https://getfedora.org/" class="bare">https://getfedora.org</a>.
+  This ISO is only needed during Fedora installation, and can be deleted
+ to free up storage space afterwards if desired.  More information about
+ Fedora installation can be found in the <a href="https://docs.fedoraproject.org/en-US/fedora/latest/install-guide/" class="xref page">Installation Guide</a>. In this example we’ll use Fedora Workstation.</p>
+</div>
+<div class="sect3">
+<h4 id="_planning_vm_resources"><a class="anchor" href="#_planning_vm_resources"></a>Planning VM Resources</h4>
+<div class="paragraph">
+<p>Adjust the ram, vcpus, and disk size parameters according to the resources you have available.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Storage: An easy way to check your disk size from a bash shell is using the <code>df(1)`</code> utility from the shell:</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> df -h</span></code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Memory: You can check your available memory from the shell using free(1):</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> free -m</span></code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>VCPU: You can check your processor information using <code>lscpu(1)</code>:</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> lscpu</span></code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>When allocating resources to your VM, keep in mind the minimum system
+ requirements for the version of Fedora you are installing as well as 
+your use case requirements. For Fedora 36, you can find this in the <a href="https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/welcome/Hardware_Overview/" class="xref page">Release Notes</a>.</p>
+</div>
+<div class="sect4">
+<h5 id="_create_storage_for_the_vm"><a class="anchor" href="#_create_storage_for_the_vm"></a>Create Storage for the VM</h5>
+<div class="paragraph">
+<p>The libvirt default storage pool is located at <code>`/var/lib/libvirt/images</code>
+ - which is the parent file path we use in this example.  For 
+individuals who are lacking enough storage in that path, you can simply 
+mount a new disk or partition to that directory path (from the BASH 
+shell, type <code>man 1 mount</code>) or select a new path. In the example <code>virt-install</code>
+ command below, the disk did not exist prior to running virt-install.  
+When the specified disk is not pre-existing, you must specify the size 
+so virt-install can create a disk for you.  If your disk already exists,
+ you can safely remove the <code>,size=20</code> parameter from the disk argument.</p>
+</div>
+<div class="paragraph">
+<p>You have several disk storage options for your VM.  While it’s 
+outside the scope of this article to discuss these in detail, the 
+following are a few common options.  These examples use 20G as the upper
+ limit for disk size, but you can adjust this size to fit your needs.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tbody><tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>Again, you do not need to manually allocate storage using the example
+ options shown below if you specify the size parameter in the 
+virt-install example shown below.</p>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="sect5">
+<h6 id="_raw_file_non_sparse"><a class="anchor" href="#_raw_file_non_sparse"></a>Raw File (Non-Sparse)</h6>
+<div class="paragraph">
+<p>To create a fully allocated (non-sparse) raw file:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo dd <span class="hljs-keyword">if</span>=/dev/zero of=/var/lib/libvirt/images/guest.img bs=1M count=20480</span></code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>you can also use fallocate(1):</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo fallocate -l 20480M /var/lib/libvirt/images/guest.img</span></code></pre>
+</div>
+</div>
+</div>
+<div class="sect5">
+<h6 id="_raw_file_sparse"><a class="anchor" href="#_raw_file_sparse"></a>Raw File (Sparse)</h6>
+<div class="paragraph">
+<p>To create a dynamically allocated (sparse) raw file:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo rm -f /var/lib/libvirt/images/guest.img</span>
+<span class="hljs-meta">#</span><span class="bash"> sudo truncate --size=20480M /var/lib/libvirt/images/guest.img</span></code></pre>
+</div>
+</div>
+</div>
+<div class="sect5">
+<h6 id="_qcow2"><a class="anchor" href="#_qcow2"></a>QCOW2</h6>
+<div class="paragraph">
+<p>To create a new qcow2-formatted disk separately, you can use qemu-img (the example below specifies a disk size of 20G):</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo qemu-img create -f qcow2 /var/lib/libvirt/images/guest.qcow2 20480</span></code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>More information about libvirt storage options can be found at <a href="https://libvirt.org/storage.html" class="bare">https://libvirt.org/storage.html</a>.</p>
+</div>
+<div class="paragraph">
+<p>Finally, run the virt-install command using the following format (adjusting parameters as needed):</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo virt-install --name Fedora36 \</span>
+--description 'Fedora 36 Workstation' \
+--ram 4096 \
+--vcpus 2 \
+--disk path=/var/lib/libvirt/images/Fedora-Workstation-36/Fedora-Workstation-36-20180518.0.x86_64.qcow2,size=20 \
+--os-type linux \
+--os-variant fedora36 \
+--network bridge=virbr0 \
+--graphics vnc,listen=127.0.0.1,port=5901 \
+--cdrom /var/lib/libvirt/images/Fedora-Workstation-36/Fedora-Workstation-Live-x86-64-36-1.1.iso \
+--noautoconsole</code></pre>
+</div>
+</div>
+<div class="admonitionblock note">
+<table>
+<tbody><tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>Note:  For the graphics parameter, we’re setting the vnc listener to 
+localhost because it’s more secure to tunnel your VNC connection through
+ SSH so that you don’t expose VNC to everyone with access to the 
+network.</p>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="paragraph">
+<p><code>virt-install</code> can use kickstart files, for example, <code>virt-install -x ks=kickstart-file-name.ks</code>.</p>
+</div>
+<div class="paragraph">
+<p>If graphics were enabled, a VNC window will open and present the 
+graphical installer. If graphics were not enabled, a text installer will
+ appear. Proceed with the Fedora installation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="creating-a-guest-with-virt-manager"><a class="anchor" href="#creating-a-guest-with-virt-manager"></a>Creating a guest with virt-manager</h3>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Start Virtual Machine Manager by navigating to <span class="menuseq"><b class="menu">Applications</b>&nbsp;<i class="fa fa-angle-right caret"></i> <b class="menuitem">System Tools</b></span>, or by running the following command:</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"><span class="hljs-meta">#</span><span class="bash"> sudo virt-manager</span></code></pre>
+</div>
+</div>
+</li>
+<li>
+<p>Open a connection to a hypervisor by navigating to <span class="menuseq"><b class="menu">File</b>&nbsp;<i class="fa fa-angle-right caret"></i> <b class="menuitem">Add connection</b></span>.</p>
+</li>
+<li>
+<p>Choose <strong>qemu</strong> for KVM, or <strong>Xen</strong> for Xen.</p>
+</li>
+<li>
+<p>Choose <strong>local</strong> or select a method to connect to a remote hypervisor.</p>
+</li>
+<li>
+<p>After a connection is opened, click the new icon next to the hypervisor, or right-click on the active hypervisor and select <strong>New</strong>.</p>
+</li>
+<li>
+<p>Configure the virtual machine following the steps in the <strong>New VM</strong> wizard.</p>
+</li>
+<li>
+<p>Click <strong>Finish</strong> at the end of the wizard to provision 
+the guest operating system. After a few moments a VNC window will 
+appear. Proceed with the Fedora installation.</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="ref_managing-virtual-machines"><a class="anchor" href="#ref_managing-virtual-machines"></a>Managing virtual machines</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>When the installation of the guest operating system is complete, it can be managed using the <code>virt-manager</code> program or via command line using <code>virsh</code>.</p>
+</div>
+<div class="sect2">
+<h3 id="managing-guests-with-virt-manager"><a class="anchor" href="#managing-guests-with-virt-manager"></a>Managing guests with virt-manager</h3>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Start the Virtual Machine Manager by navigating to menu:[Applications]System Tools, or run:</p>
+<div class="listingblock">
+<div class="content">
+<pre># virt-manager</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>If you are not root, you will be prompted to enter the root password.</p>
+</div>
+</li>
+<li>
+<p>Choose the host you wish to manage and click <strong>Connect</strong> in the <strong>Open Connection</strong> dialog window.</p>
+</li>
+<li>
+<p>The list of virtual machines is displayed in the main window. Guests 
+that are running will display a "&gt;" icon. Guests that are not running
+ will be greyed out.</p>
+</li>
+<li>
+<p>To manage a particular guest, double click on it, or right click and select <strong>Open</strong>.</p>
+</li>
+<li>
+<p>A new window for the guest will open that will allow you to use its 
+console, see information about its virtual hardware and start, stop, and
+ pause it.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>For further information about <code>virt-manager</code>, see <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-creating_guests_with_virt_manager">RedHat virt-manager guide</a>.</p>
+</div>
+<div class="paragraph">
+<p>Bugs in the <code>virt-manager</code> tool should be reported in <a href="https://bugzilla.redhat.com/">Bugzilla</a> against the <code>virt-manager</code>
+component.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="managing-guests-with-virsh"><a class="anchor" href="#managing-guests-with-virsh"></a>Managing guests with virsh</h3>
+<div class="paragraph">
+<p>The <code>virsh</code> command-line utility allows you to manage virtual machines on the command line. The <code>virsh</code> utility is built around the libvirt management API:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><code>virsh</code> has a stable set of commands whose syntax and semantics are preserved across updates to the underlying virtualization platform.</p>
+</li>
+<li>
+<p><code>virsh</code> can be used as an unprivileged user for read-only operations (e.g. listing domains, listing domain statistics).</p>
+</li>
+<li>
+<p><code>virsh</code> can manage domains running under Xen, QEMU/KVM, ESX, or other back-ends with no perceptible difference to the user.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>To start a virtual machine:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh create &lt;name of virtual machine&gt;</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To list the virtual machines currently running:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh list</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To list all virtual machines, running or not:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh list --all</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To gracefully power off a guest:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh shutdown &lt;virtual machine (name | id | uuid)&gt;</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To non gracefully power off a guest:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh destroy &lt;virtual machine (name | id | uuid)&gt;</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To save a snapshot of the machine to a file:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh save &lt;virtual machine (name | id | uuid)&gt; &lt;filename&gt;</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To restore a previously saved snapshot:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh restore &lt;filename&gt;</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To export the configuration file of a virtual machine:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh dumpxml &lt;virtual machine (name | id | uuid)</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>For a complete list of commands available for use with <code>virsh</code>:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre># virsh help</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Or consult the manual page: <code>man virsh</code>.</p>
+</div>
+<div class="paragraph">
+<p>Bugs in the <code>virsh</code> tool should be reported in <a href="https://bugzilla.redhat.com/">Bugzilla</a> against the <strong>libvirt</strong> component.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="remote-management"><a class="anchor" href="#remote-management"></a>Remote management</h3>
+<div class="paragraph">
+<p>The following remote management options are available:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>If using non-root users via SSH, see the setup instructions in <a href="https://wiki.libvirt.org/page/SSHSetup" class="bare">https://wiki.libvirt.org/page/SSHSetup</a></p>
+</li>
+<li>
+<p>If using root for access via SSH, then create SSH keys for root, and use <code>ssh-agent</code> and <code>ssh-add</code> before launching <code>virt-manager</code>.</p>
+</li>
+<li>
+<p>To use TLS, set up a local certificate authority and issue x509 certs
+ to all servers and clients. For information on configuring this option,
+ see <a href="https://wiki.libvirt.org/page/TLSSetup" class="bare">https://wiki.libvirt.org/page/TLSSetup</a>.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="other-virtualization-options"><a class="anchor" href="#other-virtualization-options"></a>Other virtualization options</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="qemukvm-without-libvirt"><a class="anchor" href="#qemukvm-without-libvirt"></a>QEMU/KVM without libvirt</h3>
+<div class="paragraph">
+<p>QEMU/KVM can be invoked directly without libvirt, however you cannot to use tools such as <code>virt-manager</code>, <code>virt-install</code>, or <code>virsh</code>. Plain QEMU (without KVM) can also virtualize other processor architectures like ARM or PowerPC.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="xen"><a class="anchor" href="#xen"></a>Xen</h3>
+<div class="paragraph">
+<p>Fedora can run as a Xen guest operating system and also be used as a 
+Xen host (with the latter being true from Fedora 16; for using an 
+earlier version of Fedora as a Xen host, check out the experimental repo
+ available at <a href="https://myoung.fedorapeople.org/dom0" class="bare">https://myoung.fedorapeople.org/dom0</a>). For a guide on how to install and setup a Fedora Xen host, see <a href="https://wiki.xen.org/wiki/Fedora_Host_Installation">Fedora Host Installation</a> page on the Xen Project wiki.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="openstack"><a class="anchor" href="#openstack"></a>OpenStack</h3>
+<div class="paragraph">
+<p>OpenStack consists of a number of services for running infrastructure
+ as a service (IaaS) clouds. They are the Object Store (Swift), Compute 
+(Nova), and Image (Glance) services.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="opennebula"><a class="anchor" href="#opennebula"></a>OpenNebula</h3>
+<div class="paragraph">
+<p>OpenNebula is an open source toolkit for data center virtualization.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="ovirt"><a class="anchor" href="#ovirt"></a>oVirt</h3>
+<div class="paragraph">
+<p>The <a href="https://www.ovirt.org/">oVirt project</a> is an open virtualization
+project providing a end-to-end, server virtualization
+management system with advanced capabilities for hosts and guests,
+including high availability, live migration, storage management, system
+scheduler, and more.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="troubleshooting-and-known-issues"><a class="anchor" href="#troubleshooting-and-known-issues"></a>Troubleshooting and known issues</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>For a list of known unresolved issues, as well as troubleshooting tips,
+see <a href="https://fedoraproject.org/wiki/How_to_debug_Virtualization_problems">How to debug virtualization problems</a></p>
+</div>
+</div>
+</div>
+</article>
+
+  </div>
+<div id="contributing">
+    <p class="contribute">Want to help? <a href="https://docs.fedoraproject.org/en-US/fedora-docs/contributing/">Learn how to contribute to Fedora Docs.</a></p>
+</div></main>
+</div>
+<footer class="footer">
+  <p>All Fedora Documentation content available under <a href="http://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> or, when specifically noted, under another <a href="https://fedoraproject.org/wiki/Licensing:Main">accepted</a> free and open content license.</p>
+  <p>Last build: 2022-09-05 12:50:15 UTC  | Last content update: 2020-11-28 </p>
+  <p><a href="https://docs.fedoraproject.org/en-US/project/code-of-conduct/">Code of Conduct</a></p>
+</footer>
+<script src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/site.js"></script>
+<script async="" src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/highlight.js"></script>
+<script async="" src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/datatables.js"></script>
+<script src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/lunr.js"></script>
+<script src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/search-ui.js" id="search-ui-script" data-site-root-path="../.." data-snippet-length="100" data-stylesheet="../../_/css/search.css"></script>
+<script async="" src="Getting%20started%20with%20virtualization%20Fedora%20Docs_files/search-index.js"></script>
+  
+
+</body></html>
