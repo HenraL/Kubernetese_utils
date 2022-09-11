@@ -1,6 +1,6 @@
 #!/bin/bash
 PACKAGE_MANAGER=dnf
-SYSTEM_NAME=uname -n
+SYSTEM_NAME=$(uname -n)
 echo "Removing previous versions of docker"
 sudo $PACKAGE_MANAGER remove docker \
                   docker-client \
